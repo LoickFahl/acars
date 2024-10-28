@@ -1,0 +1,94 @@
+SOURCE: AIR
+RX_ID: 0, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 9, Msg No: D02A
+Flight ID: QY0417 REG: D-ALER
+
+
+Message content:-
+#DFBSTABLE CRUISE REPORT
+
+APM     D-ALER          QYXXXXXXDEPXDESX180624215120,757-200,
+PW2037,.800,.800,,253.5,253.5,,-28.00,-28.00,,38000,38000,,
+163760,163760,,2912,2880,,,1.135,1.143,,,0,526,526,,0,0,,0
+-------------------------------------------------------[2024-06-18 21:51:59.181]
+
+SOURCE: AIR
+RX_ID: 1, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 1, Msg No: F03A
+Flight ID: QY1685 REG: OE-LNC
+
+
+Message content:-
+#M1BPOSN44330E005135,,215225,254,OMASI,220257,KINNI,M25,23154,224,7D27
+-------------------------------------------------------[2024-06-18 21:52:27.445]
+
+SOURCE: AIR
+RX_ID: 2, Freq: 131.825MHz
+Mode: 2 NACKLabel: B9 Block ID: 2, Msg No: L03A
+Flight ID: QY1685 REG: OE-LNC
+
+
+Message content:-
+/EDDP.TI2/024EDDPAB993
+-------------------------------------------------------[2024-06-18 21:57:23.566]
+
+SOURCE: AIR
+RX_ID: 3, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 2, Msg No: F13A
+Flight ID: QY0417 REG: D-ALER
+
+
+Message content:-
+#M1BPOSN44528E003387,,215728,380,LTP,220711,GIPNO,M56,22270,216,7955D0D
+-------------------------------------------------------[2024-06-18 21:57:30.552]
+
+SOURCE: AIR
+RX_ID: 4, Freq: 131.825MHz
+Mode: 2 NACKLabel: B9 Block ID: 5, Msg No: L06A
+Flight ID: QY0417 REG: D-ALER
+
+
+Message content:-
+/EBBR.TI2/024EBBRA4AC8
+-------------------------------------------------------[2024-06-18 22:02:30.783]
+
+SOURCE: AIR
+RX_ID: 5, Freq: 131.825MHz
+Mode: 2 NACKLabel: B6 Block ID: 1, Msg No: F23A
+Flight ID: BA0083 REG: G-VIIK
+
+
+Message content:-
+/ALGCAYA.ADS.G-VIIK0301F7F9
+-------------------------------------------------------[2024-06-18 23:10:02.665]
+
+SOURCE: AIR
+RX_ID: 6, Freq: 131.825MHz
+Mode: 2 NACKLabel: B6 Block ID: 2, Msg No: F24A
+Flight ID: BA0083 REG: G-VIIK
+
+
+Message content:-
+/QUKAXBA.ADS.G-VIIK071F6910165AC9858C3A9DC1A3
+-------------------------------------------------------[2024-06-18 23:13:04.726]
+
+SOURCE: AIR
+RX_ID: 7, Freq: 131.825MHz
+Mode: 2 NACKLabel: 15 Block ID: 3, Msg No: M94A
+Flight ID: BA0083 REG: G-VIIK
+
+
+Message content:-
+FST01EGLLDNAAN440967E0039631390 382 111 M58C 7423016916245011600003452313
+-------------------------------------------------------[2024-06-18 23:13:41.990]
+
+SOURCE: AIR
+RX_ID: 8, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 5, Msg No: F25A
+Flight ID: BA0083 REG: G-VIIK
+
+
+Message content:-
+#M1BPRG/TS231545,180624/DTDNAA,22 ,272,274507,/PR4755,321,390,837,,187,57,,,60,P30,P0,,,,,,,M378755
+-------------------------------------------------------[2024-06-18 23:15:47.543]
+

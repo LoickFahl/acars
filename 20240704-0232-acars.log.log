@@ -1,0 +1,2704 @@
+SOURCE: AIR
+RX_ID: 621, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 9, Msg No: O26C
+Flight ID: AF0703 REG: F-GSQC
+
+
+Message content:-
+#10B
+ 62323 220372
+ 32222 190331
+ 52323 230361
+ 72423  80011
+20131) 120001
+-------------------------------------------------------[2024-07-04 02:32:03.627]
+
+SOURCE: AIR
+RX_ID: 622, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 4, Msg No: D53A
+Flight ID: NW0240 REG: N827NW
+
+
+Message content:-
+#DFB239122002001010098118
+R39/A33039,1,1
+239N827NW240 070424030841808 4442   552369-22-51312 73AB0510 39880
+ 263 540-000117140030PSZKBOSLGAV
+-------------------------------------------------------[2024-07-04 03:08:57.489]
+
+SOURCE: AIR
+RX_ID: 623, Freq: 131.825MHz
+Mode: 2 NACKLabel: B9 Block ID: 6, Msg No: M66A
+Flight ID: NW0240 REG: N827NW
+
+
+Message content:-
+/LGAV.TI2/040LGAVA6CE1
+-------------------------------------------------------[2024-07-04 03:20:40.584]
+
+SOURCE: AIR
+RX_ID: 624, Freq: 131.850MHz
+Mode: 2 NACKLabel: H1 Block ID: 1, Msg No: F08A
+Flight ID: QY8030 REG: OE-LND
+
+
+Message content:-
+#M1BPOSN43582E005168,,032452,350,NILDU,034021,BISBA,M46,31465,162,7804335
+-------------------------------------------------------[2024-07-04 03:24:54.722]
+
+SOURCE: AIR
+RX_ID: 625, Freq: 131.850MHz
+Mode: 2 NACKLabel: B9 Block ID: 2, Msg No: L03A
+Flight ID: QY8030 REG: OE-LND
+
+
+Message content:-
+/LEBL.TI2/024LEBLA93E5
+-------------------------------------------------------[2024-07-04 03:26:01.067]
+
+SOURCE: AIR
+RX_ID: 626, Freq: 131.725MHz
+Mode: X NACKLabel: B9 Block ID: 6, Msg No: L48A
+Flight ID: AF0995 REG: F-GZNK
+
+
+Message content:-
+/LFPG.TI2/046LFPGAD3A5
+-------------------------------------------------------[2024-07-04 03:27:30.845]
+
+SOURCE: AIR
+RX_ID: 627, Freq: 131.825MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S56A
+Flight ID: NW0182 REG: N811NW
+
+
+Message content:-
+0LS040409V
+-------------------------------------------------------[2024-07-04 04:04:57.500]
+
+SOURCE: AIR
+RX_ID: 628, Freq: 131.725MHz
+Mode: G NACKLabel: B9 Block ID: 0, Msg No: L60A
+Flight ID: AF0931 REG: F-GSPO
+
+
+Message content:-
+/LFPG.TI2/046LFPGAD3A5
+-------------------------------------------------------[2024-07-04 04:15:24.445]
+
+SOURCE: AIR
+RX_ID: 629, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 4, Msg No: D35A
+Flight ID: AF0931 REG: F-GSPO
+
+
+Message content:-
+#DFBOP FUELPROBES
+ 89 68 73 52 54  8 37  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+ 91 70 76 55 55 12 41  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+21L
+-------------------------------------------------------[2024-07-04 04:16:46.148]
+
+SOURCE: AIR
+RX_ID: 630, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 5, Msg No: D35B
+Flight ID: AF0931 REG: F-GSPO
+
+
+Message content:-
+#DFB22L23L24L25L26L27L28L21R22R23R24R25R26R27R28R
+  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )
+-------------------------------------------------------[2024-07-04 04:16:49.841]
+
+SOURCE: AIR
+RX_ID: 631, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 6, Msg No: D36A
+Flight ID: AF0931 REG: F-GSPO
+
+
+Message content:-
+#DFBOP DATAFUEL
+0416 38003  2.26  0.3
+ 6200       0  6700 12900
+ 0.800 0.814  0.801
+ 38880         38600
+TRUE   TRUE   
+   3
+ 402 779
+-------------------------------------------------------[2024-07-04 04:16:55.586]
+
+SOURCE: AIR
+RX_ID: 632, Freq: 131.725MHz
+Mode: G NACKLabel: 2F Block ID: 7, Msg No: M38A
+Flight ID: AF0931 REG: F-GSPO
+
+
+Message content:-
+0428+4473+518/38116
+DGAA/LFPG/37995/ -01/ -51/0.84/199329/187409/30.0/RUS-13 /ETR-12 / -51/   70
+-------------------------------------------------------[2024-07-04 04:28:38.858]
+
+SOURCE: AIR
+RX_ID: 633, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 8, Msg No: D37A
+Flight ID: AF0931 REG: F-GSPO
+
+
+Message content:-
+#DFBOP FUELPROBES
+ 84 63 67 46 47  2 31  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+ 86 66 70 50 51  7 35  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+21L
+-------------------------------------------------------[2024-07-04 04:31:45.229]
+
+SOURCE: AIR
+RX_ID: 634, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 9, Msg No: D37B
+Flight ID: AF0931 REG: F-GSPO
+
+
+Message content:-
+#DFB22L23L24L25L26L27L28L21R22R23R24R25R26R27R28R
+  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )
+-------------------------------------------------------[2024-07-04 04:31:48.921]
+
+SOURCE: AIR
+RX_ID: 635, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 0, Msg No: D38A
+Flight ID: AF0931 REG: F-GSPO
+
+
+Message content:-
+#DFBOP DATAFUEL
+0431 38002  2.04  0.3
+ 5400       0  5900 11300
+ 0.801 0.814  0.802
+ 40600         40320
+TRUE   TRUE   
+   3
+ 402 779
+-------------------------------------------------------[2024-07-04 04:31:53.822]
+
+SOURCE: AIR
+RX_ID: 636, Freq: 131.725MHz
+Mode: G NACKLabel: B9 Block ID: 6, Msg No: L02A
+Flight ID: AF7343 REG: F-GMZE
+
+
+Message content:-
+/LFPG.TI2/064LFPGA3806
+-------------------------------------------------------[2024-07-04 04:34:29.908]
+
+SOURCE: AIR
+RX_ID: 637, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 6, Msg No: D06D
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB0000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  161OFFOFFOFFAUTOAUTOCLOSEDON ON 
+  1195166316210257  180  143
+ 8528 8519 8522 9028 8988 8916 8450
+10588 9627 9000 894
+-------------------------------------------------------[2024-07-04 04:44:25.442]
+
+SOURCE: AIR
+RX_ID: 638, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 9, Msg No: D06G
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB0000000000000000000000000000000000000000
+
+-------------------------------------------------------[2024-07-04 04:44:36.304]
+
+SOURCE: AIR
+RX_ID: 639, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 0, Msg No: D07A
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFBB31A9H-CEN  1426A9 EDDRLEPAIC04072404102215081939602736602890BCG3B-L200-0003  4443 -921163314730268  125   85 138880041022  4539  125   850268022010 8256 8254 8256 825410454 851212474092 9020  620  660 5492
+-------------------------------------------------------[2024-07-04 04:44:47.385]
+
+SOURCE: AIR
+RX_ID: 640, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 1, Msg No: D07B
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB 5597 12336823 281 149 -013 2028 2587023A 8181 8219 8613 9636 129 5655 60073910 8256 8254 8256 825410438 857812474074 9020  636  674 5453 5559 12336823 271 149 -019 1984 2778027A 8203 8245  000 9601 128 570
+-------------------------------------------------------[2024-07-04 04:44:50.859]
+
+SOURCE: AIR
+RX_ID: 641, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 2, Msg No: D07C
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB6 629737  9186   75  -0503830220041238PRI  9012 5500   75  -0511216227620385  97 263  39  02  09 464 453 8393 8395 8391 839510460 8528 785 79181 5388 807 80710503799 8030  597  637 5477 5557  7586827 248 14
+-------------------------------------------------------[2024-07-04 04:44:54.955]
+
+SOURCE: AIR
+RX_ID: 642, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 3, Msg No: D07D
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB9 -013-1300 1585 1575 2378 2375023010331005102006 8327 9024 8438 8816 9675  833528 00 8609 8385 8351 8483 5292 5388 -12 8501 8385 8747 8442 597 0  0 1491000 017 022 006 016 010 007691041238PRI  9012 5500   
+-------------------------------------------------------[2024-07-04 04:44:58.430]
+
+SOURCE: AIR
+RX_ID: 643, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 4, Msg No: D07E
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB75  -0511216227620385  97 263  39  02  09 464 453 8394 8395 8391 839510436 8597 790 77180 5419 808 80810503782 8020  606  644 5442 5524  7586827 240 149 -019-1300 1538 1531 2548 2542027010196014352008 8351 
+-------------------------------------------------------[2024-07-04 04:45:03.147]
+
+SOURCE: AIR
+RX_ID: 644, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 5, Msg No: D07F
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB9025 8463  000 9645  833507 00 8611 8524 8473 8422 5346 5422 -00 8698 8534 8826 8328 619 0  0 1501000 015 021 007 016 028 010692041545 14573  115  -500554022010 8896 8905 8894 890210642 8927 8463678 7190  7
+-------------------------------------------------------[2024-07-04 04:45:06.625]
+
+SOURCE: AIR
+RX_ID: 645, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 6, Msg No: D07G
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB10  759 5752 5861 11757141 209 614 -013 1472 2409023A 8829 8880 8985 9670 123 5262 65766410 8895 8905 8894 890210618 9000 8463657 7180  719  765 5717 5828 11757140 198 614 -019 1467 2581027A 8852 8902  000 
+-------------------------------------------------------[2024-07-04 04:45:10.719]
+
+SOURCE: AIR
+RX_ID: 646, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 7, Msg No: D07H
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB9638 122 5304 660670 19156   70 -12306060220041753PRI 19005 5500   70 -12010282339810603  49 -09 -20  02  09 452 450 9025 9027 9022 902710632 8952 870 77182 4893 785 785 7043328 6200  684  730 5748 5832  70
+-------------------------------------------------------[2024-07-04 04:45:14.412]
+
+SOURCE: AIR
+RX_ID: 647, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 8, Msg No: D07I
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB07192 313 633 -019-1300  025  000 2253 2252023005239000 68007 8957 9534 9084 9156 9700  803091 00 8987 8846 8784 8989 4798 4884 -12 8948 8913 9163 8958 625 0  0 6321000 009 009 004 010 001 009618041753PRI 1
+-------------------------------------------------------[2024-07-04 04:45:18.508]
+
+SOURCE: AIR
+RX_ID: 648, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 9, Msg No: D07J
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB9005 5500   70 -12010282339810603  49 -09 -20  02  09 452 450 9024 9027 9022 902710606 9035 875 76180 4933 787 787 7043313 6200  690  734 5725 5811  7007192 303 632 -025-1300  073  000 2401 2400027011214015
+-------------------------------------------------------[2024-07-04 04:45:22.384]
+
+SOURCE: AIR
+RX_ID: 649, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 0, Msg No: D07K
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB 10010 8979 9533 9108  000 9673  793069 00 9055 9011 8933 8944 4817 4932 -01 9149 9029 9322 8827 635 0  0 6311000 017 024 010 015 029 0126210666467576666  50 -070022011 9022 9025 9022 902510631 8945  93 -03
+-------------------------------------------------------[2024-07-04 04:45:25.860]
+
+SOURCE: AIR
+RX_ID: 650, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 1, Msg No: D07L
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB0760 9638 78680018CE00000000003498500000100007F001000000080500000067801014000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+-------------------------------------------------------[2024-07-04 04:45:29.772]
+
+SOURCE: AIR
+RX_ID: 651, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 2, Msg No: D07M
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB00000000000000  50 -070022011 9028 9025 9022 902510606 9035 120 -020760 9638 33660018CE00000000003490500000200007F001000000080A0000006780101400001000000000000000000000000000000000000000000000000000000000000
+-------------------------------------------------------[2024-07-04 04:45:33.470]
+
+SOURCE: AIR
+RX_ID: 652, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 2, Msg No: D07M
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB00000000000000  50 -070022011 9028 9025 9022 902510606 9035 120 -020760 9638 33660018CE00000000003490500000200007F001000000080A0000006780101400001000000000000000000000000000000000000000000000000000000000000
+-------------------------------------------------------[2024-07-04 04:45:44.918]
+
+SOURCE: AIR
+RX_ID: 653, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 3, Msg No: D07N
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB000000000000000000000000000000000000000000000000000000000000000000000000000000000041938 22574   38 -1780646022010 9147 9148 9143 914510638 8998 6073111 5540  661  710 5765 5852  3837189 330 597 -019  027 20
+-------------------------------------------------------[2024-07-04 04:45:48.388]
+
+SOURCE: AIR
+RX_ID: 654, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 4, Msg No: D07O
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB61023A 9076 9254 9330 9736  48 4500 62358410 9145 9148 9143 914510610 9080 6073098 5540  667  713 5745 5834  3837192 320 594 -025  071 2238027A 9099 9278  000 9704  47 4537 632589
+-------------------------------------------------------[2024-07-04 04:45:52.300]
+
+SOURCE: AIR
+RX_ID: 655, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 5, Msg No: D08A
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFBA84A
+9   EN 040703451132 434
+6A9 7EDDRLEPAPOBSM25-H200-0003
+12749   532037
+04070407XXXX0407
+03450401XXXX0404
+POESXXTA
+100100XXXN/A
+EDDREDDRXXXXEDDR
+  13.8  13.8XXXX.X  99.0
+  13.8  13.8XXXX.X  80.
+-------------------------------------------------------[2024-07-04 04:45:58.445]
+
+SOURCE: AIR
+RX_ID: 656, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 6, Msg No: D08B
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB0
+ 4115 4115XXXXX 4115
+  4115.0  4115.0XXXXXX.X  4115.0
+   4   4XXXX   4
+ 2144 2144XXXXX 2144
+ 1042 1043XXXXX 1043
+0.1500.150X.XXX0.150
+ 17 16XXX 20
+  17 515XXXX 370
+14.413.9XX.X14.1
+  7.0100.0XXX
+-------------------------------------------------------[2024-07-04 04:46:02.540]
+
+SOURCE: AIR
+RX_ID: 657, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 7, Msg No: D08C
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB.X100.0
+ 20 85XXX 85
+ 591 591XXXX 590
+0.00.9X.X1.1
+262262XXX262
+ 55 55XXX 55
+  19.0  90.0XXXX.X  22.0
+ 90.0 90.0XXX.X 90.0
+ 55246XXX159
+ 14 57XXX 20
+  55  83XXXX  -(
+  17 744XXXX 744
+  0.0  6.8X
+-------------------------------------------------------[2024-07-04 04:46:06.016]
+
+SOURCE: AIR
+RX_ID: 658, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 8, Msg No: D08D
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFBXX.X  3.9
+  10.5  90.0XXXX.X  10.0
+0004300043XXXXX00044
+7484019800XXXXX19800
+141182C925XXXXX28018
+0000020000XXXXX20000
+0000000000XXXXX00000
+0000000000XXXXX00000
+0000000000XXXXX00000
+0000000000XXXXX
+-------------------------------------------------------[2024-07-04 04:46:09.709]
+
+SOURCE: AIR
+RX_ID: 659, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 9, Msg No: D08E
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+#DFB00000
+0000000000XXXXX00000
+0000000000XXXXX00000
+0000000000XXXXX00000
+0000000000XXXXX00000
+0000000000XXXXX00000
+22530  445XXXXX 6717
+00X0
+
+-------------------------------------------------------[2024-07-04 04:46:13.804]
+
+SOURCE: AIR
+RX_ID: 660, Freq: 131.725MHz
+Mode: E NACKLabel: B9 Block ID: 0, Msg No: L02A
+Flight ID: 6Y06A9 REG: 9H-CEN
+
+
+Message content:-
+/LEPA.TI2/024LEPAAC8BA
+-------------------------------------------------------[2024-07-04 04:54:25.512]
+
+SOURCE: AIR
+RX_ID: 661, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 7, Msg No: M36A
+Flight ID: GS0001 REG: DANGB
+
+
+Message content:-
+(2N43428E  4447317 55319-40(Z
+-------------------------------------------------------[2024-07-04 05:00:33.570]
+
+SOURCE: AIR
+RX_ID: 662, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 0, Msg No: D16A
+Flight ID: DL0028 REG: N838MH
+
+
+Message content:-
+#DFBENGINE BLEED REPORT
+
+AID:N1814  DA:04/07    GMT:05:06    FNO:3695      ISFC: 1340
+TAT: 172  SAT: -73   ALT: 18760   MACH:0680    FCNT:  666
+GW:310320  FLT:0028-1  MODE:DESC    SID:AK-67-223
+S/N L:70470
+-------------------------------------------------------[2024-07-04 05:07:05.949]
+
+SOURCE: AIR
+RX_ID: 663, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 0, Msg No: D16A
+Flight ID: DL0028 REG: N838MH
+
+
+Message content:-
+#DFBENGINE BLEED REPORT
+
+AID:N1814  DA:04/07    GMT:05:06    FNO:3695      ISFC: 1340
+TAT: 172  SAT: -73   ALT: 18760   MACH:0680    FCNT:  666
+GW:310320  FLT:0028-1  MODE:DESC    SID:AK-67-223
+S/N L:70470
+-------------------------------------------------------[2024-07-04 05:07:18.639]
+
+SOURCE: AIR
+RX_ID: 664, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 1, Msg No: D16B
+Flight ID: DL0028 REG: N838MH
+
+
+Message content:-
+#DFB4         DEPART:KJFK    DESTIN:LFMN
+S/N R:707000
+
+               ENG L     ENG R
+HPSOV          OPN       OPN
+PRV            OPN       OPN
+PRSOV          OPN       OPN
+FAV %            -097      007
+-------------------------------------------------------[2024-07-04 05:07:22.552]
+
+SOURCE: AIR
+RX_ID: 665, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 3, Msg No: D16D
+Flight ID: DL0028 REG: N838MH
+
+
+Message content:-
+#DFB38044    38222
+PACK HX TEMP    34181    35106
+PACK FLOW       11470    12113
+WING ANTI ICE  OFF
+LT  ISO VLV    CLS
+RT  ISO VLV    CLS
+CTR ISO VLV    OPN
+
+TRIGGER CODE   0000
+
+STATUS WORDS  DW1  DW
+-------------------------------------------------------[2024-07-04 05:07:29.502]
+
+SOURCE: AIR
+RX_ID: 666, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 4, Msg No: D16E
+Flight ID: DL0028 REG: N838MH
+
+
+Message content:-
+#DFB2  DW3  DW4  DW5  DW6  DW7  DW8  EICAS
+LEFT          0000 0001 0000 0000 0000 0000 1040 0000 0000
+RIGHT         0000 0001 0000 0000 0000 0000 1040 0000 0000
+
+-------------------------------------------------------[2024-07-04 05:07:33.597]
+
+SOURCE: AIR
+RX_ID: 667, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 4, Msg No: F78A
+Flight ID: TO754Y REG: F-HUYK
+
+
+Message content:-
+#M1BPRG/FNTVF754Y/DTN43131E004394,DAAE,26O,68,061710,29167A
+-------------------------------------------------------[2024-07-04 05:17:14.430]
+
+SOURCE: AIR
+RX_ID: 668, Freq: 131.825MHz
+Mode: 2 NACKLabel: 17 Block ID: 2, Msg No: M11A
+Flight ID: NW0206 REG: N822NW
+
+
+Message content:-
+030517 KDTW LIRF7
+/FN 0206
+ROBEX   05233900621-553080680024981
+-------------------------------------------------------[2024-07-04 05:23:18.321]
+
+SOURCE: AIR
+RX_ID: 669, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 7, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:11:01.706]
+
+SOURCE: AIR
+RX_ID: 670, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 7, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:11:14.799]
+
+SOURCE: AIR
+RX_ID: 671, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:11:21.754]
+
+SOURCE: AIR
+RX_ID: 672, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:11:29.755]
+
+SOURCE: AIR
+RX_ID: 673, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:11:39.777]
+
+SOURCE: AIR
+RX_ID: 674, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 9, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:11:52.064]
+
+SOURCE: AIR
+RX_ID: 675, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 1, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:12:04.573]
+
+SOURCE: AIR
+RX_ID: 676, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:12:15.215]
+
+SOURCE: AIR
+RX_ID: 677, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:12:27.285]
+
+SOURCE: AIR
+RX_ID: 678, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:12:34.270]
+
+SOURCE: AIR
+RX_ID: 679, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:12:45.314]
+
+SOURCE: AIR
+RX_ID: 680, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:12:58.222]
+
+SOURCE: AIR
+RX_ID: 681, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:13:04.586]
+
+SOURCE: AIR
+RX_ID: 682, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 5, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:13:16.252]
+
+SOURCE: AIR
+RX_ID: 683, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 9, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:14:11.731]
+
+SOURCE: AIR
+RX_ID: 684, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 9, Msg No: S17A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV060322V/
+-------------------------------------------------------[2024-07-04 06:14:34.699]
+
+SOURCE: AIR
+RX_ID: 685, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 9, Msg No: F96A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071E59981EE9C84D11859F44F5
+-------------------------------------------------------[2024-07-04 06:18:43.936]
+
+SOURCE: AIR
+RX_ID: 686, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 9, Msg No: F96A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071E59981EE9C84D11859F44F5
+-------------------------------------------------------[2024-07-04 06:18:56.404]
+
+SOURCE: AIR
+RX_ID: 687, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 2, Msg No: F98A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071E70901EA8C84CD2859F0D1EBB681DE4484D00CC1ED4901D9E884D000E7B18DBFFF46318
+-------------------------------------------------------[2024-07-04 06:19:48.630]
+
+SOURCE: AIR
+RX_ID: 688, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 2, Msg No: S37A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV061447V/
+-------------------------------------------------------[2024-07-04 06:20:21.835]
+
+SOURCE: AIR
+RX_ID: 689, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 4, Msg No: F99A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF0365071E82F01E78C84C93519F82A2
+-------------------------------------------------------[2024-07-04 06:20:40.673]
+
+SOURCE: AIR
+RX_ID: 690, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 4, Msg No: S39A
+Flight ID: GR0000 REG: DCLUB
+
+
+Message content:-
+0EV062013V/
+-------------------------------------------------------[2024-07-04 06:20:42.498]
+
+SOURCE: AIR
+RX_ID: 691, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 5, Msg No: F01A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071E87A01E6CC84CD3819FB9D7
+-------------------------------------------------------[2024-07-04 06:20:52.119]
+
+SOURCE: AIR
+RX_ID: 692, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 9, Msg No: D85A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#DFBPOSTF-WFFD316HKJKEBLG040724062139
+ 1651ER2013AARA2207
+PN43 22E  517906213933998-44316 60 50900
+-------------------------------------------------------[2024-07-04 06:22:01.354]
+
+SOURCE: AIR
+RX_ID: 693, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 1, Msg No: F04A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF0367071EB1B81DFE084CD5599F215B
+-------------------------------------------------------[2024-07-04 06:22:49.878]
+
+SOURCE: AIR
+RX_ID: 694, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 2, Msg No: F05A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071EB6101DF2884D15859FB461
+-------------------------------------------------------[2024-07-04 06:23:01.363]
+
+SOURCE: AIR
+RX_ID: 695, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 3, Msg No: F06A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF141EBC381DE2484D55CD9F0D1ED4901D9E884D00441FAEF81B31084D003C9D
+-------------------------------------------------------[2024-07-04 06:23:17.967]
+
+SOURCE: AIR
+RX_ID: 696, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 5, Msg No: F07A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF0368071EC8E01DBF484CD6599FE989
+-------------------------------------------------------[2024-07-04 06:23:53.587]
+
+SOURCE: AIR
+RX_ID: 697, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 6, Msg No: F08A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071ECD381DB3084C96899F0D1ED4901D9E884D00141FAEF81B31084D000E7AD8DDFFFCD6B1
+-------------------------------------------------------[2024-07-04 06:24:06.679]
+
+SOURCE: AIR
+RX_ID: 698, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 7, Msg No: F09A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF141ED5301D9C884C56E19F0D1FAEF81B31084D02542022281A63884D00953B
+-------------------------------------------------------[2024-07-04 06:24:27.159]
+
+SOURCE: AIR
+RX_ID: 699, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 9, Msg No: F10A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF0369071EE0C81D7C484D97619FA188
+-------------------------------------------------------[2024-07-04 06:24:59.751]
+
+SOURCE: AIR
+RX_ID: 700, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 0, Msg No: F11A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071EE4701D72084D17899F2E64
+-------------------------------------------------------[2024-07-04 06:25:08.961]
+
+SOURCE: AIR
+RX_ID: 701, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 3, Msg No: F13A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071EFBC01D30C84CD8899FF009
+-------------------------------------------------------[2024-07-04 06:26:12.852]
+
+SOURCE: AIR
+RX_ID: 702, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 5, Msg No: F14A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF036B071F0E501CFC884D19519F581F
+-------------------------------------------------------[2024-07-04 06:27:04.856]
+
+SOURCE: AIR
+RX_ID: 703, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 5, Msg No: F14A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF036B071F0E501CFC884D19519F581F
+-------------------------------------------------------[2024-07-04 06:27:14.914]
+
+SOURCE: AIR
+RX_ID: 704, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 8, Msg No: F16A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF036C071F27001CB7084D1A659FE573
+-------------------------------------------------------[2024-07-04 06:28:12.879]
+
+SOURCE: AIR
+RX_ID: 705, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 0, Msg No: F18A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF141F2C701CA7884D1AA19F0D2084E019AE084D03AC20E9A818F0C84D00C6C5
+-------------------------------------------------------[2024-07-04 06:28:27.398]
+
+SOURCE: AIR
+RX_ID: 706, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 2, Msg No: F19A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF036D071F3DC01C81084D5B5D9F55FD
+-------------------------------------------------------[2024-07-04 06:29:14.503]
+
+SOURCE: AIR
+RX_ID: 707, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 3, Msg No: F20A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071F41D81C79084D5B899FA59F
+-------------------------------------------------------[2024-07-04 06:29:24.962]
+
+SOURCE: AIR
+RX_ID: 708, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 3, Msg No: F20A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071F41D81C79084D5B899FA59F
+-------------------------------------------------------[2024-07-04 06:29:34.984]
+
+SOURCE: AIR
+RX_ID: 709, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 5, Msg No: F21A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF036E071F58D81C49484CDC819FC6CB
+-------------------------------------------------------[2024-07-04 06:30:27.026]
+
+SOURCE: AIR
+RX_ID: 710, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 6, Msg No: F22A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071F59981C47C84CDC899F7DA7
+-------------------------------------------------------[2024-07-04 06:30:30.903]
+
+SOURCE: AIR
+RX_ID: 711, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 9, Msg No: F24A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071F71481C13C84D5D899FC9AA
+-------------------------------------------------------[2024-07-04 06:31:33.148]
+
+SOURCE: AIR
+RX_ID: 712, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 1, Msg No: F25A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF0370071F87E81BE2484D1E7D9FDF51
+-------------------------------------------------------[2024-07-04 06:32:35.214]
+
+SOURCE: AIR
+RX_ID: 713, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 2, Msg No: F26A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071F89081BE0084D1E899F0D2084E019AE084D02B020E9A818F0C84D000E7C10E07FFC3E47
+-------------------------------------------------------[2024-07-04 06:32:39.930]
+
+SOURCE: AIR
+RX_ID: 714, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 6, Msg No: D51A
+Flight ID: KL0592 REG: PH-BVA
+
+
+Message content:-
+#DFB(POS-KLM592  -4337N00505E/063254 F360
+RMK/FUEL  17.0 M0.84)
+-------------------------------------------------------[2024-07-04 06:32:56.938]
+
+SOURCE: AIR
+RX_ID: 715, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 7, Msg No: F29A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF0372071FB4301B81884D205D9F52C0
+-------------------------------------------------------[2024-07-04 06:34:35.022]
+
+SOURCE: AIR
+RX_ID: 716, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 8, Msg No: F30A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071FB8381B78884D20899F55DE
+-------------------------------------------------------[2024-07-04 06:34:45.079]
+
+SOURCE: AIR
+RX_ID: 717, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 1, Msg No: F32A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071FCF981B45084D61899FA0C5
+-------------------------------------------------------[2024-07-04 06:35:53.873]
+
+SOURCE: AIR
+RX_ID: 718, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 2, Msg No: F33A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071FE7081B11484CE2899F0D2084E019AE084D01B020E9A818F0C84D000E7C10DD4004047B
+-------------------------------------------------------[2024-07-04 06:36:53.084]
+
+SOURCE: AIR
+RX_ID: 719, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 4, Msg No: F35A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF141FF8381AEB084CA3459F0D20E9A818F0E0003FFF217838175CE000006C2A
+-------------------------------------------------------[2024-07-04 06:37:40.186]
+
+SOURCE: AIR
+RX_ID: 720, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 6, Msg No: F36A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF0375071FFA081AE7084CE3599FA3BC
+-------------------------------------------------------[2024-07-04 06:37:45.710]
+
+SOURCE: AIR
+RX_ID: 721, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 7, Msg No: F37A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF071FFE701ADDC84D23899FEAF5
+-------------------------------------------------------[2024-07-04 06:37:57.778]
+
+SOURCE: AIR
+RX_ID: 722, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 9, Msg No: F38A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF0376072011881AB7484D24599F578B
+-------------------------------------------------------[2024-07-04 06:38:49.382]
+
+SOURCE: AIR
+RX_ID: 723, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 0, Msg No: F39A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF072015E81AAE484D24899FA020
+-------------------------------------------------------[2024-07-04 06:39:01.084]
+
+SOURCE: AIR
+RX_ID: 724, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 2, Msg No: F40A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF037707202C481A80484CE57D9FBF02
+-------------------------------------------------------[2024-07-04 06:40:03.110]
+
+SOURCE: AIR
+RX_ID: 725, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 4, Msg No: F42A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF072044D81A4D084CE6899F0D20E9A818F0C84D01C0217838175CC84D000E7C50DD80040072
+-------------------------------------------------------[2024-07-04 06:41:09.268]
+
+SOURCE: AIR
+RX_ID: 726, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 6, Msg No: F43A
+Flight ID: CC3163 REG: TF-WFF
+
+
+Message content:-
+#M1B/B6 NBOCAYA.ADS.TF-WFF0378072048881A45884CE6B19F079A
+-------------------------------------------------------[2024-07-04 06:41:20.751]
+
+SOURCE: AIR
+RX_ID: 727, Freq: 131.725MHz
+Mode: E NACKLabel: 44 Block ID: 2, Msg No: M67A
+Flight ID: GS404B REG: CSDLG
+
+
+Message content:-
+08,suLYZq`}vYL=LLv`vYZeLcZP\,0ZP\xqZLKL`ZLKL}ZLKe`Za[tBB
+-------------------------------------------------------[2024-07-04 07:03:34.810]
+
+SOURCE: AIR
+RX_ID: 728, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 4, Msg No: M03A
+Flight ID: ZD0001 REG: 9HGRS
+
+
+Message content:-
+(2N44392E  5136--- 46210-13(Z
+-------------------------------------------------------[2024-07-04 07:31:34.809]
+
+SOURCE: AIR
+RX_ID: 729, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 5, Msg No: M04A
+Flight ID: ZD0001 REG: 9HGRS
+
+
+Message content:-
+(2N43388E  6105--- 37153  0(Z
+-------------------------------------------------------[2024-07-04 07:41:33.635]
+
+SOURCE: AIR
+RX_ID: 730, Freq: 131.825MHz
+Mode: 2 NACKLabel: 16 Block ID: 7, Msg No: M37A
+Flight ID: FRRYR1 REG: 9H-QEK
+
+
+Message content:-
+082032,,0944, 103,N   .    MMMM.MMM
+-------------------------------------------------------[2024-07-04 08:20:49.047]
+
+SOURCE: AIR
+RX_ID: 731, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 8, Msg No: F00A
+Flight ID: XA0001 REG: CSRLI
+
+
+Message content:-
+#M2BREQFPN/RN10003/RS:FP:L0771     900D
+-------------------------------------------------------[2024-07-04 08:22:35.982]
+
+SOURCE: AIR
+RX_ID: 732, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 9, Msg No: F01A
+Flight ID: XA0001 REG: CSRLI
+
+
+Message content:-
+#M2BREQFPN/RN10004/RS:FP:L0771     E9A2
+-------------------------------------------------------[2024-07-04 08:22:49.513]
+
+SOURCE: AIR
+RX_ID: 733, Freq: 131.725MHz
+Mode: X NACKLabel: 83 Block ID: 2, Msg No: M05A
+Flight ID: XA0001 REG: CSRLI
+
+
+Message content:-
+001PR04083015N4504.1E00439.5298329    
+-------------------------------------------------------[2024-07-04 08:30:19.861]
+
+SOURCE: AIR
+RX_ID: 734, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 7, Msg No: M10A
+Flight ID: DE1504 REG: D-ABOL
+
+
+Message content:-
+0EV090029V
+-------------------------------------------------------[2024-07-04 09:00:32.970]
+
+SOURCE: AIR
+RX_ID: 735, Freq: 131.725MHz
+Mode: X NACKLabel: 44 Block ID: 0, Msg No: M38A
+Flight ID: GS0000 REG: DAHOX
+
+
+Message content:-
+07*?X.0)Emm0Um]..mm4U)0<.)]{ 6) 6y}).M.m).k.m).k0m)..U+D
+-------------------------------------------------------[2024-07-04 09:04:55.115]
+
+SOURCE: AIR
+RX_ID: 736, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 0, Msg No: M11A
+Flight ID: DE1504 REG: D-ABOL
+
+
+Message content:-
+0EV090535V
+-------------------------------------------------------[2024-07-04 09:05:38.342]
+
+SOURCE: AIR
+RX_ID: 737, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 2, Msg No: S24A
+Flight ID: TO51RZ REG: F-HUYK
+
+
+Message content:-
+0EV090559V/
+-------------------------------------------------------[2024-07-04 09:06:03.723]
+
+SOURCE: AIR
+RX_ID: 738, Freq: 131.725MHz
+Mode: X NACKLabel: 44 Block ID: 1, Msg No: M39A
+Flight ID: GS0000 REG: DAHOX
+
+
+Message content:-
+06cE5gC7M99gCfLgg) g 7 :.7L?aS7aS"<7g(g97g`g`7g`CC7ggf,f
+-------------------------------------------------------[2024-07-04 09:09:55.775]
+
+SOURCE: AIR
+RX_ID: 739, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 4, Msg No: F80A
+Flight ID: TO51RZ REG: F-HUYK
+
+
+Message content:-
+#M1BPRG/FNTVF51RZ/DTN43552E004521,LFPO,25O,57,100952,297BE6
+-------------------------------------------------------[2024-07-04 09:09:56.798]
+
+SOURCE: AIR
+RX_ID: 740, Freq: 131.725MHz
+Mode: G NACKLabel: B9 Block ID: 5, Msg No: M29A
+Flight ID: TO51RZ REG: F-HUYK
+
+
+Message content:-
+/LFPO.TI2/040LFPOCF7AF
+-------------------------------------------------------[2024-07-04 09:10:54.947]
+
+SOURCE: AIR
+RX_ID: 741, Freq: 131.725MHz
+Mode: X NACKLabel: 44 Block ID: 2, Msg No: M40A
+Flight ID: GS0000 REG: DAHOX
+
+
+Message content:-
+05JO4jd)]udduuXjjCCdx)xCu)Xh}")}"I2)j`ju)jBxu)jBd9)jjo7o
+-------------------------------------------------------[2024-07-04 09:14:55.185]
+
+SOURCE: AIR
+RX_ID: 742, Freq: 131.725MHz
+Mode: E NACKLabel: 4H Block ID: 6, Msg No: M62A
+Flight ID: DL0025 REG: N838MH
+
+
+Message content:-
+04094H LFMN KATL6
+  
+WPR RESET
+
+
+
+
+
+-------------------------------------------------------[2024-07-04 09:16:33.090]
+
+SOURCE: AIR
+RX_ID: 743, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 9, Msg No: F01A
+Flight ID: DL0025 REG: N838MH
+
+
+Message content:-
+#M1BPOSN43244E004571,ROV02,092246,300,FJR,092851,GAI,M35,30855,1320,80076F2
+-------------------------------------------------------[2024-07-04 09:22:49.304]
+
+SOURCE: AIR
+RX_ID: 744, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 0, Msg No: D07A
+Flight ID: DL0025 REG: N838MH
+
+
+Message content:-
+#DFB239N1814 0025070424092319798 4351   487300 -4-34307 54XX-223130000
+ 303 430006528511003005ZLFMNKATL
+-------------------------------------------------------[2024-07-04 09:23:36.809]
+
+SOURCE: AIR
+RX_ID: 745, Freq: 131.725MHz
+Mode: E NACKLabel: B1 Block ID: 1, Msg No: L02A
+Flight ID: DL0025 REG: N838MH
+
+
+Message content:-
+/PIKCLXS.OC1/RCL 024
+DAL25-SIVIR/1052 M080F320
+-RMK/MAX F320DC5E
+-------------------------------------------------------[2024-07-04 09:24:46.661]
+
+SOURCE: AIR
+RX_ID: 746, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 5, Msg No: F02A
+Flight ID: DL0025 REG: N838MH
+
+
+Message content:-
+#M1BREJPOS,092536,130,219,RF101,ROVOT5BA6
+-------------------------------------------------------[2024-07-04 09:25:38.666]
+
+SOURCE: AIR
+RX_ID: 747, Freq: 131.725MHz
+Mode: E ACK, A2GLabel: H1 Block ID: 5, Msg No: F02A
+Flight ID: DL0025 REG: N838MH
+
+
+Message content:-
+#M1BREJPOS,092536,130,219,RF101,ROVOT5BA6
+-------------------------------------------------------[2024-07-04 09:25:41.117]
+
+SOURCE: AIR
+RX_ID: 748, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 9, Msg No: D20A
+Flight ID: DL0024 REG: N837MH
+
+
+Message content:-
+#DFB239N1813 0024070424094406770 4420   550234 10-19303 55XX-223 24920
+ 335 532003013890003005ZKATLLFMN
+-------------------------------------------------------[2024-07-04 09:44:19.957]
+
+SOURCE: AIR
+RX_ID: 749, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 0, Msg No: D21A
+Flight ID: DL0024 REG: N837MH
+
+
+Message content:-
+#DFBENGINE BLEED REPORT
+
+AID:N1813  DA:04/07    GMT:09:45    FNO: 549      ISFC: 3143
+TAT: 192  SAT: -73   ALT: 18548   MACH:0703    FCNT:  322
+GW:312960  FLT:0024-1  MODE:DESC    SID:AK-67-223
+S/N L:70616
+-------------------------------------------------------[2024-07-04 09:46:06.676]
+
+SOURCE: AIR
+RX_ID: 750, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 1, Msg No: D21B
+Flight ID: DL0024 REG: N837MH
+
+
+Message content:-
+#DFB3         DEPART:KATL    DESTIN:LFMN
+S/N R:706205
+
+               ENG L     ENG R
+HPSOV          OPN       OPN
+PRV            OPN       OPN
+PRSOV          OPN       OPN
+FAV %             191      175
+-------------------------------------------------------[2024-07-04 09:46:10.769]
+
+SOURCE: AIR
+RX_ID: 751, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 2, Msg No: D21C
+Flight ID: DL0024 REG: N837MH
+
+
+Message content:-
+#DFB
+N1 SPD          4200     4175
+HI STG PRESS    4600     4500
+INTERM PRESS1    2914     3745
+INTERM PRESS2    3756     3411
+STRUT OVHT     NRML      NRML
+DUCT PRESS       3388     3425
+P-COOL TEMP    
+-------------------------------------------------------[2024-07-04 09:46:14.463]
+
+SOURCE: AIR
+RX_ID: 752, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 3, Msg No: D21D
+Flight ID: DL0024 REG: N837MH
+
+
+Message content:-
+#DFB38084    38031
+PACK HX TEMP    35106    35703
+PACK FLOW       12714    12786
+WING ANTI ICE  OFF
+LT  ISO VLV    CLS
+RT  ISO VLV    CLS
+CTR ISO VLV    OPN
+
+TRIGGER CODE   0000
+
+STATUS WORDS  DW1  DW
+-------------------------------------------------------[2024-07-04 09:46:30.414]
+
+SOURCE: AIR
+RX_ID: 753, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 0, Msg No: D10A
+Flight ID: KL0591 REG: PH-BQP
+
+
+Message content:-
+#DFB(POS-KLM591  -4456N00552E/100418 F330
+RMK/FUEL  72.9 M0.83)
+-------------------------------------------------------[2024-07-04 10:04:20.721]
+
+SOURCE: AIR
+RX_ID: 754, Freq: 131.725MHz
+Mode: X NACKLabel: B0 Block ID: 1, Msg No: L03A
+Flight ID: KL0591 REG: PH-BQP
+
+
+Message content:-
+/LFMN.AFN/FMHKLM591,.PH-BQP,4843F3,100545/FPON44461E005473,1/FCOADS,01/FCOATC,01D5BE
+-------------------------------------------------------[2024-07-04 10:05:49.594]
+
+SOURCE: AIR
+RX_ID: 755, Freq: 131.725MHz
+Mode: X NACKLabel: B0 Block ID: 2, Msg No: L04A
+Flight ID: KL0591 REG: PH-BQP
+
+
+Message content:-
+/DAAA.AFN/FMHKLM591,.PH-BQP,4843F3,101554/FPON43205E005382,1/FCOADS,01/FCOATC,010F4D
+-------------------------------------------------------[2024-07-04 10:15:59.104]
+
+SOURCE: AIR
+RX_ID: 756, Freq: 131.725MHz
+Mode: X NACKLabel: B6 Block ID: 5, Msg No: F09A
+Flight ID: KL0591 REG: PH-BQP
+
+
+Message content:-
+/ALGCAYA.ADS.PH-BQP0300071ECC602016080E8F1B9D0D1EA8502036480E80521E6C18206B080E800E3E590740009597
+-------------------------------------------------------[2024-07-04 10:16:09.125]
+
+SOURCE: AIR
+RX_ID: 757, Freq: 131.725MHz
+Mode: X ACK, A2GLabel: B6 Block ID: 5, Msg No: F09A
+Flight ID: KL0591 REG: PH-BQP
+
+
+Message content:-
+/ALGCAYA.ADS.PH-BQP0300071ECC602016080E8F1B9D0D1EA8502036480E80521E6C18206B080E800E3E590740009597
+-------------------------------------------------------[2024-07-04 10:16:12.635]
+
+SOURCE: AIR
+RX_ID: 758, Freq: 131.725MHz
+Mode: X NACKLabel: B6 Block ID: 7, Msg No: F10A
+Flight ID: KL0591 REG: PH-BQP
+
+
+Message content:-
+/ALGCAYA.ADS.PH-BQP030180DF
+-------------------------------------------------------[2024-07-04 10:16:22.881]
+
+SOURCE: AIR
+RX_ID: 759, Freq: 131.725MHz
+Mode: X NACKLabel: B6 Block ID: 8, Msg No: F11A
+Flight ID: KL0591 REG: PH-BQP
+
+
+Message content:-
+/ALGCAYA.ADS.PH-BQP141EA7B02036C80E90679D0D1E6C18206B080E80861DA3982117480E801D1D
+-------------------------------------------------------[2024-07-04 10:17:32.068]
+
+SOURCE: AIR
+RX_ID: 760, Freq: 131.825MHz
+Mode: 2 NACKLabel: 44 Block ID: 6, Msg No: M42A
+Flight ID: GS0000 REG: DAVIB
+
+
+Message content:-
+00POS03,N43447E006425,350,LIPE,LPFR,1118,1017,1217,008.2
+-------------------------------------------------------[2024-07-04 10:17:42.089]
+
+SOURCE: AIR
+RX_ID: 761, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 9, Msg No: D11A
+Flight ID: KL0591 REG: PH-BQP
+
+
+Message content:-
+#DFB(POS-KLM591  -4249N00541E/101918 F330
+RMK/FUEL  71.0 M0.83)
+-------------------------------------------------------[2024-07-04 10:19:20.834]
+
+SOURCE: AIR
+RX_ID: 762, Freq: 131.725MHz
+Mode: X NACKLabel: 20 Block ID: 0, Msg No: M13A
+Flight ID: KL0591 REG: PH-BQP
+
+
+Message content:-
+RST07A04101900KLM591  EHAMFAOR
+-------------------------------------------------------[2024-07-04 10:19:42.339]
+
+SOURCE: AIR
+RX_ID: 763, Freq: 131.725MHz
+Mode: X NACKLabel: B6 Block ID: 1, Msg No: F12A
+Flight ID: KL0591 REG: PH-BQP
+
+
+Message content:-
+/ALGCAYA.ADS.PH-BQP141E6B78206B880E52879D0D1DA3982117480E81C31C8BC821FE080E80BEEB
+-------------------------------------------------------[2024-07-04 10:19:48.265]
+
+SOURCE: AIR
+RX_ID: 764, Freq: 131.725MHz
+Mode: G NACKLabel: 16 Block ID: 9, Msg No: M46A
+Flight ID: SN037K REG: OO-SFG
+
+
+Message content:-
+04JUL24,1021,N 43.988,E  5.579,34999,1623,109160
+-------------------------------------------------------[2024-07-04 10:21:32.310]
+
+SOURCE: AIR
+RX_ID: 765, Freq: 131.825MHz
+Mode: 2 NACKLabel: 44 Block ID: 7, Msg No: M43A
+Flight ID: GS0000 REG: DAVIB
+
+
+Message content:-
+00POS03,N43239E006007,350,LIPE,LPFR,1118,1022,1216,008.0
+-------------------------------------------------------[2024-07-04 10:22:43.147]
+
+SOURCE: AIR
+RX_ID: 766, Freq: 131.825MHz
+Mode: 2 NACKLabel: B9 Block ID: 8, Msg No: M44A
+Flight ID: GS0000 REG: DAVIB
+
+
+Message content:-
+/LPFR.TI2/024LPFRAC8BB
+-------------------------------------------------------[2024-07-04 10:23:22.061]
+
+SOURCE: AIR
+RX_ID: 767, Freq: 131.825MHz
+Mode: 2 NACKLabel: 44 Block ID: 0, Msg No: M46A
+Flight ID: GS0000 REG: DAVIB
+
+
+Message content:-
+00POS03,N43031E005192,350,LIPE,LPFR,1118,1027,1216,007.8
+-------------------------------------------------------[2024-07-04 10:27:42.166]
+
+SOURCE: AIR
+RX_ID: 768, Freq: 131.825MHz
+Mode: 2 NACKLabel: 5U Block ID: 7, Msg No: M33A
+Flight ID: 4X2544 REG: 9H-MLD
+
+
+Message content:-
+LFLL LFML LEBL LEPA-SA
+-------------------------------------------------------[2024-07-04 10:36:34.244]
+
+SOURCE: AIR
+RX_ID: 769, Freq: 131.525MHz
+Mode: T NACKLabel: 26 Block ID: 8, Msg No: M39A
+Flight ID: AF7334 REG: F-GMZC
+
+
+Message content:-
+1038LFPGAF7334/041053LFML31R
+-------------------------------------------------------[2024-07-04 10:38:04.685]
+
+SOURCE: AIR
+RX_ID: 770, Freq: 131.525MHz
+Mode: T NACKLabel: 26 Block ID: 8, Msg No: M39A
+Flight ID: AF7334 REG: F-GMZC
+
+
+Message content:-
+1038LFPGAF7334/041053LFML31R
+-------------------------------------------------------[2024-07-04 10:38:13.682]
+
+SOURCE: AIR
+RX_ID: 771, Freq: 131.525MHz
+Mode: T NACKLabel: 26 Block ID: 8, Msg No: M39A
+Flight ID: AF7334 REG: F-GMZC
+
+
+Message content:-
+1038LFPGAF7334/041053LFML31R
+-------------------------------------------------------[2024-07-04 10:38:23.922]
+
+SOURCE: AIR
+RX_ID: 772, Freq: 131.525MHz
+Mode: 2 NACKLabel: 26 Block ID: 8, Msg No: M39A
+Flight ID: AF7334 REG: F-GMZC
+
+
+Message content:-
+1038LFPGAF7334/041053LFML31R
+-------------------------------------------------------[2024-07-04 10:38:32.516]
+
+SOURCE: AIR
+RX_ID: 773, Freq: 131.525MHz
+Mode: 2 NACKLabel: 26 Block ID: 8, Msg No: M39A
+Flight ID: AF7334 REG: F-GMZC
+
+
+Message content:-
+1038LFPGAF7334/041053LFML31R
+-------------------------------------------------------[2024-07-04 10:38:43.195]
+
+SOURCE: AIR
+RX_ID: 774, Freq: 131.525MHz
+Mode: 2 NACKLabel: 26 Block ID: 8, Msg No: M39A
+Flight ID: AF7334 REG: F-GMZC
+
+
+Message content:-
+1038LFPGAF7334/041053LFML31R
+-------------------------------------------------------[2024-07-04 10:38:54.643]
+
+SOURCE: AIR
+RX_ID: 775, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 9, Msg No: S54A
+Flight ID: AF7334 REG: F-GMZC
+
+
+Message content:-
+0EV103902V
+-------------------------------------------------------[2024-07-04 10:39:07.442]
+
+SOURCE: AIR
+RX_ID: 776, Freq: 131.725MHz
+Mode: G NACKLabel: 2F Block ID: 1, Msg No: M40A
+Flight ID: AF7334 REG: F-GMZC
+
+
+Message content:-
+1040+4389+511/1242
+-------------------------------------------------------[2024-07-04 10:40:16.489]
+
+SOURCE: AIR
+RX_ID: 777, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 2, Msg No: F09A
+Flight ID: 4X2544 REG: 9H-MLD
+
+
+Message content:-
+#M1B/ANPOCX9.REQPWI/WQ350:N45261E006082.RETNO.DOTIG.GIROL.TUPOX.MTG.DIVKO.VATIR.PIVUS.SULID.DIMIB/DQ350/WRLEIB.LEPA/GAANPOCX915C0
+-------------------------------------------------------[2024-07-04 10:41:43.899]
+
+SOURCE: AIR
+RX_ID: 778, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 3, Msg No: D23A
+Flight ID: AF7334 REG: F-GMZC
+
+
+Message content:-
+#DFBA01/A32101,1,1/CCF-GMZC,JUL04,103103,LFPG,LFML,0061/C106,49639,4000,54,0010,0,0100,54,X/CEN030,28643,303,777,7210,257,C53025/EC699257,00739,06783,00738,C3,--/EE575645,00739,09208,00738,C3/N10762,0763,0914,5
+-------------------------------------------------------[2024-07-04 10:41:49.461]
+
+SOURCE: AIR
+RX_ID: 779, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 4, Msg No: D23B
+Flight ID: AF7334 REG: F-GMZC
+
+
+Message content:-
+#DFB585,1073,XXXXX/N20763,0763,0913,5526,1048,XXXXX/S1XXXXX,0687,1178,4008,XXXX,056,060/S2XXXXX,0669,1179,4056,XXXX,054,053/T1099,088,023,39,099,06981,0160/T2099,085,018,39,089,06952,0134/V108,04,344,128,01,00,
+-------------------------------------------------------[2024-07-04 10:41:53.334]
+
+SOURCE: AIR
+RX_ID: 780, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 5, Msg No: D23C
+Flight ID: AF7334 REG: F-GMZC
+
+
+Message content:-
+#DFB00000/V207,06,155,242,02,00,00000/V3XX,XX,XXX,XXX,XXXX/V4XX,XX,XXX,XXX,XXXX/V503,03,277,082,0916/V610,03,123,196,0916/V7042,088,00061,22222222222111/V8041,085,00081,22222222222111/
+-------------------------------------------------------[2024-07-04 10:41:56.844]
+
+SOURCE: AIR
+RX_ID: 781, Freq: 131.725MHz
+Mode: G NACKLabel: 26 Block ID: 6, Msg No: M41A
+Flight ID: AF7334 REG: F-GMZC
+
+
+Message content:-
+1044LFPGAF7334/041049LFML31R
+-------------------------------------------------------[2024-07-04 10:44:03.604]
+
+SOURCE: AIR
+RX_ID: 782, Freq: 131.825MHz
+Mode: 2 NACKLabel: 16 Block ID: 5, Msg No: M35A
+Flight ID: 4X2544 REG: 9H-MLD
+
+
+Message content:-
+104531,34991,1149,   5,N 44.114 E  5.487
+-------------------------------------------------------[2024-07-04 10:45:33.057]
+
+SOURCE: AIR
+RX_ID: 783, Freq: 131.850MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: F10A
+Flight ID: 4X2544 REG: 9H-MLD
+
+
+Message content:-
+#M1B/ANPOCX9.REQFPN/FNEWG2545/GAANPOCX957BF
+-------------------------------------------------------[2024-07-04 10:47:31.622]
+
+SOURCE: AIR
+RX_ID: 784, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: F10A
+Flight ID: 4X2544 REG: 9H-MLD
+
+
+Message content:-
+#M1B/ANPOCX9.REQFPN/FNEWG2545/GAANPOCX957BF
+-------------------------------------------------------[2024-07-04 10:47:51.116]
+
+SOURCE: AIR
+RX_ID: 785, Freq: 131.850MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: F11A
+Flight ID: 4X2544 REG: 9H-MLD
+
+
+Message content:-
+#M1B/ANPOCX9.REQPER/PQ,,,,,,,,,,,P50,P0,36090,4,276/GAANPOCX95A4A
+-------------------------------------------------------[2024-07-04 10:47:57.408]
+
+SOURCE: AIR
+RX_ID: 786, Freq: 131.725MHz
+Mode: G NACKLabel: 83 Block ID: 4, Msg No: M02A
+Flight ID: UV0001 REG: FHGUI
+
+
+Message content:-
+001PR04105921N4327.0E00511.2020115    
+-------------------------------------------------------[2024-07-04 10:59:23.967]
+
+SOURCE: AIR
+RX_ID: 787, Freq: 131.725MHz
+Mode: E NACKLabel: 44 Block ID: 5, Msg No: M22A
+Flight ID: GS0000 REG: DAHOX
+
+
+Message content:-
+09|\L46c+N6h8NG44Bh4Zchh4c-WH%cGeodc4s4Nc884Nc8h61c44,56
+-------------------------------------------------------[2024-07-04 11:04:32.635]
+
+SOURCE: AIR
+RX_ID: 788, Freq: 131.725MHz
+Mode: G NACKLabel: 83 Block ID: 5, Msg No: M03A
+Flight ID: UV0001 REG: FHGUI
+
+
+Message content:-
+001PR04110935N4323.1E00549.2182221    
+-------------------------------------------------------[2024-07-04 11:09:39.221]
+
+SOURCE: AIR
+RX_ID: 789, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 3, Msg No: C09A
+Flight ID: VY40FJ REG: EC-NGB
+
+
+Message content:-
+#CFBWRN/WN24070411400046200006DATALINK ATC FAULT      
+-------------------------------------------------------[2024-07-04 11:41:15.458]
+
+SOURCE: AIR
+RX_ID: 790, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 4, Msg No: C10A
+Flight ID: VY40FJ REG: EC-NGB
+
+
+Message content:-
+#CFBWRN/WN24070411400046200006DATALINK COMPANY FAULT  
+-------------------------------------------------------[2024-07-04 11:41:21.602]
+
+SOURCE: AIR
+RX_ID: 791, Freq: 131.825MHz
+Mode: 2 NACKLabel: 16 Block ID: 5, Msg No: M55A
+Flight ID: VY40FJ REG: EC-NGB
+
+
+Message content:-
+114118,33065,1227,  84,N 43.623 E  6.320, 798
+-------------------------------------------------------[2024-07-04 11:41:28.151]
+
+SOURCE: AIR
+RX_ID: 792, Freq: 131.825MHz
+Mode: 2 NACKLabel: B6 Block ID: 2, Msg No: F01A
+Flight ID: BA0082 REG: G-VIIF
+
+
+Message content:-
+/QUKAXBA.ADS.G-VIIF071EA0D01EFE09C3E90D9F504B
+-------------------------------------------------------[2024-07-04 11:43:49.290]
+
+SOURCE: AIR
+RX_ID: 793, Freq: 131.825MHz
+Mode: 2 NACKLabel: 15 Block ID: 4, Msg No: M19A
+Flight ID: BA0082 REG: G-VIIF
+
+
+Message content:-
+FST01DNAAEGLLN438672E0051753400 129 308 M54C 6730133934643211600013151150
+-------------------------------------------------------[2024-07-04 11:50:35.854]
+
+SOURCE: AIR
+RX_ID: 794, Freq: 131.825MHz
+Mode: 2 NACKLabel: B6 Block ID: 5, Msg No: F02A
+Flight ID: BA0082 REG: G-VIIF
+
+
+Message content:-
+/QUKAXBA.ADS.G-VIIF071FC8781BCD09C4760E9FBE5A
+-------------------------------------------------------[2024-07-04 11:57:42.281]
+
+SOURCE: AIR
+RX_ID: 795, Freq: 131.825MHz
+Mode: 2 NACKLabel: B6 Block ID: 5, Msg No: F02A
+Flight ID: BA0082 REG: G-VIIF
+
+
+Message content:-
+/QUKAXBA.ADS.G-VIIF071FC8781BCD09C4760E9FBE5A
+-------------------------------------------------------[2024-07-04 11:57:50.875]
+
+SOURCE: AIR
+RX_ID: 796, Freq: 131.825MHz
+Mode: 2 NACKLabel: B6 Block ID: 5, Msg No: F02A
+Flight ID: BA0082 REG: G-VIIF
+
+
+Message content:-
+/QUKAXBA.ADS.G-VIIF071FC8781BCD09C4760E9FBE5A
+-------------------------------------------------------[2024-07-04 11:58:04.407]
+
+SOURCE: AIR
+RX_ID: 797, Freq: 131.825MHz
+Mode: 2 NACKLabel: B6 Block ID: 6, Msg No: F02A
+Flight ID: BA0082 REG: G-VIIF
+
+
+Message content:-
+/QUKAXBA.ADS.G-VIIF071FC8781BCD09C4760E9FBE5A
+-------------------------------------------------------[2024-07-04 11:58:11.990]
+
+SOURCE: AIR
+RX_ID: 798, Freq: 131.825MHz
+Mode: 2 NACKLabel: B6 Block ID: 6, Msg No: F02A
+Flight ID: BA0082 REG: G-VIIF
+
+
+Message content:-
+/QUKAXBA.ADS.G-VIIF071FC8781BCD09C4760E9FBE5A
+-------------------------------------------------------[2024-07-04 11:58:28.998]
+
+SOURCE: AIR
+RX_ID: 799, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 1, Msg No: C08A
+Flight ID: AF7335 REG: F-GMZC
+
+
+Message content:-
+#CFBFLR/FR24070411570030310005SDAC1:NO DATA FROM      PHC1/IDECAM 2,ECAM 1
+-------------------------------------------------------[2024-07-04 11:59:06.526]
+
+SOURCE: AIR
+RX_ID: 800, Freq: 131.725MHz
+Mode: G NACKLabel: B9 Block ID: 2, Msg No: L05A
+Flight ID: AF7335 REG: F-GMZC
+
+
+Message content:-
+/LFLL.TI2/064LFLLAD2FE
+-------------------------------------------------------[2024-07-04 12:05:05.541]
+
+SOURCE: AIR
+RX_ID: 801, Freq: 131.525MHz
+Mode: T NACKLabel: 2Z Block ID: 2, Msg No: M60A
+Flight ID: AF7306 REG: F-GMZD
+
+
+Message content:-
+LFMN
+-------------------------------------------------------[2024-07-04 12:07:03.632]
+
+SOURCE: AIR
+RX_ID: 802, Freq: 131.525MHz
+Mode: T NACKLabel: 2F Block ID: 3, Msg No: M61A
+Flight ID: AF7306 REG: F-GMZD
+
+
+Message content:-
+1208+4414+547/3046
+-------------------------------------------------------[2024-07-04 12:08:12.023]
+
+SOURCE: AIR
+RX_ID: 803, Freq: 131.725MHz
+Mode: G NACKLabel: 2F Block ID: 5, Msg No: M56A
+Flight ID: AF7335 REG: F-GMZC
+
+
+Message content:-
+1213+4469+481/2352
+-------------------------------------------------------[2024-07-04 12:13:05.413]
+
+SOURCE: AIR
+RX_ID: 804, Freq: 131.525MHz
+Mode: T NACKLabel: 26 Block ID: 5, Msg No: M62A
+Flight ID: AF7306 REG: F-GMZD
+
+
+Message content:-
+1214LFPGAF7306/041229LFMN22R
+-------------------------------------------------------[2024-07-04 12:14:41.564]
+
+SOURCE: AIR
+RX_ID: 805, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 1, Msg No: F58A
+Flight ID: DL0029 REG: N837MH
+
+
+Message content:-
+#M1BPOSN43213E005221,PAD03,124935,290,ROV04,125207,FJR,M32,30843,1236,8105747
+-------------------------------------------------------[2024-07-04 12:49:38.113]
+
+SOURCE: AIR
+RX_ID: 806, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 2, Msg No: D33A
+Flight ID: DL0029 REG: N837MH
+
+
+Message content:-
+#DFB239N1813 0029070424125249804 4353   484299 -3-34308 46XX-223121520
+ 306 4430068283440030NXWLFMNKJFK
+-------------------------------------------------------[2024-07-04 12:53:01.272]
+
+SOURCE: AIR
+RX_ID: 807, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 4, Msg No: M13A
+Flight ID: XA0001 REG: 9HVFL
+
+
+Message content:-
+(2N42373E  5340290 55394-54(Z
+-------------------------------------------------------[2024-07-04 12:53:10.487]
+
+SOURCE: AIR
+RX_ID: 808, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 2, Msg No: D33A
+Flight ID: DL0029 REG: N837MH
+
+
+Message content:-
+#DFB239N1813 0029070424125249804 4353   484299 -3-34308 46XX-223121520
+ 306 4430068283440030NXWLFMNKJFK
+-------------------------------------------------------[2024-07-04 12:53:15.204]
+
+SOURCE: AIR
+RX_ID: 809, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 4, Msg No: M13A
+Flight ID: XA0001 REG: 9HVFL
+
+
+Message content:-
+(2N42373E  5340290 55394-54(Z
+-------------------------------------------------------[2024-07-04 12:54:37.130]
+
+SOURCE: AIR
+RX_ID: 810, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 5, Msg No: M14A
+Flight ID: XA0001 REG: 9HVFL
+
+
+Message content:-
+(2N43238E  6562311 56320-38(Z
+-------------------------------------------------------[2024-07-04 13:03:08.918]
+
+SOURCE: AIR
+RX_ID: 811, Freq: 131.825MHz
+Mode: 2 NACKLabel: 16 Block ID: 9, Msg No: M38A
+Flight ID: AP8144 REG: EC-MTV
+
+
+Message content:-
+130826,37949,1443, 173,N 43.640 E  8.084
+-------------------------------------------------------[2024-07-04 13:08:28.202]
+
+SOURCE: AIR
+RX_ID: 812, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 5, Msg No: M04A
+Flight ID: GS0001 REG: CESSNA
+
+
+Message content:-
+(2N43389E  7310--- 70399-55(Z
+-------------------------------------------------------[2024-07-04 13:10:06.106]
+
+SOURCE: AIR
+RX_ID: 813, Freq: 131.825MHz
+Mode: 2 NACKLabel: 16 Block ID: 1, Msg No: M39A
+Flight ID: AP8144 REG: EC-MTV
+
+
+Message content:-
+132327,37957,1443, 159,N 44.839 E  6.503
+-------------------------------------------------------[2024-07-04 13:23:29.151]
+
+SOURCE: AIR
+RX_ID: 814, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 1, Msg No: 347D
+Flight ID: LH014N REG: D-AIRL
+
+
+Message content:-
+#T3BF-O4 *)NSPP9R6AW8X80UVG0 0SG:FUPB (7XV ,BU2+2R1U6*7V-*6E+:EMC8TQV-7P9S-R4
+-------------------------------------------------------[2024-07-04 13:31:19.568]
+
+SOURCE: AIR
+RX_ID: 815, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: F16A
+Flight ID: XA0000 REG: CFFCD
+
+
+Message content:-
+#M1B/.RESREQ/AK,115/TS135055,040724
+-------------------------------------------------------[2024-07-04 13:50:56.200]
+
+SOURCE: AIR
+RX_ID: 816, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: F17A
+Flight ID: XA0000 REG: CFFCD
+
+
+Message content:-
+#M1B/.POS/TS135055,040724N43375E004365,,135055,430,CACHI,141755,AVLON,M63,29158,129,850A3BD
+-------------------------------------------------------[2024-07-04 13:51:16.062]
+
+SOURCE: AIR
+RX_ID: 817, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: F17A
+Flight ID: XA0000 REG: CFFCD
+
+
+Message content:-
+#M1B/.POS/TS135055,040724N43375E004365,,135055,430,CACHI,141755,AVLON,M63,29158,129,850A3BD
+-------------------------------------------------------[2024-07-04 13:51:36.356]
+
+SOURCE: AIR
+RX_ID: 818, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: F17A
+Flight ID: XA0000 REG: CFFCD
+
+
+Message content:-
+#M1B/.POS/TS135055,040724N43375E004365,,135055,430,CACHI,141755,AVLON,M63,29158,129,850A3BD
+-------------------------------------------------------[2024-07-04 13:51:48.827]
+
+SOURCE: AIR
+RX_ID: 819, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 9, Msg No: F19A
+Flight ID: XA0000 REG: CFFCD
+
+
+Message content:-
+#M1B/.RESREQ/AK,115/TS140124,040724
+-------------------------------------------------------[2024-07-04 14:01:29.878]
+
+SOURCE: AIR
+RX_ID: 820, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 0, Msg No: F20A
+Flight ID: XA0000 REG: CFFCD
+
+
+Message content:-
+#M1B/.POS/TS140124,040724N44557E004301,,140124,430,CACHI,141824,AVLON,M62,30562,124,8503AA3
+-------------------------------------------------------[2024-07-04 14:01:34.377]
+
+SOURCE: AIR
+RX_ID: 821, Freq: 131.825MHz
+Mode: 2 NACKLabel: 16 Block ID: 7, Msg No: M49A
+Flight ID: 4X2545 REG: 9H-MLD
+
+
+Message content:-
+141539,34010,1514,   5,N 43.565 E  7.431
+-------------------------------------------------------[2024-07-04 14:15:39.950]
+
+SOURCE: AIR
+RX_ID: 822, Freq: 131.525MHz
+Mode: T NACKLabel: 2F Block ID: 1, Msg No: M82A
+Flight ID: AF7307 REG: F-GMZD
+
+
+Message content:-
+1419+4442+641/2652
+-------------------------------------------------------[2024-07-04 14:19:59.802]
+
+SOURCE: AIR
+RX_ID: 823, Freq: 131.850MHz
+Mode: 2 NACKLabel: 16 Block ID: 8, Msg No: M19A
+Flight ID: FR58WX REG: 9H-QEO
+
+
+Message content:-
+142245,,1456,  94,N   .    MMMM.MMM
+-------------------------------------------------------[2024-07-04 14:22:47.331]
+
+SOURCE: AIR
+RX_ID: 824, Freq: 131.825MHz
+Mode: 2 NACKLabel: 44 Block ID: 3, Msg No: M42A
+Flight ID: GS0000 REG: DANXA
+
+
+Message content:-
+07*?X.0)Em04;m]..<;DD).4U) ]Yx) 6- ).M.m);m4<);m4M)..M+4
+-------------------------------------------------------[2024-07-04 14:25:31.210]
+
+SOURCE: AIR
+RX_ID: 825, Freq: 131.825MHz
+Mode: 2 NACKLabel: 44 Block ID: 1, Msg No: M29A
+Flight ID: GS0000 REG: DAVIB
+
+
+Message content:-
+00POS03,N44481E003408,380,LPFR,EDMO,1118,1520,1621,006.1
+-------------------------------------------------------[2024-07-04 15:20:11.733]
+
+SOURCE: AIR
+RX_ID: 826, Freq: 131.525MHz
+Mode: T NACKLabel: 2Z Block ID: 8, Msg No: M82A
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+LFML
+-------------------------------------------------------[2024-07-04 15:25:02.881]
+
+SOURCE: AIR
+RX_ID: 827, Freq: 131.825MHz
+Mode: 2 NACKLabel: 44 Block ID: 2, Msg No: M60A
+Flight ID: GS0000 REG: DANXA
+
+
+Message content:-
+09|\L46c+N66ZZG44NB6hc88Nc-W.-c-W|Pc4s4Nc8B6hc8,6Nc44,5N
+-------------------------------------------------------[2024-07-04 15:32:32.711]
+
+SOURCE: AIR
+RX_ID: 828, Freq: 131.525MHz
+Mode: T NACKLabel: 2F Block ID: 9, Msg No: M83A
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+1532+4411+498/1541
+-------------------------------------------------------[2024-07-04 15:32:44.926]
+
+SOURCE: AIR
+RX_ID: 829, Freq: 131.525MHz
+Mode: T NACKLabel: 2F Block ID: 9, Msg No: M83A
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+1532+4411+498/1541
+-------------------------------------------------------[2024-07-04 15:32:56.596]
+
+SOURCE: AIR
+RX_ID: 830, Freq: 131.525MHz
+Mode: T NACKLabel: 2F Block ID: 9, Msg No: M83A
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+1532+4411+498/1541
+-------------------------------------------------------[2024-07-04 15:33:05.407]
+
+SOURCE: AIR
+RX_ID: 831, Freq: 131.525MHz
+Mode: 2 NACKLabel: 2F Block ID: 9, Msg No: M83A
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+1532+4411+498/1541
+-------------------------------------------------------[2024-07-04 15:33:14.220]
+
+SOURCE: AIR
+RX_ID: 832, Freq: 131.525MHz
+Mode: 2 NACKLabel: 2F Block ID: 9, Msg No: M83A
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+1532+4411+498/1541
+-------------------------------------------------------[2024-07-04 15:33:24.862]
+
+SOURCE: AIR
+RX_ID: 833, Freq: 131.525MHz
+Mode: 2 NACKLabel: 2F Block ID: 9, Msg No: M83A
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+1532+4411+498/1541
+-------------------------------------------------------[2024-07-04 15:33:36.748]
+
+SOURCE: AIR
+RX_ID: 834, Freq: 131.725MHz
+Mode: 2 NACKLabel: 2F Block ID: 9, Msg No: M83A
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+1532+4411+498/1541
+-------------------------------------------------------[2024-07-04 15:33:47.098]
+
+SOURCE: AIR
+RX_ID: 835, Freq: 131.725MHz
+Mode: X NACKLabel: 26 Block ID: 0, Msg No: M84A
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+1534LFPGAF7338/041549LFML31R
+-------------------------------------------------------[2024-07-04 15:34:04.103]
+
+SOURCE: AIR
+RX_ID: 836, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 3, Msg No: D55B
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+#DFB479,1561,XXXXX/N20863,0863,0955,6385,1529,XXXXX/S1XXXXX,0893,1548,4574,XXXX,032,001/S2XXXXX,0860,1539,4599,XXXX,029,001/T1088,085,025,43,103,06799,0152/T2090,086,016,44,092,06738,0153/V102,06,331,103,04,00,
+-------------------------------------------------------[2024-07-04 15:36:22.928]
+
+SOURCE: AIR
+RX_ID: 837, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 4, Msg No: D55C
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+#DFB00000/V205,05,141,173,05,00,00000/V3XX,XX,XXX,XXX,XXXX/V4XX,XX,XXX,XXX,XXXX/V501,04,305,108,0916/V610,03,113,192,0916/V7045,087,00061,22222222222111/V8044,089,00081,22222222222111,/
+-------------------------------------------------------[2024-07-04 15:36:26.626]
+
+SOURCE: AIR
+RX_ID: 838, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 5, Msg No: D56A
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+#DFBA02/A32102,1,1/CCF-GMZC,JUL04,152112,LFPG,LFML,0015/C106,52801,5000,54,0010,0,0100,54,X/CEN052,29005,292,758,7095,262,C53025/CNN052,29012,292,757,7095,262/EC699257,00741,06785,00740,73,14,06/EE575645,00741,
+-------------------------------------------------------[2024-07-04 15:36:53.465]
+
+SOURCE: AIR
+RX_ID: 839, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 6, Msg No: D56B
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+#DFB09211,00740,73/N10863,0863,0957,6484,1563,XXXXX/N20863,0863,0955,6391,1531,XXXXX/S1XXXXX,0893,1550,4577,XXXX,032,001/S2XXXXX,0861,1541,4601,XXXX,029,001/T1088,085,025,43,103,06798,0152/T2090,086,016,44,092,
+-------------------------------------------------------[2024-07-04 15:36:57.160]
+
+SOURCE: AIR
+RX_ID: 840, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 7, Msg No: D56C
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+#DFB06738,0153/V102,06,331,102,04,00,00000/V205,05,141,173,05,00,00000/V3XX,XX,XXX,XXX,XXXX/V4XX,XX,XXX,XXX,XXXX/V501,04,305,108,0916/V610,03,113,192,0916/V7045,087,00061,22222222222111/V8044,089,00081,22222222
+-------------------------------------------------------[2024-07-04 15:37:00.818]
+
+SOURCE: AIR
+RX_ID: 841, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 8, Msg No: D56D
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+#DFB222111/X102217,N000,0015,N004,00005,N009/X202304,N000,0015,N004,00005,N009/X3N008,N004,N007,N013,N002,N007,N000/X4N001,N002,N000,N000,0000,0000/X50000,N000,N001,0000,0000,0000/X61516,E0038,N454,056,293,0178
+-------------------------------------------------------[2024-07-04 15:37:05.134]
+
+SOURCE: AIR
+RX_ID: 842, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 9, Msg No: D56E
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+#DFB,0788/X71516,E0038,N454,057,295,0216,0786,/
+-------------------------------------------------------[2024-07-04 15:37:07.985]
+
+SOURCE: AIR
+RX_ID: 843, Freq: 131.825MHz
+Mode: 2 NACKLabel: 44 Block ID: 3, Msg No: M61A
+Flight ID: GS0000 REG: DANXA
+
+
+Message content:-
+02N;E,0Irmm,]QX,,mmQ-I3),Iv*svIv*N:I,],mI3Q0]I390mI,,9T3
+-------------------------------------------------------[2024-07-04 15:37:32.967]
+
+SOURCE: AIR
+RX_ID: 844, Freq: 131.725MHz
+Mode: X NACKLabel: 26 Block ID: 0, Msg No: M85A
+Flight ID: AF7338 REG: F-GMZC
+
+
+Message content:-
+1538LFPGAF7338/041543LFML31R
+-------------------------------------------------------[2024-07-04 15:38:03.721]
+
+SOURCE: AIR
+RX_ID: 845, Freq: 131.825MHz
+Mode: 2 NACKLabel: 44 Block ID: 4, Msg No: M62A
+Flight ID: GS0000 REG: DANXA
+
+
+Message content:-
+05JO4jd)]uud`oXjjuuod)9`e)}"/})}"J_)j`ju)xCu9)xodC)jjC7e
+-------------------------------------------------------[2024-07-04 15:42:32.780]
+
+SOURCE: AIR
+RX_ID: 846, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 2, Msg No: C05A
+Flight ID: EC81MA REG: OE-LKL
+
+
+Message content:-
+#CFBWRN/WN24070415530046200006DATALINK COMPANY FAULT  
+-------------------------------------------------------[2024-07-04 15:54:12.620]
+
+SOURCE: AIR
+RX_ID: 847, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 5, Msg No: 356F
+Flight ID: LH038Y REG: D-AIRL
+
+
+Message content:-
+#T3B-24L+,R9R-6MSGO7:ZZPK
+-------------------------------------------------------[2024-07-04 16:04:38.910]
+
+SOURCE: AIR
+RX_ID: 848, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 8, Msg No: F86A
+Flight ID: TO71UB REG: F-HUYK
+
+
+Message content:-
+#M1BPRG/FNTVF71UB/DTN43416E004435,LFPO,25O,64,170525,29083E
+-------------------------------------------------------[2024-07-04 16:05:30.111]
+
+SOURCE: AIR
+RX_ID: 849, Freq: 131.725MHz
+Mode: X NACKLabel: 83 Block ID: 7, Msg No: M09A
+Flight ID: XA0001 REG: CSRLI
+
+
+Message content:-
+001PR04161102N4400.4E00504.2205432    
+-------------------------------------------------------[2024-07-04 16:11:08.254]
+
+SOURCE: AIR
+RX_ID: 850, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 0, Msg No: F87A
+Flight ID: TO71UB REG: F-HUYK
+
+
+Message content:-
+#M1BPRG/FNTVF71UB/DTN45244E004330,LFPO,25O,64,170543,2A4D5F
+-------------------------------------------------------[2024-07-04 16:20:48.868]
+
+SOURCE: AIR
+RX_ID: 851, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 6, Msg No: D76A
+Flight ID: AF7339 REG: F-GMZC
+
+
+Message content:-
+#DFBA04/A32104,1,1/CCF-GMZC,JUL04,165209,LFML,LFPG,0099/C105,54739,4000,00,0000,0,0000,00,X/CE0302,01273,172,266,7270,256,C53025/EC699257,00741,06786,00741,23/EE575645,00741,09211,00741,23/N102,00,00,00,00,02,0
+-------------------------------------------------------[2024-07-04 16:52:36.371]
+
+SOURCE: AIR
+RX_ID: 852, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 7, Msg No: D76B
+Flight ID: AF7339 REG: F-GMZC
+
+
+Message content:-
+#DFB0,00,7850/N202,00,00,00,00,02,00,00,7850/S10898,0898,0988,7850,3759,3305,0975/S20898,0898,0987,7850,3750,3312,0975/T15350,1307,335,140,----,024,016/T25410,1278,338,140,----,020,008/V101,03,038,112,02,01,000
+-------------------------------------------------------[2024-07-04 16:52:39.848]
+
+SOURCE: AIR
+RX_ID: 853, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 9, Msg No: C14A
+Flight ID: AF7339 REG: F-GMZC
+
+
+Message content:-
+#CFBFLR/FR24070416510030310005SDAC1:NO DATA FROM      PHC1/IDECAM 2,ECAM 1
+-------------------------------------------------------[2024-07-04 16:52:52.974]
+
+SOURCE: AIR
+RX_ID: 854, Freq: 131.725MHz
+Mode: G NACKLabel: B9 Block ID: 0, Msg No: L13A
+Flight ID: AF7339 REG: F-GMZC
+
+
+Message content:-
+/LFPG.TI2/064LFPGA3806
+-------------------------------------------------------[2024-07-04 16:58:38.878]
+
+SOURCE: AIR
+RX_ID: 855, Freq: 131.725MHz
+Mode: G NACKLabel: 2F Block ID: 3, Msg No: M01A
+Flight ID: AF7339 REG: F-GMZC
+
+
+Message content:-
+1706+4456+446/2553
+-------------------------------------------------------[2024-07-04 17:06:51.830]
+
+SOURCE: AIR
+RX_ID: 856, Freq: 131.525MHz
+Mode: T NACKLabel: 2Z Block ID: 6, Msg No: M74A
+Flight ID: AF7314 REG: F-GMZE
+
+
+Message content:-
+LFMN
+-------------------------------------------------------[2024-07-04 20:40:04.662]
+
+SOURCE: AIR
+RX_ID: 857, Freq: 131.525MHz
+Mode: T NACKLabel: 2F Block ID: 8, Msg No: M75A
+Flight ID: AF7314 REG: F-GMZE
+
+
+Message content:-
+2043+4432+531/3149
+-------------------------------------------------------[2024-07-04 20:43:06.317]
+
+SOURCE: AIR
+RX_ID: 858, Freq: 131.525MHz
+Mode: T NACKLabel: 2F Block ID: 8, Msg No: M75A
+Flight ID: AF7314 REG: F-GMZE
+
+
+Message content:-
+2043+4432+531/3149
+-------------------------------------------------------[2024-07-04 20:43:16.995]
+
+SOURCE: AIR
+RX_ID: 859, Freq: 131.525MHz
+Mode: T NACKLabel: 26 Block ID: 9, Msg No: M76A
+Flight ID: AF7314 REG: F-GMZE
+
+
+Message content:-
+2047LFPGAF7314/042102LFMN04L
+-------------------------------------------------------[2024-07-04 20:47:27.882]
+
+SOURCE: AIR
+RX_ID: 860, Freq: 131.825MHz
+Mode: 2 NACKLabel: 5U Block ID: 4, Msg No: M06A
+Flight ID: QY1685 REG: OE-LNE
+
+
+Message content:-
+10,WX,042056,QY1685,04,LFML,EDDP,8379987,LFLL,LSGG,LFSB,1,0,
+-------------------------------------------------------[2024-07-04 20:56:35.617]
+
+SOURCE: AIR
+RX_ID: 861, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 2, Msg No: F05A
+Flight ID: QY8031 REG: OE-LND
+
+
+Message content:-
+#M1BPOSN43510E006068,,205646,380,IRMAR,210532,KINES,M54,29950,171,770D003
+-------------------------------------------------------[2024-07-04 20:56:48.309]
+
+SOURCE: AIR
+RX_ID: 862, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: F04A
+Flight ID: QY1685 REG: OE-LNE
+
+
+Message content:-
+#M1BPOSN44225E004566,,205646,252,LTP,210617,GIPNO,M22,29947,211,C1D7
+-------------------------------------------------------[2024-07-04 20:56:48.712]
+
+SOURCE: AIR
+RX_ID: 863, Freq: 131.825MHz
+Mode: 2 NACKLabel: 5U Block ID: 8, Msg No: M07A
+Flight ID: QY1685 REG: OE-LNE
+
+
+Message content:-
+10,WX,042056,QY1685,04,LFML,EDDP,8379987,EDDS,EDDV,EDDK,1,0,
+-------------------------------------------------------[2024-07-04 20:56:59.791]
+
+SOURCE: AIR
+RX_ID: 864, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 2, Msg No: F05A
+Flight ID: QY8031 REG: OE-LND
+
+
+Message content:-
+#M1BPOSN43510E006068,,205646,380,IRMAR,210532,KINES,M54,29950,171,770D003
+-------------------------------------------------------[2024-07-04 20:57:00.816]
+
+SOURCE: AIR
+RX_ID: 865, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 3, Msg No: D00A
+Flight ID: QY8031 REG: OE-LND
+
+
+Message content:-
+#DFBSTABLE CRUISE REPORT
+
+APM     OE-LND          QYXXXXXXDEPXDESX040724205805,757-200,
+RB211,.779,.779,,245.5,245.5,,-26.75,-26.75,,38004,38004,,
+174080,174080,,3264,3488,,,1.582,1.570,,,0,445,445,,0,0,,0,
+-------------------------------------------------------[2024-07-04 20:58:46.069]
+
+SOURCE: AIR
+RX_ID: 866, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 4, Msg No: D00B
+Flight ID: QY8031 REG: OE-LND
+
+
+Message content:-
+#DFB0,,
+0,0,0,0,0,0,,,0,0,,,,,  20.0,  20.0,,  6.4,  6.4,,0,0,,0,0,
+,,,0,0,  239, 8597, 8597,,,,,0,0,0,,,0,0,0,,,0,0,,0,0,,0,0,,
+0,0,0,,,,,0,0,0,,,0,0,0,
+
+CREATED BY AVIONIC ENGINEERING
+
+-------------------------------------------------------[2024-07-04 20:58:52.213]
+
+SOURCE: AIR
+RX_ID: 867, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 5, Msg No: D01A
+Flight ID: QY8031 REG: OE-LND
+
+
+Message content:-
+#DFBSTABLE CRUISE REPORT
+
+APM     OE-LND          QYXXXXXXDEPXDESX040724210437,757-200,
+RB211,.780,.780,,246.5,246.5,,-26.50,-26.50,,38003,38003,,
+173360,173360,,3104,3360,,,1.555,1.543,,,0,428,428,,0,0,,0,
+-------------------------------------------------------[2024-07-04 21:05:00.058]
+
+SOURCE: AIR
+RX_ID: 868, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: D01B
+Flight ID: QY8031 REG: OE-LND
+
+
+Message content:-
+#DFB0,,
+0,0,0,0,0,0,,,0,0,,,,,   2.8,   2.8,,  7.3,  7.3,,0,0,,0,0,
+,,,0,0,    0, 8357, 8357,,,,,0,0,0,,,0,0,0,,,0,0,,0,0,,0,0,,
+0,0,0,,,,,0,0,0,,,0,0,0,
+
+CREATED BY AVIONIC ENGINEERING
+
+-------------------------------------------------------[2024-07-04 21:05:05.800]
+
+SOURCE: AIR
+RX_ID: 869, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: D01B
+Flight ID: QY8031 REG: OE-LND
+
+
+Message content:-
+#DFB0,,
+0,0,0,0,0,0,,,0,0,,,,,   2.8,   2.8,,  7.3,  7.3,,0,0,,0,0,
+,,,0,0,    0, 8357, 8357,,,,,0,0,0,,,0,0,0,,,0,0,,0,0,,0,0,,
+0,0,0,,,,,0,0,0,,,0,0,0,
+
+CREATED BY AVIONIC ENGINEERING
+
+-------------------------------------------------------[2024-07-04 21:05:24.016]
+
+SOURCE: AIR
+RX_ID: 870, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 8, Msg No: F06A
+Flight ID: QY8031 REG: OE-LND
+
+
+Message content:-
+#M1BPOSN45106E006428,,210825,380,KINES,210947,ESOKO,M54,29966,158,7729449
+-------------------------------------------------------[2024-07-04 21:08:27.530]
+
+SOURCE: AIR
+RX_ID: 871, Freq: 131.825MHz
+Mode: 2 NACKLabel: 16 Block ID: 6, Msg No: M45A
+Flight ID: WB0711 REG: 9XR-WP
+
+
+Message content:-
+214108,35007,0452,  51,N 44.143 E  3.753
+-------------------------------------------------------[2024-07-04 21:41:10.959]
+

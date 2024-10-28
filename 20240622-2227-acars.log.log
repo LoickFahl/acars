@@ -1,0 +1,60 @@
+SOURCE: AIR
+RX_ID: 0, Freq: 131.825MHz
+Mode: 2 NACKLabel: 5U Block ID: 2, Msg No: 2801
+Flight ID: QY8033 REG: D-AEAT
+
+
+Message content:-
+01,WX,132228,8033,22,LPPT,EDDP,8356015,EDDP,EDDV,LIMC,1,1,
+-------------------------------------------------------[2024-06-22 22:27:56.271]
+
+SOURCE: AIR
+RX_ID: 1, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 9, Msg No: F55A
+Flight ID: ZD0000 REG: T7JAT
+
+
+Message content:-
+#M2B/.RESREQ/AK,115/TS233123,220624
+-------------------------------------------------------[2024-06-22 23:31:24.152]
+
+SOURCE: AIR
+RX_ID: 2, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 0, Msg No: F56A
+Flight ID: ZD0000 REG: T7JAT
+
+
+Message content:-
+#M2B/.POS/TS233123,220624N45165E004267,,233123,370,LFML,001723,,M44,33552,154,850E9F6
+-------------------------------------------------------[2024-06-22 23:31:28.469]
+
+SOURCE: AIR
+RX_ID: 3, Freq: 131.725MHz
+Mode: 2 NACKLabel: B9 Block ID: 1, Msg No: M57A
+Flight ID: ZD0000 REG: T7JAT
+
+
+Message content:-
+/LFMN.TI2/024LFMNA426A
+-------------------------------------------------------[2024-06-22 23:32:11.256]
+
+SOURCE: AIR
+RX_ID: 4, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: F62A
+Flight ID: ZD0000 REG: T7JAT
+
+
+Message content:-
+#M2B/.RESREQ/AK,115/TS234154,220624
+-------------------------------------------------------[2024-06-22 23:41:54.737]
+
+SOURCE: AIR
+RX_ID: 5, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: F63A
+Flight ID: ZD0000 REG: T7JAT
+
+
+Message content:-
+#M2B/.POS/TS234154,220624N44000E005428,,234154,251,LFML,001754,,M32,31946,150,8501DBF
+-------------------------------------------------------[2024-06-22 23:41:59.271]
+

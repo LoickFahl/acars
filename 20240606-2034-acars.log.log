@@ -1,0 +1,95 @@
+SOURCE: AIR
+RX_ID: 0, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 0, Msg No: F05A
+Flight ID: QY8031 REG: D-ALEV
+
+
+Message content:-
+#M1BPOSN43370E006009,,203413,380,IRMAR,204442,KINES,M59,27953,173,773C108
+-------------------------------------------------------[2024-06-06 20:34:20.132]
+
+SOURCE: AIR
+RX_ID: 1, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 1, Msg No: D00A
+Flight ID: QY8031 REG: D-ALEV
+
+
+Message content:-
+#DFBSTABLE CRUISE REPORT
+
+APM     D-ALEV          QYXXXXXXDEPXDESX060624203430,757-200,
+RB211,.776,.776,,244.5,244.5,,-33.50,-33.50,,38004,38004,,
+175360,175360,,3232,3168,,,1.551,1.561,,,0,452,452,,0,0,,0,
+-------------------------------------------------------[2024-06-06 20:34:56.372]
+
+SOURCE: AIR
+RX_ID: 2, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 2, Msg No: D00B
+Flight ID: QY8031 REG: D-ALEV
+
+
+Message content:-
+#DFB0,,
+0,0,0,0,0,0,,,0,0,,,,,  18.3,  18.3,,  6.4,  6.4,,0,0,,0,0,
+,,,0,0,    0, 8797, 8597,,,,,0,0,0,,,0,0,0,,,0,0,,0,0,,0,0,,
+0,0,0,,,,,0,0,0,,,0,0,0,
+
+CREATED BY AVIONIC ENGINEERING
+
+-------------------------------------------------------[2024-06-06 20:35:03.138]
+
+SOURCE: AIR
+RX_ID: 3, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 5, Msg No: F06A
+Flight ID: QY8031 REG: D-ALEV
+
+
+Message content:-
+#M1BPOSN44594E006391,,204553,380,VANAS,204946,GODRA,M59,27457,161,773AB1A
+-------------------------------------------------------[2024-06-06 20:45:56.238]
+
+SOURCE: AIR
+RX_ID: 4, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 5, Msg No: F06A
+Flight ID: QY8031 REG: D-ALEV
+
+
+Message content:-
+#M1BPOSN44594E006391,,204553,380,VANAS,204946,GODRA,M59,27457,161,773AB1A
+-------------------------------------------------------[2024-06-06 20:46:16.533]
+
+SOURCE: AIR
+RX_ID: 5, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 2, Msg No: F03A
+Flight ID: QY1685 REG: D-ALES
+
+
+Message content:-
+#M1BPOSN44228E004589,SAURG,210905,247,KURIR,211202,ETREK,M28,26443,182,D485
+-------------------------------------------------------[2024-06-06 21:09:08.745]
+
+SOURCE: AIR
+RX_ID: 6, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 9, Msg No: D04A
+Flight ID: CV946J REG: LX-YCV
+
+
+Message content:-
+#DFB600LX-YCVCLX946ELLXFAOR060624 169ER2118272120CLXA23010841084108413
+00630073007-1496-1406-13803300132975329923368973368972749287427942860
+ 149247964824480600011100001111 438755 438727 438727  69506  69504 
+-------------------------------------------------------[2024-06-06 21:18:40.110]
+
+SOURCE: AIR
+RX_ID: 7, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 1, Msg No: D04C
+Flight ID: CV946J REG: LX-YCV
+
+
+Message content:-
+#DFB623733137
+92013517 3946 4037)))))------------------------ 898 904 901 905 925 9
+20 918 918 856 865 859 8595123530050795284-469-461-459  35  37  33 -0
+1 -02 -02  31  29  30 -06 03 01  02 -03 -02  05  00 -
+-------------------------------------------------------[2024-06-06 21:18:47.859]
+
