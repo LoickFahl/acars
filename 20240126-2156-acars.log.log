@@ -1,0 +1,170 @@
+SOURCE: AIR
+RX_ID: 0, Freq: 131.825MHz
+Mode: 2 NACKLabel: 5U Block ID: 6, Msg No: M06A
+Flight ID: QY8029 REG: D-ALER
+
+
+Message content:-
+10,WX,262156,QY8029,26,LEBL,LIMC,8068423,LIMC,LIME,,1,0,
+-------------------------------------------------------[2024-01-26 21:56:47.367]
+
+SOURCE: AIR
+RX_ID: 1, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 7, Msg No: S22A
+Flight ID: QY8029 REG: D-ALER
+
+
+Message content:-
+
+-------------------------------------------------------[2024-01-26 21:57:28.767]
+
+SOURCE: AIR
+RX_ID: 2, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 8, Msg No: S23A
+Flight ID: QY8029 REG: D-ALER
+
+
+Message content:-
+
+-------------------------------------------------------[2024-01-26 21:58:09.286]
+
+SOURCE: AIR
+RX_ID: 3, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 9, Msg No: S24A
+Flight ID: QY8029 REG: D-ALER
+
+
+Message content:-
+
+-------------------------------------------------------[2024-01-26 21:58:16.273]
+
+SOURCE: AIR
+RX_ID: 4, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 0, Msg No: S25A
+Flight ID: QY8029 REG: D-ALER
+
+
+Message content:-
+
+-------------------------------------------------------[2024-01-26 21:58:22.818]
+
+SOURCE: AIR
+RX_ID: 5, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 1, Msg No: D00A
+Flight ID: QY8029 REG: D-ALER
+
+
+Message content:-
+#DFBSTABLE CRUISE REPORT
+
+APM     D-ALER          QYXXXXXXDEPXDESX260124215742,757-200,
+PW2037,.720,.720,,247.5,247.5,,-30.50,-30.50,,34006,34006,,
+163280,163280,,2880,2784,,,1.098,1.084,,,0,424,424,,0,0,,0
+-------------------------------------------------------[2024-01-26 21:58:28.161]
+
+SOURCE: AIR
+RX_ID: 6, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 2, Msg No: D00B
+Flight ID: QY8029 REG: D-ALER
+
+
+Message content:-
+#DFB,0,,
+0,0,0,0,0,0,,,0,0,,,,,  42.9,  42.9,,  7.1,  7.1,,0,0,,0,0,
+,,,0,0,    0, 8157, 8157,,,,,0,0,0,,,0,0,0,,,0,0,,0,0,,0,0,,
+0,0,0,,,,,0,0,0,,,0,0,0,
+
+CREATED BY AVIONIC ENGINEERING
+
+-------------------------------------------------------[2024-01-26 21:58:34.705]
+
+SOURCE: AIR
+RX_ID: 7, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 3, Msg No: D01A
+Flight ID: QY8029 REG: D-ALER
+
+
+Message content:-
+#DFBSTABLE CRUISE REPORT
+
+APM     D-ALER          QYXXXXXXDEPXDESX260124215851,757-200,
+PW2037,.718,.718,,246.5,246.5,,-30.50,-30.50,,34005,34005,,
+163120,163120,,2880,2784,,,1.100,1.086,,,0,428,428,,0,0,,0
+-------------------------------------------------------[2024-01-26 21:59:13.214]
+
+SOURCE: AIR
+RX_ID: 8, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 4, Msg No: D01B
+Flight ID: QY8029 REG: D-ALER
+
+
+Message content:-
+#DFB,0,,
+0,0,0,0,0,0,,,0,0,,,,,  46.1,  46.1,,  7.0,  7.0,,0,0,,0,0,
+,,,0,0,    0, 8157, 8157,,,,,0,0,0,,,0,0,0,,,0,0,,0,0,,0,0,,
+0,0,0,,,,,0,0,0,,,0,0,0,
+
+CREATED BY AVIONIC ENGINEERING
+
+-------------------------------------------------------[2024-01-26 21:59:20.380]
+
+SOURCE: AIR
+RX_ID: 9, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 5, Msg No: S26A
+Flight ID: QY8029 REG: D-ALER
+
+
+Message content:-
+
+-------------------------------------------------------[2024-01-26 22:04:19.387]
+
+SOURCE: AIR
+RX_ID: 10, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: F05A
+Flight ID: QY8029 REG: D-ALER
+
+
+Message content:-
+#M1BPOSN43218E006544,,220420,340,NOSTA,221048,ABN,M54,30355,156,717AC01
+-------------------------------------------------------[2024-01-26 22:04:22.238]
+
+SOURCE: AIR
+RX_ID: 11, Freq: 131.825MHz
+Mode: 2 NACKLabel: Q0 Block ID: 3, Msg No: S49A
+Flight ID: LH0500 REG: D-AIGO
+
+
+Message content:-
+
+-------------------------------------------------------[2024-01-26 22:23:41.185]
+
+SOURCE: AIR
+RX_ID: 12, Freq: 131.825MHz
+Mode: 2 NACKLabel: 1L Block ID: 4, Msg No: M19A
+Flight ID: LH0500 REG: D-AIGO
+
+
+Message content:-
+00015209252H7Y7U(5U27IM7Y((3IY2Y+UPMNC3YY35IJ75+9KJY92Y2A+4+
+-------------------------------------------------------[2024-01-26 22:25:36.091]
+
+SOURCE: AIR
+RX_ID: 13, Freq: 131.725MHz
+Mode: E NACKLabel: Q0 Block ID: 0, Msg No: S00A
+Flight ID: IB0421 REG: EC-FTR
+
+
+Message content:-
+
+-------------------------------------------------------[2024-01-26 23:10:27.965]
+
+SOURCE: AIR
+RX_ID: 14, Freq: 131.825MHz
+Mode: 2 NACKLabel: Q0 Block ID: 2, Msg No: S15A
+Flight ID: FR442T REG: 9H-VVH
+
+
+Message content:-
+
+-------------------------------------------------------[2024-01-26 23:15:01.589]
+
