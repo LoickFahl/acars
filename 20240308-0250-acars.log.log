@@ -1,0 +1,358 @@
+SOURCE: AIR
+RX_ID: 62, Freq: 131.825MHz
+Mode: 2 NACKLabel: Q0 Block ID: 6, Msg No: S85A
+Flight ID: QY8000 REG: OE-LNC
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-08 02:50:53.478]
+
+SOURCE: AIR
+RX_ID: 63, Freq: 131.825MHz
+Mode: 2 NACKLabel: Q0 Block ID: 6, Msg No: S85A
+Flight ID: QY8000 REG: OE-LNC
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-08 02:51:14.995]
+
+SOURCE: AIR
+RX_ID: 64, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 7, Msg No: S86A
+Flight ID: QY8000 REG: OE-LNC
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-08 02:52:27.905]
+
+SOURCE: AIR
+RX_ID: 65, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 0, Msg No: S87A
+Flight ID: QY8000 REG: OE-LNC
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-08 02:55:25.059]
+
+SOURCE: AIR
+RX_ID: 66, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 1, Msg No: S88A
+Flight ID: QY8000 REG: OE-LNC
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-08 02:55:32.410]
+
+SOURCE: AIR
+RX_ID: 67, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 2, Msg No: S89A
+Flight ID: QY8000 REG: OE-LNC
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-08 03:04:28.806]
+
+SOURCE: AIR
+RX_ID: 68, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 3, Msg No: F22A
+Flight ID: QY8000 REG: OE-LNC
+
+
+Message content:-
+#M1BPOSN43420E004482,,030444,370,NILDU,031917,BISBA,M66,21850,196,78270C4
+-------------------------------------------------------[2024-03-08 03:04:47.240]
+
+SOURCE: AIR
+RX_ID: 69, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 0, Msg No: D60A
+Flight ID: KL0590 REG: PH-BVU
+
+
+Message content:-
+#DFB(POS-KLM590  -4341N00446E/031727 F360
+RMK/FUEL  13.5 M0.83)
+-------------------------------------------------------[2024-03-08 03:17:29.503]
+
+SOURCE: AIR
+RX_ID: 70, Freq: 131.725MHz
+Mode: G NACKLabel: 10 Block ID: 2, Msg No: M91A
+Flight ID: KL0280 REG: PH-AOD
+
+
+Message content:-
+ETA36A08035554KLM280  HUENEHAM070525EHAM 118
+-------------------------------------------------------[2024-03-08 03:56:00.072]
+
+SOURCE: AIR
+RX_ID: 71, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 3, Msg No: D29A
+Flight ID: KL0280 REG: PH-AOD
+
+
+Message content:-
+#DFBR01/A33001,1,1
+C1,.PH-AOD,24MAR08,01.25.36,HUEN,EHAM,KLM280    ,5000,142
+C2,002,06.0,000000,D1033GE04C0KL21,000,000,000
+C3,-19.5,37999,0.807,111,1.16,111,10,0,01,111,1.16,X
+C4,-19.7,38001,0.807,111
+C5,
+-------------------------------------------------------[2024-03-08 03:57:58.673]
+
+SOURCE: AIR
+RX_ID: 72, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 4, Msg No: D29B
+Flight ID: KL0280 REG: PH-AOD
+
+
+Message content:-
+#DFB811168,07355,05527,00019,1H11111111111H,00001,26064,6,051
+C6,811298,07355,14961,00019,11H1111111111H,00001,26064,0
+N1,096.41,096.4,096.4,102.3,0737,---.-,02812,--.--,--.--
+N2,096.41,096.4,096.4,101.7,073
+-------------------------------------------------------[2024-03-08 03:58:03.574]
+
+SOURCE: AIR
+RX_ID: 73, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 5, Msg No: D29C
+Flight ID: KL0280 REG: PH-AOD
+
+
+Message content:-
+#DFB9,---.-,02833,--.--,--.--
+S1,072.6,142.1,460.8,---.-,78.5,-0.0,077,044,025.8,44,134
+S2,073.8,142.5,459.5,---.-,76.4,-0.0,078,043,031.2,43,141
+T1,--.--,054,115.3,0,00.7,0.07,0.63,00.5,219,131,0.13,0.64
+T
+-------------------------------------------------------[2024-03-08 03:58:07.671]
+
+SOURCE: AIR
+RX_ID: 74, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 6, Msg No: D29D
+Flight ID: KL0280 REG: PH-AOD
+
+
+Message content:-
+#DFB2,--.--,052,115.3,0,03.0,0.11,0.81,00.5,238,101,0.51,0.84
+                            :
+
+-------------------------------------------------------[2024-03-08 03:58:11.366]
+
+SOURCE: AIR
+RX_ID: 75, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 7, Msg No: D30A
+Flight ID: KL0280 REG: PH-AOD
+
+
+Message content:-
+#DFB(POS-KLM280  -4331N00505E/035813 F380
+RMK/FUEL  11.9 M0.80)
+-------------------------------------------------------[2024-03-08 03:58:27.349]
+
+SOURCE: AIR
+RX_ID: 76, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 7, Msg No: D30A
+Flight ID: KL0280 REG: PH-AOD
+
+
+Message content:-
+#DFB(POS-KLM280  -4331N00505E/035813 F380
+RMK/FUEL  11.9 M0.80)
+-------------------------------------------------------[2024-03-08 03:58:38.173]
+
+SOURCE: AIR
+RX_ID: 77, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 1, Msg No: S15A
+Flight ID: QY1684 REG: D-ALEQ
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-08 04:28:12.376]
+
+SOURCE: AIR
+RX_ID: 78, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 3, Msg No: D05A
+Flight ID: QY1684 REG: D-ALEQ
+
+
+Message content:-
+#DFBSTABLE CRUISE REPORT
+
+APM     D-ALEQ          QYXXXXXXDEPXDESX080324035353,757-200,
+PW2037,.789,.789,,243.5,243.5,,-36.00,-36.00,,39003,39003,,
+184400,184400,,3360,3232,,,1.264,1.254,,,0,445,445,,0,0,,0
+-------------------------------------------------------[2024-03-08 04:33:58.895]
+
+SOURCE: AIR
+RX_ID: 79, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 4, Msg No: D05B
+Flight ID: QY1684 REG: D-ALEQ
+
+
+Message content:-
+#DFB,0,,
+0,0,0,0,0,0,,,0,0,,,,,-147.0,-147.0,,  0.3,  0.3,,0,0,,0,0,
+,,,0,0,    0, 7718, 7718,,,,,0,0,0,,,0,0,0,,,0,0,,0,0,,0,0,,
+0,0,0,,,,,0,0,0,,,0,0,0,
+
+CREATED BY AVIONIC ENGINEERING
+
+-------------------------------------------------------[2024-03-08 04:34:05.878]
+
+SOURCE: AIR
+RX_ID: 80, Freq: 131.725MHz
+Mode: X NACKLabel: 16 Block ID: 5, Msg No: M17A
+Flight ID: SN04KE REG: OO-SFD
+
+
+Message content:-
+08MAR24,0437,N 44.392,E  6.472,38010,0540,23880
+-------------------------------------------------------[2024-03-08 04:37:33.356]
+
+SOURCE: AIR
+RX_ID: 81, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 5, Msg No: S16A
+Flight ID: QY1684 REG: D-ALEQ
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-08 04:40:22.720]
+
+SOURCE: AIR
+RX_ID: 82, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: F26A
+Flight ID: QY1684 REG: D-ALEQ
+
+
+Message content:-
+#M1BPOSN43456E005028,,044023,56,ZEBRA,044255,ML125,P0,15929,114,1CE5
+-------------------------------------------------------[2024-03-08 04:40:25.391]
+
+SOURCE: AIR
+RX_ID: 83, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 3, Msg No: S71A
+Flight ID: QY1956 REG: OE-LND
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-08 04:53:04.769]
+
+SOURCE: AIR
+RX_ID: 84, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 4, Msg No: F16A
+Flight ID: QY1956 REG: OE-LND
+
+
+Message content:-
+#M1BPOSN43504E004494,,045304,90,ZEBRA,045657,ML125,M5,17426,244,EFD2
+-------------------------------------------------------[2024-03-08 04:53:06.634]
+
+SOURCE: AIR
+RX_ID: 85, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 5, Msg No: S37A
+Flight ID: BA0042 REG: G-STBA
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-08 05:00:43.965]
+
+SOURCE: AIR
+RX_ID: 86, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: _d Block ID: 6, Msg No: S38A
+Flight ID: BA0042 REG: G-STBA
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-08 05:00:50.293]
+
+SOURCE: AIR
+RX_ID: 87, Freq: 131.825MHz
+Mode: 2 NACKLabel: B6 Block ID: 8, Msg No: F40A
+Flight ID: BA0042 REG: G-STBA
+
+
+Message content:-
+/QUKAXBA.ADS.G-STBA071EF1481CD1C8CA02719DFCC2
+-------------------------------------------------------[2024-03-08 05:02:38.434]
+
+SOURCE: AIR
+RX_ID: 88, Freq: 131.825MHz
+Mode: 2 NACKLabel: Q0 Block ID: 0, Msg No: S60A
+Flight ID: FR564L REG: 9H-VUC
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-08 06:21:41.239]
+
+SOURCE: AIR
+RX_ID: 89, Freq: 131.825MHz
+Mode: 2 NACKLabel: SA Block ID: 2, Msg No: S61A
+Flight ID: FR564L REG: 9H-VUC
+
+
+Message content:-
+0EV062146V/
+-------------------------------------------------------[2024-03-08 06:21:54.953]
+
+SOURCE: AIR
+RX_ID: 90, Freq: 131.825MHz
+Mode: 2 NACKLabel: 5V Block ID: 3, Msg No: S62A
+Flight ID: FR564L REG: 9H-VUC
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-08 06:22:44.322]
+
+SOURCE: AIR
+RX_ID: 91, Freq: 131.825MHz
+Mode: 2 NACKLabel: B6 Block ID: 6, Msg No: F73A
+Flight ID: EK0255 REG: A6-EWI
+
+
+Message content:-
+/DXBEGEK.ADS.A6-EWI071EE6A821AF4908A53E9F8B94
+-------------------------------------------------------[2024-03-08 06:39:45.447]
+
+SOURCE: AIR
+RX_ID: 92, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: O69A
+Flight ID: EK0255 REG: A6-EWI
+
+
+Message content:-
+#10BSB0122BA_A6-EWI  OMDBLEBL347
+ 43292 0056430641 36997-65022304401020;009012
+-------------------------------------------------------[2024-03-08 06:42:03.922]
+
+SOURCE: AIR
+RX_ID: 93, Freq: 131.725MHz
+Mode: X NACKLabel: 20 Block ID: 3, Msg No: M40A
+Flight ID: KL0592 REG: PH-BQB
+
+
+Message content:-
+RST07A08074300KLM592  FAOREHAM
+-------------------------------------------------------[2024-03-08 07:43:04.338]
+
+SOURCE: AIR
+RX_ID: 94, Freq: 131.725MHz
+Mode: X NACKLabel: 16 Block ID: 0, Msg No: M20A
+Flight ID: FR84QZ REG: EI-DPG
+
+
+Message content:-
+075845,,0900, 139,N   .    MMMM.MMM
+-------------------------------------------------------[2024-03-08 07:58:47.233]
+

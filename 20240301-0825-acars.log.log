@@ -1,0 +1,21 @@
+SOURCE: AIR
+RX_ID: 0, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 0, Msg No: D13A
+Flight ID: KL0104 REG: PH-BVK
+
+
+Message content:-
+#DFB(POS-KLM104  -4340N00507E/082507 F360
+RMK/FUEL  14.9 M0.83)
+-------------------------------------------------------[2024-03-01 08:25:09.665]
+
+SOURCE: AIR
+RX_ID: 1, Freq: 131.825MHz
+Mode: 2 NACKLabel: 83 Block ID: 9, Msg No: M13A
+Flight ID: ZD0001 REG: DBEAM
+
+
+Message content:-
+001PR01085423N4407.5E00520.34094550051
+-------------------------------------------------------[2024-03-01 08:54:26.858]
+

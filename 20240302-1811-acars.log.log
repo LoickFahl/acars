@@ -1,0 +1,115 @@
+SOURCE: AIR
+RX_ID: 0, Freq: 131.725MHz
+Mode: 2 NACKLabel: 5V Block ID: 9, Msg No: S43A
+Flight ID: AH1461 REG: 7T-VKI
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-02 18:11:00.203]
+
+SOURCE: AIR
+RX_ID: 1, Freq: 131.725MHz
+Mode: 2 NACKLabel: Q0 Block ID: 0, Msg No: M01A
+Flight ID: AH1461 REG: 7T-VKI
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-02 18:11:01.228]
+
+SOURCE: AIR
+RX_ID: 2, Freq: 131.725MHz
+Mode: G NACKLabel: 80 Block ID: 1, Msg No: M99A
+Flight ID: AH1461 REG: 7T-VKI
+
+
+Message content:-
+3M01 OPNORM 1461/02 LFLL/DABC .7T-VKI
+-------------------------------------------------------[2024-03-02 18:11:05.322]
+
+SOURCE: AIR
+RX_ID: 3, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 2, Msg No: D24A
+Flight ID: AH1461 REG: 7T-VKI
+
+
+Message content:-
+#DFB43101??????B737-80002MAR24AH1461LFLLDABC0418AH706C
+175000CL14010219016526001190158N45424E005054136360
+09270928096309690792078300090003
+080820848700720072057054074073
+026058032109009003005011
+2161162903
+-------------------------------------------------------[2024-03-02 18:11:09.601]
+
+SOURCE: AIR
+RX_ID: 4, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 3, Msg No: D24B
+Flight ID: AH1461 REG: 7T-VKI
+
+
+Message content:-
+#DFB24000
+110000001109820924092309850985
+018CE018CE00000000000620906209398C639B06
+001000110010000200007F0927F0924000940009BB
+4084C4084F00040005092809298644078925077E6D7E6D
+07440749-001-001100100024025-0010
+-------------------------------------------------------[2024-03-02 18:11:14.100]
+
+SOURCE: AIR
+RX_ID: 5, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 4, Msg No: D24C
+Flight ID: AH1461 REG: 7T-VKI
+
+
+Message content:-
+#DFB001
+09790979328632931041040498051179287835
+1101110111111111X01111010418007500
+1101110111111111X01111010418007500
+
+-------------------------------------------------------[2024-03-02 18:11:18.196]
+
+SOURCE: AIR
+RX_ID: 6, Freq: 131.725MHz
+Mode: G NACKLabel: 5U Block ID: 5, Msg No: M02A
+Flight ID: AH1461 REG: 7T-VKI
+
+
+Message content:-
+  01 WXRQ   1461/02 LFLL/DABC .7T-VKI
+/TYP 1/STA DABC/STA DAAG/STA DABB
+-------------------------------------------------------[2024-03-02 18:11:22.108]
+
+SOURCE: AIR
+RX_ID: 7, Freq: 131.725MHz
+Mode: G ACK, A2GLabel: _d Block ID: 6, Msg No: S44A
+Flight ID: AH1461 REG: 7T-VKI
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-02 18:11:26.606]
+
+SOURCE: AIR
+RX_ID: 8, Freq: 131.725MHz
+Mode: G ACK, A2GLabel: _d Block ID: 7, Msg No: S45A
+Flight ID: AH1461 REG: 7T-VKI
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-02 18:11:30.081]
+
+SOURCE: AIR
+RX_ID: 9, Freq: 131.725MHz
+Mode: G NACKLabel: 5V Block ID: 8, Msg No: S46A
+Flight ID: AH1461 REG: 7T-VKI
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-02 18:11:40.138]
+

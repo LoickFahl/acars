@@ -1,0 +1,30 @@
+SOURCE: AIR
+RX_ID: 0, Freq: 131.725MHz
+Mode: E ACK, A2GLabel: _d Block ID: 3, Msg No: S39A
+Flight ID: QR017B REG: A7-BAX
+
+
+Message content:-
+
+-------------------------------------------------------[2024-03-05 11:45:12.594]
+
+SOURCE: AIR
+RX_ID: 1, Freq: 131.725MHz
+Mode: E NACKLabel: 16 Block ID: 4, Msg No: M02A
+Flight ID: QR017B REG: A7-BAX
+
+
+Message content:-
+PAD-13 ,N 43.143,E   5.638,34999,0472,----,035\TS114510,050324
+-------------------------------------------------------[2024-03-05 11:45:14.241]
+
+SOURCE: AIR
+RX_ID: 2, Freq: 131.725MHz
+Mode: E NACKLabel: 16 Block ID: 5, Msg No: M03A
+Flight ID: QR017B REG: A7-BAX
+
+
+Message content:-
+DIV-14 ,N 42.984,E   5.305,34994,0477,1300,034\TS114737,050324
+-------------------------------------------------------[2024-03-05 11:47:39.649]
+
