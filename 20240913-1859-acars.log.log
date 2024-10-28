@@ -1,0 +1,160 @@
+SOURCE: AIR
+RX_ID: 0, Freq: 131.525MHz
+Mode: T NACKLabel: 2Z Block ID: 1, Msg No: M32A
+Flight ID: AF7312 REG: F-GMZE
+
+
+Message content:-
+LFMN
+-------------------------------------------------------[2024-09-13 18:59:04.275]
+
+SOURCE: AIR
+RX_ID: 1, Freq: 131.525MHz
+Mode: T ACK, A2GLabel: 2Z Block ID: 1, Msg No: M32A
+Flight ID: AF7312 REG: F-GMZE
+
+
+Message content:-
+LFMN
+-------------------------------------------------------[2024-09-13 18:59:05.519]
+
+SOURCE: AIR
+RX_ID: 2, Freq: 131.825MHz
+Mode: 2 NACKLabel: 16 Block ID: 3, Msg No: M75A
+Flight ID: U5WMT2 REG: 9H-SAS
+
+
+Message content:-
+190026,34005,2109, 182,MMMM.MMM MMMM.MMM
+-------------------------------------------------------[2024-09-13 19:00:28.025]
+
+SOURCE: AIR
+RX_ID: 3, Freq: 131.525MHz
+Mode: T NACKLabel: 2F Block ID: 2, Msg No: M33A
+Flight ID: AF7312 REG: F-GMZE
+
+
+Message content:-
+1903+4409+549/2762
+-------------------------------------------------------[2024-09-13 19:04:01.244]
+
+SOURCE: AIR
+RX_ID: 4, Freq: 131.525MHz
+Mode: T NACKLabel: 26 Block ID: 3, Msg No: M34A
+Flight ID: AF7312 REG: F-GMZE
+
+
+Message content:-
+1906LFPGAF7312/131921LFMN04L
+-------------------------------------------------------[2024-09-13 19:06:03.094]
+
+SOURCE: AIR
+RX_ID: 5, Freq: 131.825MHz
+Mode: 2 NACKLabel: SA Block ID: 6, Msg No: S85A
+Flight ID: BA61XM REG: G-EUUO
+
+
+Message content:-
+0EV193047V
+-------------------------------------------------------[2024-09-13 19:30:48.935]
+
+SOURCE: AIR
+RX_ID: 6, Freq: 131.825MHz
+Mode: 2 NACKLabel: 15 Block ID: 7, Msg No: M33A
+Flight ID: BA61XM REG: G-EUUO
+
+
+Message content:-
+FST01LICJEGLLN43025E0079438360  64  36    103294      383  21061922
+-------------------------------------------------------[2024-09-13 19:30:54.054]
+
+SOURCE: AIR
+RX_ID: 7, Freq: 131.825MHz
+Mode: 2 ACK, A2GLabel: 15 Block ID: 7, Msg No: M33A
+Flight ID: BA61XM REG: G-EUUO
+
+
+Message content:-
+FST01LICJEGLLN43025E0079438360  64  36    103294      383  21061922
+-------------------------------------------------------[2024-09-13 19:30:55.079]
+
+SOURCE: AIR
+RX_ID: 8, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 8, Msg No: F25A
+Flight ID: BA61XM REG: G-EUUO
+
+
+Message content:-
+#M1BPRG/DTEGLL,27L,58,210421,/PR1367,315,360,134,,0,55,,M56,50,,,P55,M35,36090,,1232,3262F4E
+-------------------------------------------------------[2024-09-13 19:31:01.441]
+
+SOURCE: AIR
+RX_ID: 9, Freq: 131.825MHz
+Mode: 2 NACKLabel: B9 Block ID: 9, Msg No: L01A
+Flight ID: QY1929 REG: D-ALER
+
+
+Message content:-
+/EDDP.TI2/024EDDPAB993
+-------------------------------------------------------[2024-09-13 20:30:12.275]
+
+SOURCE: AIR
+RX_ID: 10, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 3, Msg No: F03A
+Flight ID: QY1929 REG: D-ALER
+
+
+Message content:-
+#M1BPOSN44548E004139,,203033,380,LTP,203838,GIPNO,M40,31879,155,77022CA
+-------------------------------------------------------[2024-09-13 20:30:36.044]
+
+SOURCE: AIR
+RX_ID: 11, Freq: 131.525MHz
+Mode: T NACKLabel: 2Z Block ID: 9, Msg No: M82A
+Flight ID: AF7314 REG: F-GMZA
+
+
+Message content:-
+LFMN
+-------------------------------------------------------[2024-09-13 20:34:02.896]
+
+SOURCE: AIR
+RX_ID: 12, Freq: 131.525MHz
+Mode: T NACKLabel: 2F Block ID: 1, Msg No: M83A
+Flight ID: AF7314 REG: F-GMZA
+
+
+Message content:-
+2040+4407+567/2651
+-------------------------------------------------------[2024-09-13 20:40:10.113]
+
+SOURCE: AIR
+RX_ID: 13, Freq: 131.525MHz
+Mode: T NACKLabel: 26 Block ID: 2, Msg No: M84A
+Flight ID: AF7314 REG: F-GMZA
+
+
+Message content:-
+2041LFPGAF7314/132056LFMN04L
+-------------------------------------------------------[2024-09-13 20:41:02.342]
+
+SOURCE: AIR
+RX_ID: 14, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 9, Msg No: F14A
+Flight ID: QY0421 REG: D-ALEQ
+
+
+Message content:-
+#M1BPOSN44326E003403,,215937,380,ROMAM,220919,NEDRU,M48,33364,124,7672A5A
+-------------------------------------------------------[2024-09-13 21:59:40.139]
+
+SOURCE: AIR
+RX_ID: 15, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 2, Msg No: F15A
+Flight ID: QY0421 REG: D-ALEQ
+
+
+Message content:-
+#M1BPOSN45044E005317,,221129,327,EMMEF,221817,LAPRI,M42,34747,115,701A1BA
+-------------------------------------------------------[2024-09-13 22:11:32.297]
+

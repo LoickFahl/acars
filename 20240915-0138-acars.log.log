@@ -1,0 +1,4147 @@
+SOURCE: AIR
+RX_ID: 4, Freq: 131.725MHz
+Mode: G NACKLabel: B9 Block ID: 0, Msg No: J91A
+Flight ID: SN029Q REG: OO-SFG
+
+
+Message content:-
+/EBBR.TI2/000EBBRA2C8A
+-------------------------------------------------------[2024-09-15 01:38:18.674]
+
+SOURCE: AIR
+RX_ID: 5, Freq: 131.725MHz
+Mode: X NACKLabel: 16 Block ID: 2, Msg No: M01A
+Flight ID: SN03DY REG: OO-SFC
+
+
+Message content:-
+15SEP24,0150,N 43.698,E  6.590,37972,0303,25960
+-------------------------------------------------------[2024-09-15 01:50:31.241]
+
+SOURCE: AIR
+RX_ID: 6, Freq: 131.725MHz
+Mode: X NACKLabel: 28 Block ID: 3, Msg No: M02A
+Flight ID: SN03DY REG: OO-SFC
+
+
+Message content:-
+EBBR,LSGG,ELLX,EBLG,
+N 44.320,E  6.537,37976,SN379
+-------------------------------------------------------[2024-09-15 01:55:50.111]
+
+SOURCE: AIR
+RX_ID: 7, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 7, Msg No: C19A
+Flight ID: SN03DY REG: OO-SFC
+
+
+Message content:-
+#CFB.1/FLR/FR2409150156  28491506FCMC2  1,,,,,,,FUEL INR TK TEMP SNSR   (2QR1),HARD
+-------------------------------------------------------[2024-09-15 01:57:51.385]
+
+SOURCE: AIR
+RX_ID: 8, Freq: 131.725MHz
+Mode: X NACKLabel: B9 Block ID: 8, Msg No: M03A
+Flight ID: SN03DY REG: OO-SFC
+
+
+Message content:-
+/EBBR.TI2/040EBBRAED4C
+-------------------------------------------------------[2024-09-15 01:59:08.769]
+
+SOURCE: AIR
+RX_ID: 9, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 1, Msg No: C20A
+Flight ID: SN03DY REG: OO-SFC
+
+
+Message content:-
+#CFB.1/FLR/FR2409150158  28491506FCMC1  1,,,,,,,FUEL INR TK TEMP SNSR   (2QR1),HARD
+-------------------------------------------------------[2024-09-15 01:59:20.655]
+
+SOURCE: AIR
+RX_ID: 10, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 3, Msg No: D38B
+Flight ID: SN03DY REG: OO-SFC
+
+
+Message content:-
+#DFB.2,37973,0.822,111
+C5,041205,09988,06932,01999,00443,10015,00000,00402,26066,240
+C6,041196,07198,35416,01437,00443,10015,00000,00402,36066
+N1,1.448,1.448,078.18,086.1,087.5,0632,06.827,02846,07.87
+N2,1.
+-------------------------------------------------------[2024-09-15 02:02:01.644]
+
+SOURCE: AIR
+RX_ID: 11, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 4, Msg No: D38C
+Flight ID: SN03DY REG: OO-SFC
+
+
+Message content:-
+#DFB448,1.448,077.75,085.8,087.5,0628,06.784,02697,07.82
+S1,04.67,XXX.X,032.5,XXX.X,138.0,447.4,XX.X,XXX.X,029.1,27,144
+S2,04.67,XXX.X,032.4,XXX.X,136.3,445.1,XX.X,XXX.X,027.2,23,129
+T1,083,100,107.7,-03.2,0
+-------------------------------------------------------[2024-09-15 02:02:05.340]
+
+SOURCE: AIR
+RX_ID: 12, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 4, Msg No: D38C
+Flight ID: SN03DY REG: OO-SFC
+
+
+Message content:-
+#DFB448,1.448,077.75,085.8,087.5,0628,06.784,02697,07.82
+S1,04.67,XXX.X,032.5,XXX.X,138.0,447.4,XX.X,XXX.X,029.1,27,144
+S2,04.67,XXX.X,032.4,XXX.X,136.3,445.1,XX.X,XXX.X,027.2,23,129
+T1,083,100,107.7,-03.2,0
+-------------------------------------------------------[2024-09-15 02:02:14.553]
+
+SOURCE: AIR
+RX_ID: 13, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 5, Msg No: D38D
+Flight ID: SN03DY REG: OO-SFC
+
+
+Message content:-
+#DFB46.5,0.11,0.02,0.03,038,0.14,-12.4
+T2,086,104,102.7,-01.6,046.0,0.11,0.13,0.11,293,0.23,-13.0
+V1,XXXX,XXXX
+V2,XXXX,XXXX
+                            :
+
+-------------------------------------------------------[2024-09-15 02:02:19.671]
+
+SOURCE: AIR
+RX_ID: 14, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 7, Msg No: D39B
+Flight ID: SN03DY REG: OO-SFC
+
+
+Message content:-
+#DFB.2,37973,0.822,111
+C5,041205,09988,06932,01999,00443,10015,00000,00402,26066,263
+C6,041196,07198,35416,01437,00443,10015,00000,00402,36066,240
+N1,1.448,1.448,078.18,086.1,087.5,0632,06.827,02846,07.87
+N
+-------------------------------------------------------[2024-09-15 02:02:28.668]
+
+SOURCE: AIR
+RX_ID: 15, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 8, Msg No: D39C
+Flight ID: SN03DY REG: OO-SFC
+
+
+Message content:-
+#DFB2,1.448,1.448,077.75,085.8,087.5,0628,06.784,02697,07.82
+S1,04.67,XXX.X,032.5,XXX.X,138.0,447.4,XX.X,XXX.X,029.1,27,144
+S2,04.67,XXX.X,032.4,XXX.X,136.3,445.1,XX.X,XXX.X,027.2,23,129
+T1,083,100,107.7,-03
+-------------------------------------------------------[2024-09-15 02:02:32.986]
+
+SOURCE: AIR
+RX_ID: 16, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 9, Msg No: D39D
+Flight ID: SN03DY REG: OO-SFC
+
+
+Message content:-
+#DFB.2,046.5,0.11,0.02,0.03,038,0.14,-12.4
+T2,086,104,102.7,-01.6,046.0,0.11,0.13,0.11,293,0.23,-13.0
+V1,XXXX,XXXX
+V2,XXXX,XXXX
+X1,000.1,002.1,-02.3,0003,-0.0015,N44.88
+X2,000.1,002.4,-02.6,0001,-0.0013,N4
+-------------------------------------------------------[2024-09-15 02:02:36.646]
+
+SOURCE: AIR
+RX_ID: 17, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 1, Msg No: D27A
+Flight ID: NW0240 REG: N828NW
+
+
+Message content:-
+#DFB239056802101010098035
+R39/A33039,1,1
+239N828NW240 091524025536809 4408   621389-28-56  9 59AB0510 37000
+ 251 488 000115731030/9WKBOSLGAV
+-------------------------------------------------------[2024-09-15 02:55:51.993]
+
+SOURCE: AIR
+RX_ID: 18, Freq: 131.825MHz
+Mode: 2 NACKLabel: 27 Block ID: 2, Msg No: M09A
+Flight ID: NW0240 REG: N828NW
+
+
+Message content:-
+140327 KBOS LGAV7
+/FN 0240
+F1               252057
+DESSERT CART BREAKS INOP
+-------------------------------------------------------[2024-09-15 03:02:18.226]
+
+SOURCE: AIR
+RX_ID: 19, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 1, Msg No: F35A
+Flight ID: SN028A REG: OO-SFF
+
+
+Message content:-
+#M1BRESPWI/AK,71605F
+-------------------------------------------------------[2024-09-15 03:04:47.330]
+
+SOURCE: AIR
+RX_ID: 20, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 2, Msg No: F36A
+Flight ID: SN028A REG: OO-SFF
+
+
+Message content:-
+#M1BRESPWI/AC,3018259
+-------------------------------------------------------[2024-09-15 03:05:06.565]
+
+SOURCE: AIR
+RX_ID: 21, Freq: 131.725MHz
+Mode: G NACKLabel: B9 Block ID: 2, Msg No: J05A
+Flight ID: SN038K REG: OO-SFE
+
+
+Message content:-
+/EBBR.TI2/000EBBRA2C8A
+-------------------------------------------------------[2024-09-15 03:20:49.498]
+
+SOURCE: AIR
+RX_ID: 22, Freq: 131.725MHz
+Mode: G NACKLabel: B9 Block ID: 4, Msg No: J06A
+Flight ID: SN038K REG: OO-SFE
+
+
+Message content:-
+/EBLG.TI2/000EBLGACB0D
+-------------------------------------------------------[2024-09-15 03:21:17.329]
+
+SOURCE: AIR
+RX_ID: 23, Freq: 131.725MHz
+Mode: X NACKLabel: 16 Block ID: 9, Msg No: M15A
+Flight ID: SN04KE REG: OO-SFD
+
+
+Message content:-
+15SEP24,0323,N 43.706,E  5.039,37998,0442,28800
+-------------------------------------------------------[2024-09-15 03:23:54.629]
+
+SOURCE: AIR
+RX_ID: 24, Freq: 131.725MHz
+Mode: X NACKLabel: 16 Block ID: 0, Msg No: M16A
+Flight ID: SN04KE REG: OO-SFD
+
+
+Message content:-
+15SEP24,0338,N 45.408,E  4.413,37997,0441,25160
+-------------------------------------------------------[2024-09-15 03:38:55.573]
+
+SOURCE: AIR
+RX_ID: 25, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 5, Msg No: F30A
+Flight ID: CC2615 REG: TF-AMU
+
+
+Message content:-
+#M1BPOSN44271E006017,,034240,330,RET21,034304,DOT22,M46,01175,1923,84,8B4D
+-------------------------------------------------------[2024-09-15 03:42:45.975]
+
+SOURCE: AIR
+RX_ID: 26, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 7, Msg No: F31A
+Flight ID: CC2615 REG: TF-AMU
+
+
+Message content:-
+#M1BPOSN43115E006026,,035052,330,DIV26,035136,JUS27,M48,35954,1888,84,3BEB
+-------------------------------------------------------[2024-09-15 03:51:05.693]
+
+SOURCE: AIR
+RX_ID: 27, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 0, Msg No: D72A
+Flight ID: DL0232 REG: N175DZ
+
+
+Message content:-
+#DFB239N175DZ0232091424035405817 4419   599370-26-55 18 7212-167 30320
+ 265 486 1081174000B8YY(KJFKLIRN
+-------------------------------------------------------[2024-09-15 03:54:20.838]
+
+SOURCE: AIR
+RX_ID: 28, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 1, Msg No: D73A
+Flight ID: DL0232 REG: N175DZ
+
+
+Message content:-
+#DFB/WX02EN14KJFKLIRN
+N44498E00537403503899M5800070610XXXX20::30YY(
+N44424E00553003513899M5423540600XXXX20::J8IH-
+N44349E00568703523899M5200090530XXXX20::QX9B(
+N44272E00584003533872M5670150610XXXX20::IXNXW
+-------------------------------------------------------[2024-09-15 03:55:21.265]
+
+SOURCE: AIR
+RX_ID: 29, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 2, Msg No: D73B
+Flight ID: DL0232 REG: N175DZ
+
+
+Message content:-
+#DFB
+N44193E00598903543704M5520180720XXXX20::B8YY(
+N44112E00613703553700M5550160700XXXX2000APIH-
+
+-------------------------------------------------------[2024-09-15 03:55:24.766]
+
+SOURCE: AIR
+RX_ID: 30, Freq: 131.725MHz
+Mode: G NACKLabel: 10 Block ID: 9, Msg No: M48A
+Flight ID: KL0538 REG: PH-AOF
+
+
+Message content:-
+ETA36A15035536KLM538  HUENEHAM140525EHAM 116
+-------------------------------------------------------[2024-09-15 03:55:41.737]
+
+SOURCE: AIR
+RX_ID: 31, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 3, Msg No: D74A
+Flight ID: DL0232 REG: N175DZ
+
+
+Message content:-
+#DFB/WX02EN14KJFKLIRN
+N44031E00628703563701M5420130660XXXX2000YX/9W
+
+-------------------------------------------------------[2024-09-15 03:56:21.269]
+
+SOURCE: AIR
+RX_ID: 32, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 3, Msg No: D74A
+Flight ID: DL0232 REG: N175DZ
+
+
+Message content:-
+#DFB/WX02EN14KJFKLIRN
+N44031E00628703563701M5420130660XXXX2000YX/9W
+
+-------------------------------------------------------[2024-09-15 03:56:30.705]
+
+SOURCE: AIR
+RX_ID: 33, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 0, Msg No: D84A
+Flight ID: KL0538 REG: PH-AOF
+
+
+Message content:-
+#DFB(POS-KLM538  -4401N00457E/035623 F400
+RMK/FUEL  11.6 M0.80)
+-------------------------------------------------------[2024-09-15 03:56:39.520]
+
+SOURCE: AIR
+RX_ID: 34, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 5, Msg No: D75B
+Flight ID: DL0232 REG: N175DZ
+
+
+Message content:-
+#DFB
+N43645E00706404013701M5470130530XXXX20::30NXW
+N43577E00722304023700M5500130480XXXX200030IH-
+
+-------------------------------------------------------[2024-09-15 04:02:24.392]
+
+SOURCE: AIR
+RX_ID: 35, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 6, Msg No: S66A
+Flight ID: UA0163 REG: N37018
+
+
+Message content:-
+0EV040711VS
+-------------------------------------------------------[2024-09-15 04:07:16.016]
+
+SOURCE: AIR
+RX_ID: 36, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 0, Msg No: C02A
+Flight ID: AF7343 REG: F-GMZD
+
+
+Message content:-
+#CFBFLR/FR24091504070030310005SDAC2:NO DATA FROM      PHC2/IDECAM 2,ECAM 1
+-------------------------------------------------------[2024-09-15 04:08:29.962]
+
+SOURCE: AIR
+RX_ID: 37, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 9, Msg No: F61A
+Flight ID: NW0182 REG: N809NW
+
+
+Message content:-
+#M1BRESPWI/AKA,071/TS041543,1509246D63
+-------------------------------------------------------[2024-09-15 04:15:46.191]
+
+SOURCE: AIR
+RX_ID: 38, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 2, Msg No: D12A
+Flight ID: AF7343 REG: F-GMZD
+
+
+Message content:-
+#DFBA31/A32131,1,1/C1F-GMZD,SEP15,040523,LFML,LFPG,0078/C202,00000,8100,53,0011,0,1100,59,X/C30112,N0002,---,---,7629,233,C51020/C4XXXXX,XXXXX,N0002,0112,---/4C0005,---,N0008,XXXXXX,---/C54342,0522,00001,0110,-
+-------------------------------------------------------[2024-09-15 04:21:24.338]
+
+SOURCE: AIR
+RX_ID: 39, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 3, Msg No: D12B
+Flight ID: AF7343 REG: F-GMZD
+
+
+Message content:-
+#DFB--/5C0005,---,N0021,076276,---/C64342,0522,00004,0110,---/6CN000,---,00244,076257,---/C74342,XXXXX,00005,0107,---/7C0005,---,N0037,XXXXXX,---/C8XXXXX,XXXXX,00006,0107,---/8CN000,---,N0042,076276,---/C94342,
+-------------------------------------------------------[2024-09-15 04:21:28.835]
+
+SOURCE: AIR
+RX_ID: 40, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 4, Msg No: D12C
+Flight ID: AF7343 REG: F-GMZD
+
+
+Message content:-
+#DFB0521,00011,0102,335/9CN000,117,N0017,076221,001/C04343,0520,N0030,0120,042/0CN016,177,02316,076239,003/E14345,0519,00680,0110,018/1E0005,175,N0279,XXXXXX,006/E24346,0517,01551,0122,024/2E0007,169,N0799,0759
+-------------------------------------------------------[2024-09-15 04:21:32.093]
+
+SOURCE: AIR
+RX_ID: 41, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 5, Msg No: D12D
+Flight ID: AF7343 REG: F-GMZD
+
+
+Message content:-
+#DFB49,011/E34347,0515,02059,0125,017/3EN008,179,00410,075913,006/E44348,0514,02704,0125,321/4EN000,176,N0279,XXXXXX,004/E5XXXXX,0512,03275,0147,186/5E0000,174,N0230,075622,004/E64350,0510,03571,0155,267/6E0000
+-------------------------------------------------------[2024-09-15 04:21:35.783]
+
+SOURCE: AIR
+RX_ID: 42, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 7, Msg No: D12F
+Flight ID: AF7343 REG: F-GMZD
+
+
+Message content:-
+#DFB0140,085/0E0186,245,00366,075659,003/N14359,0500,06593,0130,313/1N0007,249,N0789,XXXXXX,009/N24362,XXXXX,07537,0107,353/2NN006,247,N0095,075622,010/N34364,0498,08379,0082,352/3NN008,248,N0292,075604,012/N44
+-------------------------------------------------------[2024-09-15 04:21:42.774]
+
+SOURCE: AIR
+RX_ID: 43, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 8, Msg No: D12G
+Flight ID: AF7343 REG: F-GMZD
+
+
+Message content:-
+#DFB367,0498,09182,0060,333/4NN008,251,00267,075586,015/N54369,0497,09980,0050,328/5NN005,249,00252,XXXXXX,015/N64372,0496,10491,0035,338/6NN005,259,00031,075532,014/N74374,XXXXX,10766,0025,346/7N0193,275,00000
+-------------------------------------------------------[2024-09-15 04:21:46.244]
+
+SOURCE: AIR
+RX_ID: 44, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 0, Msg No: D12I
+Flight ID: AF7343 REG: F-GMZD
+
+
+Message content:-
+#DFB1SN006,310,N0451,075387,020/S24390,XXXXX,13389,N025,355/2SN004,313,00473,XXXXXX,023/S34393,XXXXX,14120,N037,359/3SN003,311,00097,075332,024/S44397,XXXXX,14752,N040,009/4SN007,311,N0032,075296,023/S54400,049
+-------------------------------------------------------[2024-09-15 04:21:53.813]
+
+SOURCE: AIR
+RX_ID: 45, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 1, Msg No: D12J
+Flight ID: AF7343 REG: F-GMZD
+
+
+Message content:-
+#DFB6,15405,N057,009/5SN007,311,N0014,XXXXXX,026/S64403,XXXXX,16160,N067,020/6SN003,312,00018,075241,035/S74407,0497,16920,N080,019/7SN002,310,N0069,075205,037/S84411,0497,17499,N092,017/8SN007,311,00004,075169
+-------------------------------------------------------[2024-09-15 04:21:57.295]
+
+SOURCE: AIR
+RX_ID: 46, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 2, Msg No: D12K
+Flight ID: AF7343 REG: F-GMZD
+
+
+Message content:-
+#DFB,038/S94414,0497,18037,N105,011/9SN004,310,00054,XXXXXX,035/S04417,0497,18485,N115,009/0SN003,312,00158,075114,033/T14421,0497,19089,N127,008/1TN005,312,N0068,075078,038/T24424,0497,19683,N145,003/2TN004,30
+-------------------------------------------------------[2024-09-15 04:22:00.583]
+
+SOURCE: AIR
+RX_ID: 47, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 3, Msg No: D12L
+Flight ID: AF7343 REG: F-GMZD
+
+
+Message content:-
+#DFB7,N0386,XXXXXX,031/T34428,XXXXX,19993,N155,003/3TN003,314,00415,075024,034/T44431,XXXXX,20626,N167,000/4TN005,311,N0093,074987,037/T54435,XXXXX,21147,N180,359/5TN006,311,N0113,074969,038/T64439,0498,21606,N
+-------------------------------------------------------[2024-09-15 04:22:04.456]
+
+SOURCE: AIR
+RX_ID: 48, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 4, Msg No: D12M
+Flight ID: AF7343 REG: F-GMZD
+
+
+Message content:-
+#DFB197,357/6TN005,312,00144,XXXXXX,041/T74442,0498,22142,N200,013/7TN005,310,N0335,074915,042/T84446,0499,22547,N212,013/8TN005,312,00141,074879,045/T94450,XXXXX,22960,N225,015/9TN006,310,N0046,XXXXXX,044,/
+-------------------------------------------------------[2024-09-15 04:22:07.931]
+
+SOURCE: AIR
+RX_ID: 49, Freq: 131.725MHz
+Mode: G NACKLabel: 2F Block ID: 5, Msg No: M11A
+Flight ID: AF7343 REG: F-GMZD
+
+
+Message content:-
+0422+4472+500/2564
+-------------------------------------------------------[2024-09-15 04:22:22.267]
+
+SOURCE: AIR
+RX_ID: 50, Freq: 131.825MHz
+Mode: 2 NACKLabel: B9 Block ID: 3, Msg No: J25A
+Flight ID: WB0710 REG: 9XR-WN
+
+
+Message content:-
+/EGLL.TI2/000EGLLAABB2
+-------------------------------------------------------[2024-09-15 04:33:53.071]
+
+SOURCE: AIR
+RX_ID: 51, Freq: 131.825MHz
+Mode: 2 NACKLabel: 17 Block ID: 6, Msg No: M23A
+Flight ID: NW0112 REG: N808NW
+
+
+Message content:-
+140517 KBOS LIRF7
+/FN 0112
+ROBEX   05053900603-58 150551026082
+-------------------------------------------------------[2024-09-15 05:05:54.323]
+
+SOURCE: AIR
+RX_ID: 52, Freq: 131.725MHz
+Mode: E NACKLabel: 16 Block ID: 4, Msg No: M31A
+Flight ID: P47576 REG: 5N-BVE
+
+
+Message content:-
+POSA1N44198E  4849,MTL    ,050524,379,MTL-25 ,051011,,-58, 60, 211,836
+-------------------------------------------------------[2024-09-15 05:07:08.675]
+
+SOURCE: AIR
+RX_ID: 53, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 3, Msg No: F40A
+Flight ID: AA0240 REG: N760AN
+
+
+Message content:-
+#M1BREQPWI/WQ370.350:KOLON.RAPUR.RATAP.BTA.MOULE.XOPTA.ELB.ELKAP.BIBEK.GOPOL.GIXOM.USIRU.GIPAP.RF422.RF423.RF424.RF426.RF427.RF428.SUVOK.MAVEN.CI16R.FI16R.RW16R.N41395E012111.IKNIF./DQ370A1E6
+-------------------------------------------------------[2024-09-15 05:10:38.632]
+
+SOURCE: AIR
+RX_ID: 54, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: F42A
+Flight ID: AA0240 REG: N760AN
+
+
+Message content:-
+#M1BRESPOS/AK,71C5FD
+-------------------------------------------------------[2024-09-15 05:11:24.277]
+
+SOURCE: AIR
+RX_ID: 55, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 8, Msg No: D11A
+Flight ID: AA0240 REG: N760AN
+
+
+Message content:-
+#DFBTRP KDFW LIRF 07  8 665   2  0 050457
+ 45.8777   1.4565369984333204780.0050.003 21.62  -2.81 41720-55 217OFF
+ 45.7419   1.9995370024326404740.0050.003 29.25  -7.03 41040-55 217OFF
+ 45.5802   2.5306370024
+-------------------------------------------------------[2024-09-15 05:17:01.399]
+
+SOURCE: AIR
+RX_ID: 56, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 8, Msg No: D11A
+Flight ID: AA0240 REG: N760AN
+
+
+Message content:-
+#DFBTRP KDFW LIRF 07  8 665   2  0 050457
+ 45.8777   1.4565369984333204780.0050.003 21.62  -2.81 41720-55 217OFF
+ 45.7419   1.9995370024326404740.0050.003 29.25  -7.03 41040-55 217OFF
+ 45.5802   2.5306370024
+-------------------------------------------------------[2024-09-15 05:17:12.883]
+
+SOURCE: AIR
+RX_ID: 57, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 9, Msg No: D11B
+Flight ID: AA0240 REG: N760AN
+
+
+Message content:-
+#DFB320004750.0050.004 35.25  -1.41 40400-55 217OFF
+ 45.4060   3.0556369974313204760.0050.004 44.00   2.46 39720-55 217OFF
+ 45.2300   3.5788370034306804810.0100.004 49.75  11.95 39080-54 217OFF
+-------------------------------------------------------[2024-09-15 05:17:19.209]
+
+SOURCE: AIR
+RX_ID: 58, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 0, Msg No: F43A
+Flight ID: AA0240 REG: N760AN
+
+
+Message content:-
+#M1BRESPWI/AC,0858A2F
+-------------------------------------------------------[2024-09-15 05:17:54.025]
+
+SOURCE: AIR
+RX_ID: 59, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 1, Msg No: F44A
+Flight ID: AA0240 REG: N760AN
+
+
+Message content:-
+#M1BRESPWI/AC,91ECA8
+-------------------------------------------------------[2024-09-15 05:18:01.597]
+
+SOURCE: AIR
+RX_ID: 60, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 2, Msg No: F45A
+Flight ID: AA0240 REG: N760AN
+
+
+Message content:-
+#M1BPOSN43433E006573,KOL-18,052547,370,RAP-19,053642,RAT-20,M54,01061,346BA05
+-------------------------------------------------------[2024-09-15 05:25:49.165]
+
+SOURCE: AIR
+RX_ID: 61, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 4, Msg No: D32A
+Flight ID: DL0028 REG: N839MH
+
+
+Message content:-
+#DFB141GE4 ENGINE EXCEEDANCE REPORT LEFT
+AID:N1815  DA:15/09  GMT:05:27  FNO:3392
+TAT:-18.1  SAT:-46.5 ALT: 33208 MACH:0.798
+GW:313840 MODE:DESC CITY:KJFK:LFMN
+S/N L:707000 S/N R:707000
+           ENG L  E
+-------------------------------------------------------[2024-09-15 05:30:07.433]
+
+SOURCE: AIR
+RX_ID: 62, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 4, Msg No: D32A
+Flight ID: DL0028 REG: N839MH
+
+
+Message content:-
+#DFB141GE4 ENGINE EXCEEDANCE REPORT LEFT
+AID:N1815  DA:15/09  GMT:05:27  FNO:3392
+TAT:-18.1  SAT:-46.5 ALT: 33208 MACH:0.798
+GW:313840 MODE:DESC CITY:KJFK:LFMN
+S/N L:707000 S/N R:707000
+           ENG L  E
+-------------------------------------------------------[2024-09-15 05:30:15.223]
+
+SOURCE: AIR
+RX_ID: 63, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 5, Msg No: D32B
+Flight ID: DL0028 REG: N839MH
+
+
+Message content:-
+#DFBNG R  LIMIT   4.0
+N1         N       46.7  REASON N2VBL 
+N2          74.8   74.7  OVER LIM SEC 120
+EGT          346    355  PEAK   5.0
+FF           680    704
+TLA         33.6   33.9
+OIP           36 
+-------------------------------------------------------[2024-09-15 05:30:19.101]
+
+SOURCE: AIR
+RX_ID: 64, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 6, Msg No: D32C
+Flight ID: DL0028 REG: N839MH
+
+
+Message content:-
+#DFB    36
+OIT           97     96
+OIQ        14.47  15.59
+VIB FAN      0.1    0.2
+VIB LPT      0.1    0.0
+VIB N2       4.1    0.7
+EGT SENSOR   339    348
+
+-------------------------------------------------------[2024-09-15 05:30:22.796]
+
+SOURCE: AIR
+RX_ID: 65, Freq: 131.825MHz
+Mode: 2 NACKLabel: SA Block ID: 6, Msg No: S51A
+Flight ID: FR05NL REG: 9H-VVO
+
+
+Message content:-
+0EV053103V/
+-------------------------------------------------------[2024-09-15 05:31:05.180]
+
+SOURCE: AIR
+RX_ID: 66, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 7, Msg No: D33A
+Flight ID: DL0028 REG: N839MH
+
+
+Message content:-
+#DFBENGINE BLEED REPORT
+
+AID:N1815  DA:15/09    GMT:05:34    FNO:3487      ISFC: 1832
+TAT:  71  SAT:-130   ALT: 19124   MACH:0625    FCNT: 1095
+GW:313640  FLT:0028-1  MODE:DESC    SID:AK-67-223
+S/N L:70700
+-------------------------------------------------------[2024-09-15 05:34:23.437]
+
+SOURCE: AIR
+RX_ID: 67, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 8, Msg No: D33B
+Flight ID: DL0028 REG: N839MH
+
+
+Message content:-
+#DFB0         DEPART:KJFK    DESTIN:LFMN
+S/N R:707000
+
+               ENG L     ENG R
+HPSOV          OPN       OPN
+PRV            OPN       OPN
+PRSOV          OPN       OPN
+FAV %            -230     -190
+-------------------------------------------------------[2024-09-15 05:34:26.910]
+
+SOURCE: AIR
+RX_ID: 68, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 9, Msg No: D33C
+Flight ID: DL0028 REG: N839MH
+
+
+Message content:-
+#DFB
+N1 SPD          3938     3975
+HI STG PRESS    4100     4100
+INTERM PRESS1    3083     3498
+INTERM PRESS2    3094     3477
+STRUT OVHT     NRML      NRML
+DUCT PRESS       3038     3113
+P-COOL TEMP    
+-------------------------------------------------------[2024-09-15 05:34:39.417]
+
+SOURCE: AIR
+RX_ID: 69, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 2, Msg No: D34A
+Flight ID: DL0028 REG: N839MH
+
+
+Message content:-
+#DFB239N1815 0028091524053410624 4404   582191  7-13  3 41XX-223 25400
+ 292 4180036128010030/9WKJFKLFMN
+-------------------------------------------------------[2024-09-15 05:34:51.268]
+
+SOURCE: AIR
+RX_ID: 70, Freq: 131.725MHz
+Mode: E NACKLabel: B9 Block ID: 3, Msg No: L09A
+Flight ID: DL0028 REG: N839MH
+
+
+Message content:-
+/LFMN.TI2/024LFMNA426A
+-------------------------------------------------------[2024-09-15 05:36:10.956]
+
+SOURCE: AIR
+RX_ID: 71, Freq: 131.825MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S22A
+Flight ID: LW61KL REG: 9H-LMJ
+
+
+Message content:-
+0EV055742VH
+-------------------------------------------------------[2024-09-15 05:57:43.877]
+
+SOURCE: AIR
+RX_ID: 72, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 2, Msg No: F82A
+Flight ID: AC0892 REG: C-FIVX
+
+
+Message content:-
+#M1BRESPWI/AK,71605F
+-------------------------------------------------------[2024-09-15 06:09:32.902]
+
+SOURCE: AIR
+RX_ID: 73, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 1, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:13:08.985]
+
+SOURCE: AIR
+RX_ID: 74, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 1, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:13:16.555]
+
+SOURCE: AIR
+RX_ID: 75, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 1, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:13:24.531]
+
+SOURCE: AIR
+RX_ID: 76, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 2, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:14:02.639]
+
+SOURCE: AIR
+RX_ID: 77, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 3, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:14:09.181]
+
+SOURCE: AIR
+RX_ID: 78, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 3, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:14:20.043]
+
+SOURCE: AIR
+RX_ID: 79, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 3, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:14:29.442]
+
+SOURCE: AIR
+RX_ID: 80, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 3, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:14:36.611]
+
+SOURCE: AIR
+RX_ID: 81, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 4, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:14:43.197]
+
+SOURCE: AIR
+RX_ID: 82, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 4, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:14:50.545]
+
+SOURCE: AIR
+RX_ID: 83, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 4, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:15:01.186]
+
+SOURCE: AIR
+RX_ID: 84, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 4, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:15:10.403]
+
+SOURCE: AIR
+RX_ID: 85, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:15:16.766]
+
+SOURCE: AIR
+RX_ID: 86, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:15:23.715]
+
+SOURCE: AIR
+RX_ID: 87, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:15:30.699]
+
+SOURCE: AIR
+RX_ID: 88, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071308V
+-------------------------------------------------------[2024-09-15 07:15:37.464]
+
+SOURCE: AIR
+RX_ID: 89, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 7, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:18:28.477]
+
+SOURCE: AIR
+RX_ID: 90, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 7, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:18:39.120]
+
+SOURCE: AIR
+RX_ID: 91, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 8, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:18:45.665]
+
+SOURCE: AIR
+RX_ID: 92, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 8, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:18:55.686]
+
+SOURCE: AIR
+RX_ID: 93, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 8, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:19:07.572]
+
+SOURCE: AIR
+RX_ID: 94, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 8, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:19:14.962]
+
+SOURCE: AIR
+RX_ID: 95, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 9, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:19:21.288]
+
+SOURCE: AIR
+RX_ID: 96, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 9, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:19:33.795]
+
+SOURCE: AIR
+RX_ID: 97, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 9, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:19:44.840]
+
+SOURCE: AIR
+RX_ID: 98, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 9, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:19:55.298]
+
+SOURCE: AIR
+RX_ID: 99, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:20:02.869]
+
+SOURCE: AIR
+RX_ID: 100, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:20:13.950]
+
+SOURCE: AIR
+RX_ID: 101, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:20:20.498]
+
+SOURCE: AIR
+RX_ID: 102, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S35A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV071806V
+-------------------------------------------------------[2024-09-15 07:20:27.451]
+
+SOURCE: AIR
+RX_ID: 103, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 2, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:22:59.226]
+
+SOURCE: AIR
+RX_ID: 104, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 2, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:23:06.794]
+
+SOURCE: AIR
+RX_ID: 105, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 2, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:23:18.458]
+
+SOURCE: AIR
+RX_ID: 106, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 2, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:23:29.539]
+
+SOURCE: AIR
+RX_ID: 107, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:23:35.867]
+
+SOURCE: AIR
+RX_ID: 108, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:23:47.350]
+
+SOURCE: AIR
+RX_ID: 109, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:23:56.968]
+
+SOURCE: AIR
+RX_ID: 110, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:24:06.990]
+
+SOURCE: AIR
+RX_ID: 111, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 4, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:24:13.571]
+
+SOURCE: AIR
+RX_ID: 112, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 4, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:24:21.548]
+
+SOURCE: AIR
+RX_ID: 113, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 4, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:24:32.591]
+
+SOURCE: AIR
+RX_ID: 114, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 4, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:24:39.574]
+
+SOURCE: AIR
+RX_ID: 115, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:24:46.121]
+
+SOURCE: AIR
+RX_ID: 116, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:24:54.714]
+
+SOURCE: AIR
+RX_ID: 117, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:25:03.528]
+
+SOURCE: AIR
+RX_ID: 118, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S37A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072257V
+-------------------------------------------------------[2024-09-15 07:25:15.817]
+
+SOURCE: AIR
+RX_ID: 119, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 7, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:27:39.580]
+
+SOURCE: AIR
+RX_ID: 120, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 7, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:27:46.752]
+
+SOURCE: AIR
+RX_ID: 121, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 7, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:27:55.344]
+
+SOURCE: AIR
+RX_ID: 122, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 7, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:28:01.926]
+
+SOURCE: AIR
+RX_ID: 123, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:28:08.254]
+
+SOURCE: AIR
+RX_ID: 124, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:28:19.334]
+
+SOURCE: AIR
+RX_ID: 125, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:28:26.504]
+
+SOURCE: AIR
+RX_ID: 126, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:28:37.328]
+
+SOURCE: AIR
+RX_ID: 127, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 9, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:28:43.912]
+
+SOURCE: AIR
+RX_ID: 128, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 9, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:28:50.860]
+
+SOURCE: AIR
+RX_ID: 129, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 9, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:29:03.148]
+
+SOURCE: AIR
+RX_ID: 130, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 9, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:29:14.195]
+
+SOURCE: AIR
+RX_ID: 131, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:29:20.556]
+
+SOURCE: AIR
+RX_ID: 132, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:29:29.994]
+
+SOURCE: AIR
+RX_ID: 133, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:29:39.208]
+
+SOURCE: AIR
+RX_ID: 134, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S39A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV072737V
+-------------------------------------------------------[2024-09-15 07:29:46.780]
+
+SOURCE: AIR
+RX_ID: 135, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 2, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:32:09.117]
+
+SOURCE: AIR
+RX_ID: 136, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 2, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:32:20.781]
+
+SOURCE: AIR
+RX_ID: 137, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 2, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:32:30.218]
+
+SOURCE: AIR
+RX_ID: 138, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 2, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:32:38.993]
+
+SOURCE: AIR
+RX_ID: 139, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:32:45.580]
+
+SOURCE: AIR
+RX_ID: 140, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:32:56.623]
+
+SOURCE: AIR
+RX_ID: 141, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:33:03.389]
+
+SOURCE: AIR
+RX_ID: 142, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:33:13.225]
+
+SOURCE: AIR
+RX_ID: 143, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 4, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:33:19.554]
+
+SOURCE: AIR
+RX_ID: 144, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 4, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:33:30.816]
+
+SOURCE: AIR
+RX_ID: 145, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 4, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:33:37.180]
+
+SOURCE: AIR
+RX_ID: 146, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 4, Msg No: F62A
+Flight ID: UA0510 REG: N69059
+
+
+Message content:-
+#M2BPOSN45193E005531,,073334,370,LAPRI,074103,MOGBO,M59,00760,247,800/DTLIRF,34L, 18,083609,/TS073334,15092437F0
+-------------------------------------------------------[2024-09-15 07:33:38.205]
+
+SOURCE: AIR
+RX_ID: 147, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 4, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:33:46.178]
+
+SOURCE: AIR
+RX_ID: 148, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 5, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:33:52.544]
+
+SOURCE: AIR
+RX_ID: 149, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 5, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:34:03.401]
+
+SOURCE: AIR
+RX_ID: 150, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 5, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:34:10.752]
+
+SOURCE: AIR
+RX_ID: 151, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 5, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:34:20.992]
+
+SOURCE: AIR
+RX_ID: 152, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 6, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:34:27.355]
+
+SOURCE: AIR
+RX_ID: 153, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 6, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:34:36.169]
+
+SOURCE: AIR
+RX_ID: 154, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 6, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:34:47.214]
+
+SOURCE: AIR
+RX_ID: 155, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 6, Msg No: S41A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073207V
+-------------------------------------------------------[2024-09-15 07:34:55.810]
+
+SOURCE: AIR
+RX_ID: 156, Freq: 131.825MHz
+Mode: 2 NACKLabel: 44 Block ID: 1, Msg No: M30A
+Flight ID: GS0000 REG: YLDAN
+
+
+Message content:-
+00ETA03,N44276E002528,380,LEMD,EDDB,0915,0736,0736,001.1
+-------------------------------------------------------[2024-09-15 07:36:24.713]
+
+SOURCE: AIR
+RX_ID: 157, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S43A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073717V
+-------------------------------------------------------[2024-09-15 07:37:19.572]
+
+SOURCE: AIR
+RX_ID: 158, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S43A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073717V
+-------------------------------------------------------[2024-09-15 07:37:30.432]
+
+SOURCE: AIR
+RX_ID: 159, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S43A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073717V
+-------------------------------------------------------[2024-09-15 07:37:40.489]
+
+SOURCE: AIR
+RX_ID: 160, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S43A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073717V
+-------------------------------------------------------[2024-09-15 07:37:52.340]
+
+SOURCE: AIR
+RX_ID: 161, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 9, Msg No: S43A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073717V
+-------------------------------------------------------[2024-09-15 07:37:58.704]
+
+SOURCE: AIR
+RX_ID: 162, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 9, Msg No: S43A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073717V
+-------------------------------------------------------[2024-09-15 07:38:10.992]
+
+SOURCE: AIR
+RX_ID: 163, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 9, Msg No: S43A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073717V
+-------------------------------------------------------[2024-09-15 07:38:21.230]
+
+SOURCE: AIR
+RX_ID: 164, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 9, Msg No: S43A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073717V
+-------------------------------------------------------[2024-09-15 07:38:33.299]
+
+SOURCE: AIR
+RX_ID: 165, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S43A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073717V
+-------------------------------------------------------[2024-09-15 07:38:39.883]
+
+SOURCE: AIR
+RX_ID: 166, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S43A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073717V
+-------------------------------------------------------[2024-09-15 07:38:46.611]
+
+SOURCE: AIR
+RX_ID: 167, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S43A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073717V
+-------------------------------------------------------[2024-09-15 07:38:53.596]
+
+SOURCE: AIR
+RX_ID: 168, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S43A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV073717V
+-------------------------------------------------------[2024-09-15 07:39:04.020]
+
+SOURCE: AIR
+RX_ID: 169, Freq: 131.825MHz
+Mode: 2 NACKLabel: 44 Block ID: 6, Msg No: M35A
+Flight ID: GS0000 REG: YLDAN
+
+
+Message content:-
+00POS03,N44466E003345,380,LEMD,EDDB,0915,0741,0934,001.0
+-------------------------------------------------------[2024-09-15 07:41:23.722]
+
+SOURCE: AIR
+RX_ID: 170, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 2, Msg No: S45A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV074127V
+-------------------------------------------------------[2024-09-15 07:41:36.600]
+
+SOURCE: AIR
+RX_ID: 171, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 8, Msg No: D27A
+Flight ID: NW0280 REG: N831NW
+
+
+Message content:-
+#DFB239223302201010098039
+R39/A33039,1,1
+239N831NW212 091524074646812 4467   495390-33-61  5 49AB0510 50440
+ 252 479 0021146400307GXKJFKLGAV
+-------------------------------------------------------[2024-09-15 07:46:59.598]
+
+SOURCE: AIR
+RX_ID: 172, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: F82A
+Flight ID: AC0890 REG: C-FNNQ
+
+
+Message content:-
+#M1BRESPWI/AC,91ECA8
+-------------------------------------------------------[2024-09-15 08:37:06.099]
+
+SOURCE: AIR
+RX_ID: 173, Freq: 131.825MHz
+Mode: 2 NACKLabel: B0 Block ID: 9, Msg No: J02A
+Flight ID: NW0183 REG: N809NW
+
+
+Message content:-
+/LFFF.AFN/FMHDAL183,.N809NW,AB048D,083939/FPON43516E007022,1/FCOADS,01/FCOATC,01AFBF
+-------------------------------------------------------[2024-09-15 08:39:41.126]
+
+SOURCE: AIR
+RX_ID: 174, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 0, Msg No: F02A
+Flight ID: LZ7472 REG: YR-LRE
+
+
+Message content:-
+#M1BPRG/DTLEIB,06O,469,094617,11638D8
+-------------------------------------------------------[2024-09-15 08:42:19.226]
+
+SOURCE: AIR
+RX_ID: 175, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 0, Msg No: F02A
+Flight ID: LZ7472 REG: YR-LRE
+
+
+Message content:-
+#M1BPRG/DTLEIB,06O,469,094617,11638D8
+-------------------------------------------------------[2024-09-15 08:42:31.113]
+
+SOURCE: AIR
+RX_ID: 176, Freq: 131.825MHz
+Mode: 2 NACKLabel: 17 Block ID: 2, Msg No: M26A
+Flight ID: NW0183 REG: N809NW
+
+
+Message content:-
+150817 LIRF KJFK7
+/FN 0183
+PIGOS   08373411627- 4  5  71130882
+-------------------------------------------------------[2024-09-15 08:45:16.598]
+
+SOURCE: AIR
+RX_ID: 177, Freq: 131.825MHz
+Mode: 2 NACKLabel: B0 Block ID: 3, Msg No: J03A
+Flight ID: NW0183 REG: N809NW
+
+
+Message content:-
+/LFFF.AFN/FMHDAL183,.N809NW,AB048D,085309/FPON44495E005107,1/FCOADS,01/FCOATC,01B2F1
+-------------------------------------------------------[2024-09-15 08:53:10.715]
+
+SOURCE: AIR
+RX_ID: 178, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 4, Msg No: D13A
+Flight ID: NW0183 REG: N809NW
+
+
+Message content:-
+#DFB239022100401010098159
+R39/A33039,1,1
+239N809NW183 091524090057816 4513   385340-20-50346 42AG0514125880 284 454-000287451030NXWLIRFKJFK
+-------------------------------------------------------[2024-09-15 09:01:13.831]
+
+SOURCE: AIR
+RX_ID: 179, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 4, Msg No: D13A
+Flight ID: NW0183 REG: N809NW
+
+
+Message content:-
+#DFB239022100401010098159
+R39/A33039,1,1
+239N809NW183 091524090057816 4513   385340-20-50346 42AG0514125880 284 454-000287451030NXWLIRFKJFK
+-------------------------------------------------------[2024-09-15 09:01:52.119]
+
+SOURCE: AIR
+RX_ID: 180, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 3, Msg No: F35A
+Flight ID: TB03VJ REG: OO-JAO
+
+
+Message content:-
+#M1BPRG/DTEBBR,25L,52,102438,73DD10
+-------------------------------------------------------[2024-09-15 09:03:19.379]
+
+SOURCE: AIR
+RX_ID: 181, Freq: 131.725MHz
+Mode: X NACKLabel: 4H Block ID: 9, Msg No: M29A
+Flight ID: DL0233 REG: N175DZ
+
+
+Message content:-
+15094H LIRN KJFK6
+  
+WPR RESET
+
+
+
+
+
+-------------------------------------------------------[2024-09-15 09:06:43.565]
+
+SOURCE: AIR
+RX_ID: 182, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 1, Msg No: F51A
+Flight ID: DL0233 REG: N175DZ
+
+
+Message content:-
+#M1BREJPOS,090648,130,219,RF101,TORLIB31B
+-------------------------------------------------------[2024-09-15 09:06:51.349]
+
+SOURCE: AIR
+RX_ID: 183, Freq: 131.725MHz
+Mode: X ACK, A2GLabel: H1 Block ID: 1, Msg No: F51A
+Flight ID: DL0233 REG: N175DZ
+
+
+Message content:-
+#M1BREJPOS,090648,130,219,RF101,TORLIB31B
+-------------------------------------------------------[2024-09-15 09:06:53.398]
+
+SOURCE: AIR
+RX_ID: 184, Freq: 131.725MHz
+Mode: E NACKLabel: 16 Block ID: 2, Msg No: M42A
+Flight ID: TS0434 REG: C-GUBF
+
+
+Message content:-
+091136,29006,0936, 188,N 44.936,E  4.531
+-------------------------------------------------------[2024-09-15 09:11:42.975]
+
+SOURCE: AIR
+RX_ID: 185, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 6, Msg No: D02D
+Flight ID: TS0434 REG: C-GUBF
+
+
+Message content:-
+#DFB,047.1,0.19,0.14,0.20,023,0.35,N16.4
+0406,0344
+0394,0352
+:
+
+-------------------------------------------------------[2024-09-15 09:23:27.089]
+
+SOURCE: AIR
+RX_ID: 186, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: D33A
+Flight ID: AA0239 REG: N760AN
+
+
+Message content:-
+#DFBTRP LIRF KDFW 07  8 671   0  0 091721
+ 42.7106  10.2012273146103204860.0150.011 28.00 -24.96198720-33 340OFF
+ 42.9428   9.7744295466090005000.0130.008 20.75 -41.13197400-40 307OFF
+ 43.0963   9.2745320006
+-------------------------------------------------------[2024-09-15 09:29:24.690]
+
+SOURCE: AIR
+RX_ID: 187, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: D33B
+Flight ID: AA0239 REG: N760AN
+
+
+Message content:-
+#DFB077204900.0110.007 15.63 -16.17196120-47 274OFF
+ 43.2420   8.7678319986068004900.0060.003 18.37 -16.87195200-46 275OFF
+ 43.3622   8.2502320036058804880.0150.010 20.12 -13.36194280-47 274OFF
+-------------------------------------------------------[2024-09-15 09:29:31.238]
+
+SOURCE: AIR
+RX_ID: 188, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 8, Msg No: F26A
+Flight ID: AA0239 REG: N760AN
+
+
+Message content:-
+#M1BPOSN44074E006157,BOD-04,093036,320,KOT-05,093536,ETREK,M43,00061,19010503
+-------------------------------------------------------[2024-09-15 09:30:38.821]
+
+SOURCE: AIR
+RX_ID: 189, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 9, Msg No: F27A
+Flight ID: AA0239 REG: N760AN
+
+
+Message content:-
+#M1BPOSN44330E005373,KOT-05,093535,320,ETREK,094258,NOQAS,M43,35847,188502E8
+-------------------------------------------------------[2024-09-15 09:35:37.833]
+
+SOURCE: AIR
+RX_ID: 190, Freq: 131.825MHz
+Mode: 2 NACKLabel: 5Z Block ID: 0, Msg No: M92A
+Flight ID: AA0239 REG: N760AN
+
+
+Message content:-
+OS KDFW /FTM
+S/RIVAK/1048/84/36
+-------------------------------------------------------[2024-09-15 09:36:18.575]
+
+SOURCE: AIR
+RX_ID: 191, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 7, Msg No: D35A
+Flight ID: DL0024 REG: N840MH
+
+
+Message content:-
+#DFB239N1816 0024091524093601803 4492   449370-27-55  1 41XX-223 24720
+ 261 4850011122300030IH-KATLLFMN
+-------------------------------------------------------[2024-09-15 09:36:28.630]
+
+SOURCE: AIR
+RX_ID: 192, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 8, Msg No: F06A
+Flight ID: DL0024 REG: N840MH
+
+
+Message content:-
+#M1BPOSN44284E005031,NISAR,093958,340,XIRBI,094117,DOTIG,M49,00047,238,809114F
+-------------------------------------------------------[2024-09-15 09:40:00.785]
+
+SOURCE: AIR
+RX_ID: 193, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 3, Msg No: F28A
+Flight ID: AA0239 REG: N760AN
+
+
+Message content:-
+#M1BPOSN45013E004322,ETR-06,094241,320,NOQ-07,094446,LERGA,M43,34940,1862055B
+-------------------------------------------------------[2024-09-15 09:42:44.005]
+
+SOURCE: AIR
+RX_ID: 194, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 4, Msg No: D34A
+Flight ID: AA0239 REG: N760AN
+
+
+Message content:-
+#DFBTRP LIRF KDFW 07  8 672   0  0 093221
+ 43.4257   7.7061320046049204880.0160.010 33.75   6.68193320-45 274OFF
+ 43.4968   7.1615320016039604930.0110.004 66.25  14.06192360-44 274OFF
+ 43.7574   6.7875320006
+-------------------------------------------------------[2024-09-15 09:44:25.201]
+
+SOURCE: AIR
+RX_ID: 195, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 5, Msg No: D34B
+Flight ID: AA0239 REG: N760AN
+
+
+Message content:-
+#DFB030004960.0490.031 69.50   3.87191400-43 274OFF
+ 44.0198   6.4207319956020804950.0080.004 63.00   1.76190480-43 275OFF
+ 44.2783   6.0439320056011204910.0070.004 55.50  -1.05189520-44 274OFF
+-------------------------------------------------------[2024-09-15 09:44:32.990]
+
+SOURCE: AIR
+RX_ID: 196, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: F29A
+Flight ID: AA0239 REG: N760AN
+
+
+Message content:-
+#M1BPOSN45077E004110,NOQ-07,094447,320,LERGA,094720,CNA,M43,33939,18563295
+-------------------------------------------------------[2024-09-15 09:44:49.375]
+
+SOURCE: AIR
+RX_ID: 197, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 9, Msg No: D36A
+Flight ID: DL0024 REG: N840MH
+
+
+Message content:-
+#DFBENGINE BLEED REPORT
+
+AID:N1816  DA:15/09    GMT:09:45    FNO:2292      ISFC: 2881
+TAT:  88  SAT:-138   ALT: 18900   MACH:0663    FCNT:  193
+GW:312720  FLT:0024-1  MODE:DESC    SID:AK-67-223
+S/N L:70624
+-------------------------------------------------------[2024-09-15 09:46:09.034]
+
+SOURCE: AIR
+RX_ID: 198, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 2, Msg No: D36D
+Flight ID: DL0024 REG: N840MH
+
+
+Message content:-
+#DFB41613    40656
+PACK HX TEMP    35409    35516
+PACK FLOW       12339    14203
+WING ANTI ICE  OFF
+LT  ISO VLV    CLS
+RT  ISO VLV    CLS
+CTR ISO VLV    OPN
+
+TRIGGER CODE   0000
+
+STATUS WORDS  DW1  DW
+-------------------------------------------------------[2024-09-15 09:46:20.074]
+
+SOURCE: AIR
+RX_ID: 199, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 3, Msg No: D36E
+Flight ID: DL0024 REG: N840MH
+
+
+Message content:-
+#DFB2  DW3  DW4  DW5  DW6  DW7  DW8  EICAS
+LEFT          0000 0001 0000 0000 0000 0000 1040 0000 0000
+RIGHT         0000 0001 0000 0000 0000 0000 1040 0000 0000
+
+-------------------------------------------------------[2024-09-15 09:46:23.586]
+
+SOURCE: AIR
+RX_ID: 200, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 1, Msg No: C26F
+Flight ID: AA0199 REG: N790AN
+
+
+Message content:-
+#CFBOCI1 RR ENG
+OCI2 LEFT
+OCI3 CHANNEL B
+OCI4 69256  HOURS
+OCI5 3165   CYCLES
+LRU ENGINE DATA INTERFACE UNIT (L ENG,CH C)
+HW S283W500-103   
+SW1 7303-HAM-240-E0
+OCI1 RR ENG
+OCI2 LEFT
+OCI3 CHANNEL C
+O
+-------------------------------------------------------[2024-09-15 09:48:08.219]
+
+SOURCE: AIR
+RX_ID: 201, Freq: 131.725MHz
+Mode: G NACKLabel: 16 Block ID: 8, Msg No: M15A
+Flight ID: SN04BE REG: OO-SFG
+
+
+Message content:-
+15SEP24,0957,N 43.601,E  7.031,35004,1700,122720
+-------------------------------------------------------[2024-09-15 09:58:01.528]
+
+SOURCE: AIR
+RX_ID: 202, Freq: 131.725MHz
+Mode: G NACKLabel: H1 Block ID: 8, Msg No: D04F
+Flight ID: SN04BE REG: OO-SFG
+
+
+Message content:-
+#DFB,0.808
+X7,000.4,-00.2,068,0012,0.806:
+
+-------------------------------------------------------[2024-09-15 09:59:06.662]
+
+SOURCE: AIR
+RX_ID: 203, Freq: 131.725MHz
+Mode: X NACKLabel: 16 Block ID: 3, Msg No: M20A
+Flight ID: SN01AQ REG: OO-SFF
+
+
+Message content:-
+15SEP24,1000,N 43.546,E  7.040,35002,1651,115680
+-------------------------------------------------------[2024-09-15 10:00:41.281]
+
+SOURCE: AIR
+RX_ID: 204, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 3, Msg No: D49A
+Flight ID: DL0025 REG: N839MH
+
+
+Message content:-
+#DFB239N1815 0025091524100047792 4495   524299 -8-37350 54XX-223128520
+ 301 43300833101400RGGMYLFMNKATL
+-------------------------------------------------------[2024-09-15 10:01:08.342]
+
+SOURCE: AIR
+RX_ID: 205, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 4, Msg No: F92A
+Flight ID: DL0025 REG: N839MH
+
+
+Message content:-
+#M2BPOSN45109E004380,ETREK,100514,300,NOQAS,100728,LERGA,M38,35243,1295,791479E
+-------------------------------------------------------[2024-09-15 10:05:18.384]
+
+SOURCE: AIR
+RX_ID: 206, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 1, Msg No: F57B
+Flight ID: KL0535 REG: PH-AOD
+
+
+Message content:-
+#M1B.ERESA.KITRA.ONUDA.TITAS.GOVEL.ANUKI.POGBA.EDBIV.ISBEM.TATOP.NULAG.DEPUV/DQ410/WRHRYR.HUENA63A
+-------------------------------------------------------[2024-09-15 10:11:44.036]
+
+SOURCE: AIR
+RX_ID: 207, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 1, Msg No: F57B
+Flight ID: KL0535 REG: PH-AOD
+
+
+Message content:-
+#M1B.ERESA.KITRA.ONUDA.TITAS.GOVEL.ANUKI.POGBA.EDBIV.ISBEM.TATOP.NULAG.DEPUV/DQ410/WRHRYR.HUENA63A
+-------------------------------------------------------[2024-09-15 10:11:52.446]
+
+SOURCE: AIR
+RX_ID: 208, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 3, Msg No: F58A
+Flight ID: KL0535 REG: PH-AOD
+
+
+Message content:-
+#M1BRESREQ/AK,1158AF6
+-------------------------------------------------------[2024-09-15 10:12:41.783]
+
+SOURCE: AIR
+RX_ID: 209, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 4, Msg No: F59A
+Flight ID: KL0535 REG: PH-AOD
+
+
+Message content:-
+#M1BFPN/TS101238,091524/RP:DA:EHAM:AA:HRYR..N44362E005413..RETNO.UN852..DIVKO.UM154..JUSQO..FIRRA..SUXER..KAMER.UM998..CSO.UA605:WS:NAGAH,390..DJA.UB730..DIR.UG862:WS:ERESA,410..ONUDA.UG655..GOVEL.UT325..EDBIV.
+-------------------------------------------------------[2024-09-15 10:12:47.304]
+
+SOURCE: AIR
+RX_ID: 210, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 5, Msg No: F59B
+Flight ID: KL0535 REG: PH-AOD
+
+
+Message content:-
+#M1BUY476..GOM:A:RANA1A:AP:ILS28(28O)/PR4430,346,370,1007,,,13,,,30,,,P58,M40,40500,,3422,291/DTHRYR,28O,178,171638404F
+-------------------------------------------------------[2024-09-15 10:12:51.620]
+
+SOURCE: AIR
+RX_ID: 211, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 7, Msg No: F61A
+Flight ID: KL0535 REG: PH-AOD
+
+
+Message content:-
+#M1BPOSN45147E005526,,101242,370,N44362E005413,101729,RETNO,M56,35952,1007/TS101242,09152439DE
+-------------------------------------------------------[2024-09-15 10:12:59.006]
+
+SOURCE: AIR
+RX_ID: 212, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 7, Msg No: F61A
+Flight ID: KL0535 REG: PH-AOD
+
+
+Message content:-
+#M1BPOSN45147E005526,,101242,370,N44362E005413,101729,RETNO,M56,35952,1007/TS101242,09152439DE
+-------------------------------------------------------[2024-09-15 10:13:17.841]
+
+SOURCE: AIR
+RX_ID: 213, Freq: 131.725MHz
+Mode: E NACKLabel: 81 Block ID: 8, Msg No: M15A
+Flight ID: KL0535 REG: PH-AOD
+
+
+Message content:-
+ATM36M15101306KLM535  EHAMHRYR
+KOFFER
+BALEN ZEG
+WAS GEWOON OP TIJD BIJ
+DE ODD SIZE...NOU JA
+HELAAS..IK HOOR HET WEL
+VIA DE MAIL
+DANK VOOR HET
+UITZOEKEN PACO
+CHEERS CASPER
+
+-------------------------------------------------------[2024-09-15 10:13:21.315]
+
+SOURCE: AIR
+RX_ID: 214, Freq: 131.725MHz
+Mode: E NACKLabel: 16 Block ID: 1, Msg No: M46A
+Flight ID: SN03KR REG: OO-SFD
+
+
+Message content:-
+15SEP24,1014,N 43.652,E  7.005,35003,1711,107200
+-------------------------------------------------------[2024-09-15 10:14:40.166]
+
+SOURCE: AIR
+RX_ID: 215, Freq: 131.725MHz
+Mode: X ACK, A2GLabel: H1 Block ID: 6, Msg No: D67A
+Flight ID: KL0535 REG: PH-AOD
+
+
+Message content:-
+#DFB(POS-KLM535  -4460N00549E/101430 F370
+RMK/FUEL  45.4 M0.81)
+-------------------------------------------------------[2024-09-15 10:14:48.136]
+
+SOURCE: AIR
+RX_ID: 216, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 8, Msg No: F62A
+Flight ID: KL0535 REG: PH-AOD
+
+
+Message content:-
+#M1BRESPWI/AK,71605F
+-------------------------------------------------------[2024-09-15 10:14:58.193]
+
+SOURCE: AIR
+RX_ID: 217, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 7, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:15:44.457]
+
+SOURCE: AIR
+RX_ID: 218, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 7, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:15:54.915]
+
+SOURCE: AIR
+RX_ID: 219, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 7, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:16:06.802]
+
+SOURCE: AIR
+RX_ID: 220, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:16:23.815]
+
+SOURCE: AIR
+RX_ID: 221, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:16:33.608]
+
+SOURCE: AIR
+RX_ID: 222, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:16:44.689]
+
+SOURCE: AIR
+RX_ID: 223, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:16:53.905]
+
+SOURCE: AIR
+RX_ID: 224, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 9, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:17:00.854]
+
+SOURCE: AIR
+RX_ID: 225, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 9, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:17:11.715]
+
+SOURCE: AIR
+RX_ID: 226, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 9, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:17:19.505]
+
+SOURCE: AIR
+RX_ID: 227, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 9, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:17:29.932]
+
+SOURCE: AIR
+RX_ID: 228, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 0, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:17:36.515]
+
+SOURCE: AIR
+RX_ID: 229, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 0, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:17:43.242]
+
+SOURCE: AIR
+RX_ID: 230, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 0, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:17:50.628]
+
+SOURCE: AIR
+RX_ID: 231, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 1, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:18:07.822]
+
+SOURCE: AIR
+RX_ID: 232, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 1, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:18:16.229]
+
+SOURCE: AIR
+RX_ID: 233, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 1, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:18:27.712]
+
+SOURCE: AIR
+RX_ID: 234, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 1, Msg No: S23A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV101541V
+-------------------------------------------------------[2024-09-15 10:18:36.089]
+
+SOURCE: AIR
+RX_ID: 235, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 9, Msg No: F63A
+Flight ID: KL0535 REG: PH-AOD
+
+
+Message content:-
+#M1BRESPWI/AC,3018259
+-------------------------------------------------------[2024-09-15 10:19:27.290]
+
+SOURCE: AIR
+RX_ID: 236, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 3, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:21:01.900]
+
+SOURCE: AIR
+RX_ID: 237, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 3, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:21:13.166]
+
+SOURCE: AIR
+RX_ID: 238, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 3, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:21:21.576]
+
+SOURCE: AIR
+RX_ID: 239, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 3, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:21:33.063]
+
+SOURCE: AIR
+RX_ID: 240, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 4, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:21:39.788]
+
+SOURCE: AIR
+RX_ID: 241, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 4, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:21:48.603]
+
+SOURCE: AIR
+RX_ID: 242, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 4, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:21:55.991]
+
+SOURCE: AIR
+RX_ID: 243, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 4, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:22:04.803]
+
+SOURCE: AIR
+RX_ID: 244, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 5, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:22:11.136]
+
+SOURCE: AIR
+RX_ID: 245, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 5, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:22:19.541]
+
+SOURCE: AIR
+RX_ID: 246, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 5, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:22:29.160]
+
+SOURCE: AIR
+RX_ID: 247, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 5, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:22:36.550]
+
+SOURCE: AIR
+RX_ID: 248, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 6, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:22:43.716]
+
+SOURCE: AIR
+RX_ID: 249, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 6, Msg No: S25A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102059V
+-------------------------------------------------------[2024-09-15 10:22:54.358]
+
+SOURCE: AIR
+RX_ID: 250, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:25:33.084]
+
+SOURCE: AIR
+RX_ID: 251, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:25:43.324]
+
+SOURCE: AIR
+RX_ID: 252, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:25:49.869]
+
+SOURCE: AIR
+RX_ID: 253, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:25:59.304]
+
+SOURCE: AIR
+RX_ID: 254, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 9, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:26:05.632]
+
+SOURCE: AIR
+RX_ID: 255, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 9, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:26:15.069]
+
+SOURCE: AIR
+RX_ID: 256, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 9, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:26:25.089]
+
+SOURCE: AIR
+RX_ID: 257, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 9, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:26:32.475]
+
+SOURCE: AIR
+RX_ID: 258, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 0, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:26:38.802]
+
+SOURCE: AIR
+RX_ID: 259, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 0, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:26:50.284]
+
+SOURCE: AIR
+RX_ID: 260, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 0, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:27:00.305]
+
+SOURCE: AIR
+RX_ID: 261, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 0, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:27:09.339]
+
+SOURCE: AIR
+RX_ID: 262, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 1, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:27:25.724]
+
+SOURCE: AIR
+RX_ID: 263, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 1, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:27:34.317]
+
+SOURCE: AIR
+RX_ID: 264, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 1, Msg No: S27A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV102531V
+-------------------------------------------------------[2024-09-15 10:27:42.106]
+
+SOURCE: AIR
+RX_ID: 265, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S29A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103014V
+-------------------------------------------------------[2024-09-15 10:30:16.328]
+
+SOURCE: AIR
+RX_ID: 266, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S29A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103014V
+-------------------------------------------------------[2024-09-15 10:30:27.155]
+
+SOURCE: AIR
+RX_ID: 267, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S29A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103014V
+-------------------------------------------------------[2024-09-15 10:30:36.996]
+
+SOURCE: AIR
+RX_ID: 268, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 3, Msg No: S29A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103014V
+-------------------------------------------------------[2024-09-15 10:30:45.403]
+
+SOURCE: AIR
+RX_ID: 269, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 4, Msg No: S29A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103014V
+-------------------------------------------------------[2024-09-15 10:30:51.950]
+
+SOURCE: AIR
+RX_ID: 270, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 4, Msg No: S29A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103014V
+-------------------------------------------------------[2024-09-15 10:30:59.341]
+
+SOURCE: AIR
+RX_ID: 271, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 4, Msg No: S29A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103014V
+-------------------------------------------------------[2024-09-15 10:31:07.311]
+
+SOURCE: AIR
+RX_ID: 272, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 4, Msg No: S29A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103014V
+-------------------------------------------------------[2024-09-15 10:31:14.880]
+
+SOURCE: AIR
+RX_ID: 273, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S29A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103014V
+-------------------------------------------------------[2024-09-15 10:31:21.646]
+
+SOURCE: AIR
+RX_ID: 274, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S29A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103014V
+-------------------------------------------------------[2024-09-15 10:31:30.642]
+
+SOURCE: AIR
+RX_ID: 275, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S29A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103014V
+-------------------------------------------------------[2024-09-15 10:31:48.270]
+
+SOURCE: AIR
+RX_ID: 276, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 7, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:34:10.608]
+
+SOURCE: AIR
+RX_ID: 277, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 7, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:34:20.042]
+
+SOURCE: AIR
+RX_ID: 278, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 7, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:34:26.992]
+
+SOURCE: AIR
+RX_ID: 279, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 7, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:34:35.185]
+
+SOURCE: AIR
+RX_ID: 280, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 8, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:34:41.548]
+
+SOURCE: AIR
+RX_ID: 281, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 8, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:34:48.283]
+
+SOURCE: AIR
+RX_ID: 282, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 8, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:34:56.908]
+
+SOURCE: AIR
+RX_ID: 283, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 8, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:35:04.881]
+
+SOURCE: AIR
+RX_ID: 284, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 9, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:35:11.244]
+
+SOURCE: AIR
+RX_ID: 285, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 9, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:35:21.667]
+
+SOURCE: AIR
+RX_ID: 286, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 9, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:35:28.213]
+
+SOURCE: AIR
+RX_ID: 287, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 9, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:35:37.872]
+
+SOURCE: AIR
+RX_ID: 288, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:35:44.414]
+
+SOURCE: AIR
+RX_ID: 289, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:35:53.814]
+
+SOURCE: AIR
+RX_ID: 290, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:36:02.446]
+
+SOURCE: AIR
+RX_ID: 291, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S31A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103408V
+-------------------------------------------------------[2024-09-15 10:36:12.871]
+
+SOURCE: AIR
+RX_ID: 292, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 2, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103834V
+-------------------------------------------------------[2024-09-15 10:38:36.450]
+
+SOURCE: AIR
+RX_ID: 293, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 2, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103834V
+-------------------------------------------------------[2024-09-15 10:38:45.265]
+
+SOURCE: AIR
+RX_ID: 294, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 2, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103834V
+-------------------------------------------------------[2024-09-15 10:38:56.713]
+
+SOURCE: AIR
+RX_ID: 295, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 2, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103834V
+-------------------------------------------------------[2024-09-15 10:39:08.381]
+
+SOURCE: AIR
+RX_ID: 296, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 3, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103834V
+-------------------------------------------------------[2024-09-15 10:39:14.742]
+
+SOURCE: AIR
+RX_ID: 297, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 3, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103834V
+-------------------------------------------------------[2024-09-15 10:39:32.955]
+
+SOURCE: AIR
+RX_ID: 298, Freq: 131.725MHz
+Mode: X NACKLabel: SA Block ID: 3, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103834V
+-------------------------------------------------------[2024-09-15 10:39:40.562]
+
+SOURCE: AIR
+RX_ID: 299, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 4, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103834V
+-------------------------------------------------------[2024-09-15 10:39:47.113]
+
+SOURCE: AIR
+RX_ID: 300, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 4, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103834V
+-------------------------------------------------------[2024-09-15 10:39:54.057]
+
+SOURCE: AIR
+RX_ID: 301, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 4, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103834V
+-------------------------------------------------------[2024-09-15 10:40:06.162]
+
+SOURCE: AIR
+RX_ID: 302, Freq: 131.725MHz
+Mode: G NACKLabel: SA Block ID: 4, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103834V
+-------------------------------------------------------[2024-09-15 10:40:15.780]
+
+SOURCE: AIR
+RX_ID: 303, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103834V
+-------------------------------------------------------[2024-09-15 10:40:32.349]
+
+SOURCE: AIR
+RX_ID: 304, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S33A
+Flight ID: XY0001 REG: CESSNA1
+
+
+Message content:-
+0EV103834V
+-------------------------------------------------------[2024-09-15 10:40:40.981]
+
+SOURCE: AIR
+RX_ID: 305, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 2, Msg No: M01A
+Flight ID: ZD0000 REG: CGSPV
+
+
+Message content:-
+0LS151054V/
+-------------------------------------------------------[2024-09-15 10:54:33.292]
+
+SOURCE: AIR
+RX_ID: 306, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 3, Msg No: F24A
+Flight ID: XA0000 REG: CGLXM
+
+
+Message content:-
+#M1B/.RESREQ/AK,115/TS105519,150924
+-------------------------------------------------------[2024-09-15 10:55:21.019]
+
+SOURCE: AIR
+RX_ID: 307, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 4, Msg No: F25A
+Flight ID: XA0000 REG: CGLXM
+
+
+Message content:-
+#M1B/.POS/TS105519,150924N44251E006379,,105519,430,BULOL,111019,IDAVO,M55,35943,158,8504572
+-------------------------------------------------------[2024-09-15 10:55:25.517]
+
+SOURCE: AIR
+RX_ID: 308, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 3, Msg No: M04A
+Flight ID: ZD0000 REG: CGSPV
+
+
+Message content:-
+0LS151056V/
+-------------------------------------------------------[2024-09-15 10:56:07.098]
+
+SOURCE: AIR
+RX_ID: 309, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 3, Msg No: D89A
+Flight ID: SN03UH REG: OO-SFB
+
+
+Message content:-
+#DFB001159000101010734208
+R01/A33001,1,1
+C1,.OO-SFB,24SEP15,10.56.25,EBBR,FKKD,BEL3UH    ,5000,544
+C2,004,06.0,000000,D1333RR06C02BEL,000,052,052
+C3,-30.0,37003,0.798,111,1.03,111,10,0,01,111,1.05,X
+C4,-29
+-------------------------------------------------------[2024-09-15 10:56:53.367]
+
+SOURCE: AIR
+RX_ID: 310, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 4, Msg No: D89B
+Flight ID: SN03UH REG: OO-SFB
+
+
+Message content:-
+#DFB.8,37001,0.797,111
+C5,041316,01374,03765,00304,00443,10006,00000,00402,16066,214
+C6,041337,12416,05441,02608,00443,10015,00000,00402,36066
+N1,1.465,1.465,077.94,085.8,086.5,0617,07.065,02844,08.12
+N2,1.
+-------------------------------------------------------[2024-09-15 10:56:56.874]
+
+SOURCE: AIR
+RX_ID: 311, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 6, Msg No: D89D
+Flight ID: SN03UH REG: OO-SFB
+
+
+Message content:-
+#DFB46.8,0.29,0.08,0.07,120,0.31,009.3
+T2,079,096,105.7,005.4,046.9,0.28,0.10,0.11,174,0.34,009.5
+V1,0412,0358
+V2,0411,0357
+                            :
+
+-------------------------------------------------------[2024-09-15 10:57:04.227]
+
+SOURCE: AIR
+RX_ID: 312, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 7, Msg No: D90A
+Flight ID: SN03UH REG: OO-SFB
+
+
+Message content:-
+#DFB002159000101011031212
+R02/A33002,1,1
+C1,.OO-SFB,24SEP15,10.56.25,EBBR,FKKD,BEL3UH    ,5000,192
+C2,001,06.0,000000,D1333RR06C02BEL,000,052,052
+C3,-30.0,37003,0.798,111,1.03,111,10,0,01,111,1.05,X
+C4,-29
+-------------------------------------------------------[2024-09-15 10:57:16.733]
+
+SOURCE: AIR
+RX_ID: 313, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 8, Msg No: D90B
+Flight ID: SN03UH REG: OO-SFB
+
+
+Message content:-
+#DFB.8,37001,0.797,111
+C5,041316,01374,03765,00304,00443,10006,00000,00402,16066,242
+C6,041337,12416,05441,02608,00443,10015,00000,00402,36066,214
+N1,1.465,1.465,077.94,085.8,086.5,0617,07.065,02844,08.12
+N
+-------------------------------------------------------[2024-09-15 10:57:20.210]
+
+SOURCE: AIR
+RX_ID: 314, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 9, Msg No: D90C
+Flight ID: SN03UH REG: OO-SFB
+
+
+Message content:-
+#DFB2,1.465,1.465,078.21,085.7,087.2,0619,07.066,02927,08.11
+S1,04.77,-29.7,033.6,172.0,142.2,435.6,08.4,054.8,031.0,26,113
+S2,04.77,-29.7,033.8,175.5,142.6,438.9,08.6,055.7,029.8,29,149
+T1,080,097,102.7,001
+-------------------------------------------------------[2024-09-15 10:57:23.900]
+
+SOURCE: AIR
+RX_ID: 315, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 0, Msg No: D90D
+Flight ID: SN03UH REG: OO-SFB
+
+
+Message content:-
+#DFB.8,046.8,0.29,0.08,0.07,120,0.31,009.3
+T2,079,096,105.7,005.4,046.9,0.28,0.10,0.11,174,0.34,009.5
+V1,0412,0358
+V2,0411,0357
+X1,000.1,002.7,000.5,0001,00.0016,N44.87
+X2,000.1,002.9,000.6,0000,00.0015,N4
+-------------------------------------------------------[2024-09-15 10:57:27.594]
+
+SOURCE: AIR
+RX_ID: 316, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 2, Msg No: D90F
+Flight ID: SN03UH REG: OO-SFB
+
+
+Message content:-
+#DFB,0.805
+X7,000.5,001.0,059,0003,0.804:
+
+-------------------------------------------------------[2024-09-15 10:57:34.946]
+
+SOURCE: AIR
+RX_ID: 317, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: F24A
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+#M1BPOSN43375E007224,PIGOS,105759,360,BODRU,110538,KOTIT,M54,00468,159556C0
+-------------------------------------------------------[2024-09-15 10:58:01.574]
+
+SOURCE: AIR
+RX_ID: 318, Freq: 131.825MHz
+Mode: 2 NACKLabel: 44 Block ID: 0, Msg No: M43A
+Flight ID: GS952A REG: CSDFK
+
+
+Message content:-
+011*4lAb_'ESL(6ll'~LSb'Alb6II@b\6G^bl?AEbAAlAbA~~lbLOl00
+-------------------------------------------------------[2024-09-15 11:01:14.929]
+
+SOURCE: AIR
+RX_ID: 319, Freq: 131.725MHz
+Mode: X NACKLabel: 16 Block ID: 3, Msg No: M78A
+Flight ID: SN03UH REG: OO-SFB
+
+
+Message content:-
+15SEP24,1103,N 43.739,E  7.003,36999,1622,89160
+-------------------------------------------------------[2024-09-15 11:03:42.576]
+
+SOURCE: AIR
+RX_ID: 320, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 9, Msg No: D27B
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+#DFB632004790.0160.005 26.25   0.00163200-53 249OFF
+ 43.1761   8.8423354115621604760.0130.005 32.63  16.17162160-54 234OFF
+ 43.3066   8.3453360025612404800.0220.014 47.75   2.46161240-53 227OFF
+-------------------------------------------------------[2024-09-15 11:03:57.752]
+
+SOURCE: AIR
+RX_ID: 321, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 0, Msg No: F25A
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+#M1BPOSN44126E006226,BODRU,110536,360,KOTIT,111044,ETREK,M53,00258,1572843D
+-------------------------------------------------------[2024-09-15 11:05:40.746]
+
+SOURCE: AIR
+RX_ID: 322, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: F28A
+Flight ID: XA0000 REG: CGLXM
+
+
+Message content:-
+#M1B/.RESREQ/AK,115/TS110551,150924
+-------------------------------------------------------[2024-09-15 11:05:52.849]
+
+SOURCE: AIR
+RX_ID: 323, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 8, Msg No: F29A
+Flight ID: XA0000 REG: CGLXM
+
+
+Message content:-
+#M1B/.POS/TS110551,150924N45315E005381,,110551,430,BAGBI,111651,SIZZA,M58,00340,152,8502EB2
+-------------------------------------------------------[2024-09-15 11:05:57.128]
+
+SOURCE: AIR
+RX_ID: 324, Freq: 131.825MHz
+Mode: 2 NACKLabel: 5Z Block ID: 1, Msg No: M77A
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+OS KCLT /FTM
+S/SIVER/1231/83/36
+ABLE FL370
+-------------------------------------------------------[2024-09-15 11:06:27.046]
+
+SOURCE: AIR
+RX_ID: 325, Freq: 131.825MHz
+Mode: 2 NACKLabel: 5Z Block ID: 4, Msg No: M78A
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+OS KCLT /FTM
+S/RIVAK/1227/83/36
+ABLE FL370
+-------------------------------------------------------[2024-09-15 11:09:06.394]
+
+SOURCE: AIR
+RX_ID: 326, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: F26A
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+#M1BPOSN44362E005414,KOTIT,111044,360,ETREK,111825,NOQAS,M53,35249,15587AF0
+-------------------------------------------------------[2024-09-15 11:10:46.743]
+
+SOURCE: AIR
+RX_ID: 327, Freq: 131.825MHz
+Mode: 2 NACKLabel: 5Z Block ID: 8, Msg No: M79A
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+OS KCLT /FTM
+S/SIVIR/1231/83/36
+ABLE FL370
+-------------------------------------------------------[2024-09-15 11:11:06.821]
+
+SOURCE: AIR
+RX_ID: 328, Freq: 131.825MHz
+Mode: 2 NACKLabel: B2 Block ID: 3, Msg No: M80A
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+/PIKCLYA.CLA 1113 240915 EGGX CLRNCE 734AAL721 CLRD TO KCLT VIA SIVIRRANDOM ROUTE47N015W 47N020W 47N030W 49N040W 48N050W NICSOFM SIVIR/1231 MNTN F360 M082ATC/ROUTE AMENDMENT CROSS SIVIR AT OR AFTER1231EN
+-------------------------------------------------------[2024-09-15 11:13:49.828]
+
+SOURCE: AIR
+RX_ID: 329, Freq: 131.825MHz
+Mode: 2 NACKLabel: B2 Block ID: 4, Msg No: M80B
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+D OF MESSAGE
+-------------------------------------------------------[2024-09-15 11:13:55.972]
+
+SOURCE: AIR
+RX_ID: 330, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: F27A
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+#M1BPRG/DTKCLT,36R,298,200007,046/FNAAL721F0FC
+-------------------------------------------------------[2024-09-15 11:15:04.985]
+
+SOURCE: AIR
+RX_ID: 331, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 9, Msg No: F28A
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+#M1BPOSN45016E004324,ETR-01,111809,360,NOQ-02,112019,LERGA,M54,34638,1536C794
+-------------------------------------------------------[2024-09-15 11:18:11.173]
+
+SOURCE: AIR
+RX_ID: 332, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 0, Msg No: D28A
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+#DFBTRP LIRF KCLT 07  8 494   0  0 110647
+ 43.4604   7.8700359995604004780.0230.015 63.75   3.52160400-54 227OFF
+ 43.6109   7.3995359955595204740.0090.005 71.12   7.73159520-54 227OFF
+ 43.8351   7.0070360035
+-------------------------------------------------------[2024-09-15 11:18:51.114]
+
+SOURCE: AIR
+RX_ID: 333, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 1, Msg No: D28B
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+#DFB586804770.0110.007 64.62   4.57158680-54 227OFF
+ 44.0655   6.6150359985578004770.0070.004 60.25   5.27157800-54 227OFF
+ 44.2959   6.2176359985569204790.0060.004 56.50   0.00156920-54 227OFF
+-------------------------------------------------------[2024-09-15 11:18:58.466]
+
+SOURCE: AIR
+RX_ID: 334, Freq: 131.825MHz
+Mode: 2 NACKLabel: 5Z Block ID: 2, Msg No: M81A
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+OS KCLT /FTM
+REROUTE N47W020 N47W030
+N49W040
+MACH .82 FL360
+-------------------------------------------------------[2024-09-15 11:19:10.571]
+
+SOURCE: AIR
+RX_ID: 335, Freq: 131.825MHz
+Mode: 2 NACKLabel: B2 Block ID: 3, Msg No: M82A
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+/PIKCLYA.CLA 1116 240915 EGGX CLRNCE 741AAL721 CLRD TO KCLT VIA SIVIRRANDOM ROUTE47N015W 47N020W 47N030W 49N040W 48N050W NICSOFM SIVIR/1231 MNTN F360 M082ATC/CROSS SIVIR AT OR AFTER 1231 CROSS SIVIRAT OR 
+-------------------------------------------------------[2024-09-15 11:19:45.168]
+
+SOURCE: AIR
+RX_ID: 336, Freq: 131.825MHz
+Mode: 2 NACKLabel: B2 Block ID: 4, Msg No: M82B
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+BEFORE 1233RECLEARANCE 1END OF MESSAGE
+-------------------------------------------------------[2024-09-15 11:19:51.936]
+
+SOURCE: AIR
+RX_ID: 337, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 6, Msg No: F29A
+Flight ID: AA0721 REG: N795AN
+
+
+Message content:-
+#M1BPOSN45078E004111,NOQ-02,112020,360,LERGA,112300,CNA,M53,34433,1530F48E
+-------------------------------------------------------[2024-09-15 11:20:22.032]
+
+SOURCE: AIR
+RX_ID: 338, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 4, Msg No: M03A
+Flight ID: XA0001 REG: 9HVFL
+
+
+Message content:-
+(2N43546E  6580009 32211-17(Z
+-------------------------------------------------------[2024-09-15 11:37:22.608]
+
+SOURCE: AIR
+RX_ID: 339, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 4, Msg No: M03A
+Flight ID: XA0001 REG: 9HVFL
+
+
+Message content:-
+(2N43546E  6580009 32211-17(Z
+-------------------------------------------------------[2024-09-15 11:37:38.992]
+
+SOURCE: AIR
+RX_ID: 340, Freq: 131.725MHz
+Mode: G NACKLabel: 16 Block ID: 4, Msg No: M62A
+Flight ID: XSMBU6 REG: 2-BBMB
+
+
+Message content:-
+114444,,1508, 264,N 44.978 E  3.013
+-------------------------------------------------------[2024-09-15 11:44:46.038]
+
+SOURCE: AIR
+RX_ID: 341, Freq: 131.725MHz
+Mode: G NACKLabel: 15 Block ID: 6, Msg No: M51A
+Flight ID: TS0435 REG: C-GUBF
+
+
+Message content:-
+/FOB REMAINING 16535,/SUPPLIER ,/DENSITY 0801,/LOADED ,/UNITS LT
+-------------------------------------------------------[2024-09-15 11:54:52.083]
+
+SOURCE: AIR
+RX_ID: 342, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 2, Msg No: M11A
+Flight ID: XA0001 REG: 9H777MF
+
+
+Message content:-
+(2N43378E  4315--- 37----37(Z
+-------------------------------------------------------[2024-09-15 12:00:30.260]
+
+SOURCE: AIR
+RX_ID: 343, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 9, Msg No: F09A
+Flight ID: DL0029 REG: N840MH
+
+
+Message content:-
+#M1BPOSN45014E004322,ETR02,124729,320,NOQ03,124937,LERGA,M44,33839,1076,820165B
+-------------------------------------------------------[2024-09-15 12:47:30.718]
+
+SOURCE: AIR
+RX_ID: 344, Freq: 131.725MHz
+Mode: E NACKLabel: 39 Block ID: 0, Msg No: M45A
+Flight ID: DL0029 REG: N840MH
+
+
+Message content:-
+151239 LFMN KJFK7
+2005                                   
+/TCI [  ]
+
+
+
+
+
+
+
+
+-------------------------------------------------------[2024-09-15 12:47:35.654]
+
+SOURCE: AIR
+RX_ID: 345, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 4, Msg No: D51A
+Flight ID: DL0029 REG: N840MH
+
+
+Message content:-
+#DFB221N1816 0029150924124922399301320825-12-43 -1             954 954
+    706686    7048 6880     10001003    116113    57 56   151160   //
+/309   0302  0102  635635   1068  8 37     72  71    000100100XX-22
+-------------------------------------------------------[2024-09-15 12:49:34.639]
+
+SOURCE: AIR
+RX_ID: 346, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 0, Msg No: O63A
+Flight ID: AC0893 REG: C-FNNQ
+
+
+Message content:-
+#10BSB0122BA_C-FNNQ  LIRFCYUL144
+ 44350 0061731251 32000-4303510530109B,009012
+-------------------------------------------------------[2024-09-15 12:52:18.116]
+
+SOURCE: AIR
+RX_ID: 347, Freq: 131.825MHz
+Mode: 2 NACKLabel: 4T Block ID: 2, Msg No: M78A
+Flight ID: AC0893 REG: C-FNNQ
+
+
+Message content:-
+AGFSR AC0893/15/15/FCOYUL/1253Z/745/4432.0N00551.3E/319/CRUISE/0677/0111/M43/348050/0309/---/461/1136/1207/----/----
+-------------------------------------------------------[2024-09-15 12:53:38.863]
+
+SOURCE: AIR
+RX_ID: 348, Freq: 131.725MHz
+Mode: G NACKLabel: 44 Block ID: 7, Msg No: M35A
+Flight ID: ZD0000 REG: LXTRO
+
+
+Message content:-
+00POS02,N43269E005145,110,LFMV,LFMN,0915,1314,1332,006.6
+-------------------------------------------------------[2024-09-15 13:14:27.974]
+
+SOURCE: AIR
+RX_ID: 349, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 5, Msg No: A09A
+Flight ID: GS003G REG: CSDLB
+
+
+Message content:-
+#M1B/.MSG/TX0                    /MA,,ATISLFMN55CC
+-------------------------------------------------------[2024-09-15 13:30:16.614]
+
+SOURCE: AIR
+RX_ID: 350, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 9, Msg No: A11A
+Flight ID: GS003G REG: CSDLB
+
+
+Message content:-
+#M1B/.RESMSG/AK,071/TS133043,1509243834
+-------------------------------------------------------[2024-09-15 13:30:47.552]
+
+SOURCE: AIR
+RX_ID: 351, Freq: 131.825MHz
+Mode: 2 NACKLabel: 4T Block ID: 6, Msg No: M20A
+Flight ID: AC0891 REG: C-FIVX
+
+
+Message content:-
+AGFSR AC0891/15/15/FCOYYZ/1337Z/744/4431.2N00555.3E/319/CRUISE/0713/0108/M43/344047/0304/---/453/1230/1251/----/----
+-------------------------------------------------------[2024-09-15 13:37:58.256]
+
+SOURCE: AIR
+RX_ID: 352, Freq: 131.825MHz
+Mode: 2 NACKLabel: 8F Block ID: 1, Msg No: M97A
+Flight ID: FR05HQ REG: EI-HGM
+
+
+Message content:-
+125335,O,LFTW
+-------------------------------------------------------[2024-09-15 13:44:30.855]
+
+SOURCE: AIR
+RX_ID: 353, Freq: 131.825MHz
+Mode: 2 NACKLabel: 8A Block ID: 3, Msg No: M99A
+Flight ID: FR0000 REG: EI-HGM
+
+
+Message content:-
+125643,O,LFTW
+-------------------------------------------------------[2024-09-15 13:44:44.349]
+
+SOURCE: AIR
+RX_ID: 354, Freq: 131.825MHz
+Mode: 2 NACKLabel: 8C Block ID: 4, Msg No: M01A
+Flight ID: FR07KF REG: EI-HGM
+
+
+Message content:-
+132140,C,LFTW
+-------------------------------------------------------[2024-09-15 13:44:51.120]
+
+SOURCE: AIR
+RX_ID: 355, Freq: 131.825MHz
+Mode: 2 NACKLabel: 8A Block ID: 5, Msg No: M02A
+Flight ID: FR07KF REG: EI-HGM
+
+
+Message content:-
+132215,C,LFTW
+-------------------------------------------------------[2024-09-15 13:44:57.661]
+
+SOURCE: AIR
+RX_ID: 356, Freq: 131.825MHz
+Mode: 2 NACKLabel: 4R Block ID: 9, Msg No: M21A
+Flight ID: AC0891 REG: C-FIVX
+
+
+Message content:-
+C318Q1A0043    1GOOD MORNING ELI.WE WILL PASS THIS ON TOTHE S/D AND GET BACK TOYOU ASAPTHANK YOU
+-------------------------------------------------------[2024-09-15 13:48:54.426]
+
+SOURCE: AIR
+RX_ID: 357, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 9, Msg No: F25A
+Flight ID: ZD0719 REG: 9H-LEON
+
+
+Message content:-
+#M1BPOSN44273E005309,,135003,330,RETNO,135052,KOLON,M46,33749,291E874
+-------------------------------------------------------[2024-09-15 13:50:05.301]
+
+SOURCE: AIR
+RX_ID: 358, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 5, Msg No: F42A
+Flight ID: CC3166 REG: TF-AKD
+
+
+Message content:-
+#M1BPOSN43530E004593,,135544,340,MTL,140120,ETREK,M49,33446,490,84,5B9A
+-------------------------------------------------------[2024-09-15 13:55:48.353]
+
+SOURCE: AIR
+RX_ID: 359, Freq: 131.725MHz
+Mode: E NACKLabel: 5U Block ID: 0, Msg No: M15A
+Flight ID: ZD0719 REG: 9H-LEON
+
+
+Message content:-
+05,33,LFPO,DTTA,0000000000
+1,0,0,DTTA,DTTJ,LIEO,
+-------------------------------------------------------[2024-09-15 13:58:00.853]
+
+SOURCE: AIR
+RX_ID: 360, Freq: 131.725MHz
+Mode: X NACKLabel: B9 Block ID: 6, Msg No: L22A
+Flight ID: CC3166 REG: TF-AKD
+
+
+Message content:-
+/EBLG.TI2/024EBLGAAD4F
+-------------------------------------------------------[2024-09-15 14:01:42.663]
+
+SOURCE: AIR
+RX_ID: 361, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 1, Msg No: F43A
+Flight ID: CC3166 REG: TF-AKD
+
+
+Message content:-
+#M1BPOSN44514E004413,,140344,340,ETREK,140620,MADOT,M49,32441,460,84,97BA
+-------------------------------------------------------[2024-09-15 14:03:48.799]
+
+SOURCE: AIR
+RX_ID: 362, Freq: 131.825MHz
+Mode: 2 NACKLabel: 17 Block ID: 8, Msg No: M24A
+Flight ID: NW0149 REG: N823NW
+
+
+Message content:-
+151417 LIRF KJFK7
+/FN 0149
+PIGOS   14253402218- 4343  50116481
+-------------------------------------------------------[2024-09-15 14:29:43.655]
+
+SOURCE: AIR
+RX_ID: 363, Freq: 131.825MHz
+Mode: 2 NACKLabel: B9 Block ID: 0, Msg No: M25A
+Flight ID: NW0149 REG: N823NW
+
+
+Message content:-
+/KJFK.TI2/040KJFKAC20C
+-------------------------------------------------------[2024-09-15 14:34:25.083]
+
+SOURCE: AIR
+RX_ID: 364, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 4, Msg No: D08A
+Flight ID: NW0149 REG: N823NW
+
+
+Message content:-
+#DFB239137300401010098060
+R39/A33039,1,1
+239N823NW149 091524144540807 4502   452339-20-50313 38AB0510110480
+ 281 432-000294240030/9WLIRFKJFK
+-------------------------------------------------------[2024-09-15 14:45:55.038]
+
+SOURCE: AIR
+RX_ID: 365, Freq: 131.825MHz
+Mode: 2 NACKLabel: SA Block ID: 2, Msg No: S77A
+Flight ID: FR09SD REG: EI-IGX
+
+
+Message content:-
+0EV150717V/
+-------------------------------------------------------[2024-09-15 15:07:18.965]
+
+SOURCE: AIR
+RX_ID: 366, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S61A
+Flight ID: XA0000 REG: VP-CKH
+
+
+Message content:-
+0EV152700VS
+-------------------------------------------------------[2024-09-15 15:27:02.099]
+
+SOURCE: AIR
+RX_ID: 367, Freq: 131.725MHz
+Mode: 2 NACKLabel: SA Block ID: 0, Msg No: S61A
+Flight ID: XA0000 REG: VP-CKH
+
+
+Message content:-
+0EV152700VS
+-------------------------------------------------------[2024-09-15 15:27:12.740]
+
+SOURCE: AIR
+RX_ID: 368, Freq: 131.725MHz
+Mode: 2 NACKLabel: H1 Block ID: 9, Msg No: C12A
+Flight ID: TU0654 REG: TS-IMR
+
+
+Message content:-
+#CFBWRN/WN24091515540046200006DATALINK COMPANY FAULT  
+-------------------------------------------------------[2024-09-15 15:54:27.057]
+
+SOURCE: AIR
+RX_ID: 369, Freq: 131.525MHz
+Mode: T NACKLabel: B9 Block ID: 3, Msg No: J05A
+Flight ID: AF0132 REG: F-GZCN
+
+
+Message content:-
+/LFPG.TI2/000LFPGA9F82
+-------------------------------------------------------[2024-09-15 16:03:14.416]
+
+SOURCE: AIR
+RX_ID: 370, Freq: 131.825MHz
+Mode: 2 NACKLabel: SA Block ID: 6, Msg No: M16A
+Flight ID: XR34VC REG: 9H-CXH
+
+
+Message content:-
+0EV162145V
+-------------------------------------------------------[2024-09-15 16:21:46.089]
+
+SOURCE: AIR
+RX_ID: 371, Freq: 131.825MHz
+Mode: 2 NACKLabel: B9 Block ID: 7, Msg No: L11A
+Flight ID: XR34VC REG: 9H-CXH
+
+
+Message content:-
+/LEPA.TI2/024LEPAAC8BA
+-------------------------------------------------------[2024-09-15 16:22:24.598]
+
+SOURCE: AIR
+RX_ID: 372, Freq: 131.825MHz
+Mode: 2 NACKLabel: 44 Block ID: 4, Msg No: M38A
+Flight ID: XA0000 REG: PPBLO
+
+
+Message content:-
+POS02,N43149 E005287,350,LOWG,GVAC,0915,1622,2113,00096
+-------------------------------------------------------[2024-09-15 16:23:01.864]
+
+SOURCE: AIR
+RX_ID: 373, Freq: 131.850MHz
+Mode: 2 NACKLabel: 16 Block ID: 1, Msg No: M88A
+Flight ID: 5O0272 REG: F-HIXD
+
+
+Message content:-
+164047,31996,1745, 120,N 43.567 E  4.753
+-------------------------------------------------------[2024-09-15 16:40:49.287]
+
+SOURCE: AIR
+RX_ID: 374, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 8, Msg No: M07A
+Flight ID: XA0001 REG: 9HVFL
+
+
+Message content:-
+(2N43319E  6549354 36208-15(Z
+-------------------------------------------------------[2024-09-15 16:46:42.347]
+
+SOURCE: AIR
+RX_ID: 375, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 8, Msg No: M07A
+Flight ID: XA0001 REG: 9HVFL
+
+
+Message content:-
+(2N43319E  6549354 36208-15(Z
+-------------------------------------------------------[2024-09-15 16:46:57.305]
+
+SOURCE: AIR
+RX_ID: 376, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 8, Msg No: M07A
+Flight ID: XA0001 REG: 9HVFL
+
+
+Message content:-
+(2N43319E  6549354 36208-15(Z
+-------------------------------------------------------[2024-09-15 16:47:12.044]
+
+SOURCE: AIR
+RX_ID: 377, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 8, Msg No: M07A
+Flight ID: XA0001 REG: 9HVFL
+
+
+Message content:-
+(2N43319E  6549354 36208-15(Z
+-------------------------------------------------------[2024-09-15 16:47:32.341]
+
+SOURCE: AIR
+RX_ID: 378, Freq: 131.725MHz
+Mode: 2 NACKLabel: 15 Block ID: 8, Msg No: M07A
+Flight ID: XA0001 REG: 9HVFL
+
+
+Message content:-
+(2N43319E  6549354 36208-15(Z
+-------------------------------------------------------[2024-09-15 16:47:48.105]
+
+SOURCE: AIR
+RX_ID: 379, Freq: 131.825MHz
+Mode: 2 NACKLabel: 1L Block ID: 2, Msg No: M19A
+Flight ID: LH099E REG: D-AIRA
+
+
+Message content:-
+00763209227P4(KU95UY-KH7B(S4T1KRP8PVA(VBV50 LLJU1I41KGKE**KOVVD+
+-------------------------------------------------------[2024-09-15 18:45:30.959]
+
+SOURCE: AIR
+RX_ID: 380, Freq: 131.825MHz
+Mode: 2 NACKLabel: HX Block ID: 6, Msg No: S71A
+Flight ID: XR004N REG: 9H-CXH
+
+
+Message content:-
+RA FMT NO PARTICIPATING ATIS AIRPORT IN REQUEST
+
+-------------------------------------------------------[2024-09-15 19:00:57.492]
+
+SOURCE: AIR
+RX_ID: 381, Freq: 131.850MHz
+Mode: 2 NACKLabel: B9 Block ID: 7, Msg No: L14A
+Flight ID: XR004N REG: 9H-CXH
+
+
+Message content:-
+/LFLL.TI2/024LFLLA1338
+-------------------------------------------------------[2024-09-15 19:03:13.284]
+
+SOURCE: AIR
+RX_ID: 382, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 7, Msg No: F58A
+Flight ID: CC3057 REG: TF-AMN
+
+
+Message content:-
+#M1BPOSN44562E005476,,191932,310,KOTIT,192156,RETNO,M42,30738,2362,84,FE72
+-------------------------------------------------------[2024-09-15 19:19:36.111]
+
+SOURCE: AIR
+RX_ID: 383, Freq: 131.725MHz
+Mode: E NACKLabel: SA Block ID: 8, Msg No: S11A
+Flight ID: CC3057 REG: TF-AMN
+
+
+Message content:-
+0LS192600V
+-------------------------------------------------------[2024-09-15 19:26:02.380]
+
+SOURCE: AIR
+RX_ID: 384, Freq: 131.725MHz
+Mode: E NACKLabel: H1 Block ID: 9, Msg No: F59A
+Flight ID: CC3057 REG: TF-AMN
+
+
+Message content:-
+#M1BPOSN43478E005396,,192732,310,MTG04,193008,DIV05,M42,31144,2322,84,92A7
+-------------------------------------------------------[2024-09-15 19:27:38.243]
+
+SOURCE: AIR
+RX_ID: 385, Freq: 131.725MHz
+Mode: G NACKLabel: 16 Block ID: 2, Msg No: M92A
+Flight ID: XSMBU6 REG: 2-BBMB
+
+
+Message content:-
+193018,,2036, 138,N 44.934 E  4.139
+-------------------------------------------------------[2024-09-15 19:30:20.218]
+
+SOURCE: AIR
+RX_ID: 386, Freq: 131.825MHz
+Mode: 2 NACKLabel: 16 Block ID: 2, Msg No: M05A
+Flight ID: WB0711 REG: 9XR-WN
+
+
+Message content:-
+212935,37008,0433,  45,N 44.335 E  3.679
+-------------------------------------------------------[2024-09-15 21:29:39.962]
+
+SOURCE: AIR
+RX_ID: 387, Freq: 131.825MHz
+Mode: 2 NACKLabel: 5U Block ID: 0, Msg No: M05A
+Flight ID: QY0422 REG: OE-LND
+
+
+Message content:-
+10,WX,152257,QY422,15,LIMC,LEVT,8520352,LEMD,LFML,LFBO,1,0,
+-------------------------------------------------------[2024-09-15 22:58:01.298]
+
+SOURCE: AIR
+RX_ID: 388, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 0, Msg No: F05A
+Flight ID: QY0422 REG: OE-LND
+
+
+Message content:-
+#M1BPOSN45036E003171,LERGA,231029,390,PPN,234411,PITUL,M56,35174,275,777F45D
+-------------------------------------------------------[2024-09-15 23:10:31.673]
+
+SOURCE: AIR
+RX_ID: 389, Freq: 131.850MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S02A
+Flight ID: KE0922 REG: HL8393
+
+
+Message content:-
+0EV234309VSH/
+-------------------------------------------------------[2024-09-15 23:43:09.935]
+
+SOURCE: AIR
+RX_ID: 390, Freq: 131.825MHz
+Mode: 2 NACKLabel: SA Block ID: 8, Msg No: S06A
+Flight ID: KE0922 REG: HL8393
+
+
+Message content:-
+0EV234456VSH/
+-------------------------------------------------------[2024-09-15 23:44:56.469]
+
+SOURCE: AIR
+RX_ID: 391, Freq: 131.825MHz
+Mode: 2 NACKLabel: SA Block ID: 2, Msg No: S11A
+Flight ID: KE0922 REG: HL8393
+
+
+Message content:-
+0EV234741VSH/
+-------------------------------------------------------[2024-09-15 23:47:41.741]
+
+SOURCE: AIR
+RX_ID: 392, Freq: 131.825MHz
+Mode: 2 NACKLabel: SA Block ID: 5, Msg No: S15A
+Flight ID: KE0922 REG: HL8393
+
+
+Message content:-
+0EV234859VSH/
+-------------------------------------------------------[2024-09-15 23:49:00.001]
+
+SOURCE: AIR
+RX_ID: 393, Freq: 131.825MHz
+Mode: 2 NACKLabel: SA Block ID: 2, Msg No: S23A
+Flight ID: KE0922 REG: HL8393
+
+
+Message content:-
+0EV235408VSH/
+-------------------------------------------------------[2024-09-15 23:54:08.632]
+

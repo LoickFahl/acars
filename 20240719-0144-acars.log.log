@@ -1,0 +1,220 @@
+SOURCE: AIR
+RX_ID: 0, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 5, Msg No: D01A
+Flight ID: SN03DY REG: OO-SFD
+
+
+Message content:-
+#DFB001053700201010734218
+R01/A33001,1,1
+C1,.OO-SFD,24JUL19,01.43.58,FKYS,EBBR,BEL3DY    ,5000,684
+C2,002,06.0,000000,D1333RR06C02BEL,000,052,052
+C3,-16.8,33980,0.777,111,0.05,111,10,0,01,111,1.45,X
+C4,-16
+-------------------------------------------------------[2024-07-19 01:44:28.156]
+
+SOURCE: AIR
+RX_ID: 1, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 8, Msg No: D03D
+Flight ID: SN03DY REG: OO-SFD
+
+
+Message content:-
+#DFB47.2,0.05,0.07,0.01,230,0.13,-07.1
+T2,078,094,101.4,-02.1,047.1,0.12,0.05,0.04,033,0.18,-07.2
+V1,0409,0338
+V2,0409,0333
+                            :
+
+-------------------------------------------------------[2024-07-19 01:46:24.052]
+
+SOURCE: AIR
+RX_ID: 2, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 9, Msg No: D04A
+Flight ID: SN03DY REG: OO-SFD
+
+
+Message content:-
+#DFB002053700201011031097
+R02/A33002,1,1
+C1,.OO-SFD,24JUL19,01.45.39,FKYS,EBBR,BEL3DY    ,5000,943
+C2,001,06.0,000000,D1333RR06C02BEL,000,052,052
+C3,-16.8,33979,0.778,111,0.08,111,10,0,01,111,1.45,X
+C4,-16
+-------------------------------------------------------[2024-07-19 01:46:27.562]
+
+SOURCE: AIR
+RX_ID: 3, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 1, Msg No: D04C
+Flight ID: SN03DY REG: OO-SFD
+
+
+Message content:-
+#DFB2,1.362,1.362,075.96,085.9,085.7,0600,07.408,02736,08.48
+S1,05.40,-16.6,035.0,186.8,141.1,451.2,11.7,055.6,028.0,26,128
+S2,05.40,-16.6,035.4,183.7,144.1,442.0,10.5,053.8,025.1,31,129
+T1,077,094,107.0,-00
+-------------------------------------------------------[2024-07-19 01:46:34.729]
+
+SOURCE: AIR
+RX_ID: 4, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 4, Msg No: D04F
+Flight ID: SN03DY REG: OO-SFD
+
+
+Message content:-
+#DFB,0.837
+X7,-00.5,000.7,XXX,0000,0.835:
+
+-------------------------------------------------------[2024-07-19 01:46:44.751]
+
+SOURCE: AIR
+RX_ID: 5, Freq: 131.725MHz
+Mode: X NACKLabel: 16 Block ID: 5, Msg No: M26A
+Flight ID: SN03DY REG: OO-SFD
+
+
+Message content:-
+19JUL24,0151,N 43.722,E  6.587,33977,0300,23840
+-------------------------------------------------------[2024-07-19 01:51:13.668]
+
+SOURCE: AIR
+RX_ID: 6, Freq: 131.825MHz
+Mode: 2 NACKLabel: B6 Block ID: 9, Msg No: F04A
+Flight ID: BA2066 REG: G-YMMC
+
+
+Message content:-
+/QUKAXBA.ADS.G-YMMC071EFAB018BB494720E99D5DF0
+-------------------------------------------------------[2024-07-19 02:35:08.246]
+
+SOURCE: AIR
+RX_ID: 7, Freq: 131.825MHz
+Mode: 2 NACKLabel: 10 Block ID: 0, Msg No: M99A
+Flight ID: BA2066 REG: G-YMMC
+
+
+Message content:-
+MET01EGKK
+-------------------------------------------------------[2024-07-19 02:37:38.774]
+
+SOURCE: AIR
+RX_ID: 8, Freq: 131.825MHz
+Mode: 2 NACKLabel: 15 Block ID: 3, Msg No: M01A
+Flight ID: BA2066 REG: G-YMMC
+
+
+Message content:-
+FST01DGAAEGKKN447926E0043635380 118 376 M52C 5425735300149011600003480244
+-------------------------------------------------------[2024-07-19 02:44:14.045]
+
+SOURCE: AIR
+RX_ID: 9, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 5, Msg No: F05A
+Flight ID: BA2066 REG: G-YMMC
+
+
+Message content:-
+#M1BPRG/TS024609,190724/DTEGKK,26L,154,034807,/PR4447,238,380,254,,143,57,,,30,P20,P0,,,,,,,M379710
+-------------------------------------------------------[2024-07-19 02:46:11.620]
+
+SOURCE: AIR
+RX_ID: 10, Freq: 131.725MHz
+Mode: X NACKLabel: 16 Block ID: 4, Msg No: M41A
+Flight ID: SN038K REG: OO-SFC
+
+
+Message content:-
+19JUL24,0318,N 44.358,E  6.771,40011,0423,23720
+-------------------------------------------------------[2024-07-19 03:18:14.498]
+
+SOURCE: AIR
+RX_ID: 11, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: F11A
+Flight ID: QY1684 REG: OE-LNO
+
+
+Message content:-
+#M1BPOSN43518E005167,,034646,132,IBILI,035344,ELRIV,P0,27929,244,8261
+-------------------------------------------------------[2024-07-19 03:46:47.929]
+
+SOURCE: AIR
+RX_ID: 12, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: F11A
+Flight ID: QY1684 REG: OE-LNO
+
+
+Message content:-
+#M1BPOSN43518E005167,,034646,132,IBILI,035344,ELRIV,P0,27929,244,8261
+-------------------------------------------------------[2024-07-19 03:47:09.211]
+
+SOURCE: AIR
+RX_ID: 13, Freq: 131.725MHz
+Mode: E NACKLabel: 16 Block ID: 3, Msg No: M15A
+Flight ID: P47578 REG: 5N-BVE
+
+
+Message content:-
+POSA1N43766E  4731,MTL    ,041200,400,MTL-22 ,041848,,-54, 56, 192,837
+-------------------------------------------------------[2024-07-19 04:13:00.837]
+
+SOURCE: AIR
+RX_ID: 14, Freq: 131.825MHz
+Mode: 2 NACKLabel: 16 Block ID: 5, Msg No: M79A
+Flight ID: AA0240 REG: N779AN
+
+
+Message content:-
+POSA1N44823E  4606,LERGA  ,042922,389,KOLON  ,045052,,-52, 55, 449,826
+-------------------------------------------------------[2024-07-19 04:36:45.020]
+
+SOURCE: AIR
+RX_ID: 15, Freq: 131.825MHz
+Mode: 2 NACKLabel: H1 Block ID: 7, Msg No: D07A
+Flight ID: AA0240 REG: N779AN
+
+
+Message content:-
+#DFBTRP KDFW LIRF 07  8 940   0  0 043641
+ 45.5922   2.3658390034286404820.0130.006 55.50 -98.09 48160-50 197OFF
+ 45.4559   2.9606389974280404810.0140.006 57.13-106.17 47520-53 197OFF
+ 45.2985   3.5323390024
+-------------------------------------------------------[2024-07-19 04:48:46.145]
+
+SOURCE: AIR
+RX_ID: 16, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 2, Msg No: D22C
+Flight ID: DL0028 REG: N842MH
+
+
+Message content:-
+#DFB
+N1 SPD          4076     4063
+HI STG PRESS    4350     4200
+INTERM PRESS1    3441     3430
+INTERM PRESS2    3095     3042
+STRUT OVHT     NRML      NRML
+DUCT PRESS       3300     2600
+P-COOL TEMP    
+-------------------------------------------------------[2024-07-19 05:02:10.795]
+
+SOURCE: AIR
+RX_ID: 17, Freq: 131.725MHz
+Mode: X NACKLabel: H1 Block ID: 3, Msg No: D22D
+Flight ID: DL0028 REG: N842MH
+
+
+Message content:-
+#DFB37650    37744
+PACK HX TEMP    35094    34875
+PACK FLOW       12159    12202
+WING ANTI ICE  OFF
+LT  ISO VLV    CLS
+RT  ISO VLV    CLS
+CTR ISO VLV    OPN
+
+TRIGGER CODE   0000
+
+STATUS WORDS  DW1  DW
+-------------------------------------------------------[2024-07-19 05:02:14.671]
+
